@@ -1,6 +1,6 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 
-const Header = ({ tagData = {}, gameData = {}, devData = {} }) => {
+const Header = ({ tagData, gameData, devData }) => {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState([]);
   const [isSearchVisible, setIsSearchVisible] = useState(false);
@@ -30,20 +30,26 @@ const Header = ({ tagData = {}, gameData = {}, devData = {} }) => {
     const results = [];
 
     for (let i in tagData) {
-      if (tagData[i].name.toLowerCase().includes(query.toLowerCase())) {
+      if (tagData[i]?.name?.toLowerCase().includes(query.toLowerCase())) {
+        if (!results.some((result) => result.type === 'game' && result.id === i)) {
         results.push({ type: 'tag', id: i });
+        }
       }
     }
 
     for (let i in gameData) {
       if (gameData[i].name.toLowerCase().includes(query.toLowerCase())) {
-        results.push({ type: 'game', id: i });
+        if (!results.some((result) => result.type === 'game' && result.id === i)) {
+          results.push({ type: 'game', id: i });
+        }
       }
     }
 
     for (let i in devData) {
       if (devData[i].name.toLowerCase().includes(query.toLowerCase())) {
-        results.push({ type: 'dev', id: i });
+        if (!results.some((result) => result.type === 'dev' && result.id === i)) {
+          results.push({ type: 'dev', id: i });
+        }
       }
     }
 
@@ -63,20 +69,24 @@ const Header = ({ tagData = {}, gameData = {}, devData = {} }) => {
   };
 
   return (
-    <div style={{
-      position: 'fixed',
-      width: '100%',
-      height: '60px',
-      backgroundColor: '#1E1F22',
-      fontSize: '20px',
-      zIndex: 10
-    }}>
+    <div
+      style={{
+        position: 'fixed',
+        width: '100%',
+        height: '60px',
+        backgroundColor: '#1E1F22',
+        fontSize: '20px',
+        zIndex: 10,
+      }}
+    >
       <a href="/" target="_self" style={{ color: '#F4F4F4' }}>
-        <div style={{
-          margin: '17px 0 17px 40px',
-          float: 'left',
-          width: '170px'
-        }}>
+        <div
+          style={{
+            margin: '17px 0 17px 40px',
+            float: 'left',
+            width: '170px',
+          }}
+        >
           <b>🐇 Playem.io</b>
         </div>
       </a>
@@ -98,7 +108,7 @@ const Header = ({ tagData = {}, gameData = {}, devData = {} }) => {
             border: 0,
             paddingLeft: '24px',
             background: '#2F3135',
-            color: '#FFF'
+            color: '#FFF',
           }}
         />
       </div>
@@ -116,7 +126,7 @@ const Header = ({ tagData = {}, gameData = {}, devData = {} }) => {
             width: '276px',
             background: '#212326',
             borderRadius: '16px',
-            padding: '12px 0'
+            padding: '12px 10px',
           }}
         >
           {searchResults.map((result) => {

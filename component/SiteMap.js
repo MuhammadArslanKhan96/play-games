@@ -1,38 +1,33 @@
-import { NextApiRequest, NextApiResponse } from 'next';
+import React from 'react';
 
-const generateSitemap = (gameData, tagData, devData) => {
-  return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>https://playem.io</loc>
-</url>
-${Object.keys(gameData)
-  .map((key) => `<url><loc>https://playem.io/app/${key}</loc></url>`)
-  .join('\n')}
-${Object.keys(tagData)
-  .map((key) => `<url><loc>https://playem.io/tag/${key}</loc></url>`)
-  .join('\n')}
-${Object.keys(devData)
-  .map((key) => `<url><loc>https://playem.io/dev/${key}</loc></url>`)
-  .join('\n')}
-</urlset>`;
-};
+const Sitemap = ({ gameData, tagData, devData }) => {
+  return (
+    <div style={{ backgroundColor: 'white', color: 'black'  }}>
+    <urlset xmlnsXsi="http://www.w3.org/2001/XMLSchema-instance" xsiSchemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://playem.io</loc>
+      </url>
 
-const Sitemap = async (req = NextApiRequest, res = NextApiResponse) => {
-  // Replace these with actual data fetching logic
-  const gameData = {}; // Fetch or import your gameData here
-  const tagData = {}; // Fetch or import your tagData here
-  const devData = {}; // Fetch or import your devData here
+      {Object.keys(gameData).map((i) => (
+        <url key={i}>
+          <loc>https://playem.io/app/{i}</loc>
+        </url>
+      ))}
 
-  const sitemap = generateSitemap(gameData, tagData, devData);
+      {Object.keys(tagData).map((i) => (
+        <url key={i}>
+          <loc>https://playem.io/tag/{i}</loc>
+        </url>
+      ))}
 
-  res.setHeader('Content-Type', 'application/xml');
-  res.write(sitemap);
-  res.end();
+      {Object.keys(devData).map((i) => (
+        <url key={i}>
+          <loc>https://playem.io/dev/{i}</loc>
+        </url>
+      ))}
+    </urlset>
+    </div>
+  );
 };
 
 export default Sitemap;

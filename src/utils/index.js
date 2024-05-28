@@ -6,18 +6,17 @@ if (getCookie("playHistory") != "")
 else var playHistory = ["minecraftclassic", "poki", "evoworldio", "evowarsio"];
 
 var displayedGames = {};
-export var updateLastPlayedList = function () { 
+export var updateLastPlayedList = async function (gameData) { 
   if (playHistory.length === 0) return;
 
   var content = "";
   for (let i in playHistory) {
-    if (!displayedGames[playHistory[i]]){
-    // content += createGameThumb(playHistory[i]);
-    displayedGames[playHistory[i]] = true;
-    }
+    // if (!displayedGames[playHistory[i]]){
+    content += await createGameThumb(playHistory[i], gameData);
+    // displayedGames[playHistory[i]] = true;
+    // }
   }
-
-  document.getElementById(`lastPlayedList`).innerHTML = content;
+ document.getElementById(`lastPlayedList`).innerHTML = content;
   document.getElementById(`lastPlayedTitle`).style.display = "block";
 };
 
@@ -33,22 +32,24 @@ export var updateGameList = async function (
 ) {
   if (!sortBy || !type || !name || !targetedDiv || !displayMode) return;
 
-  console.log('Parameters:', { sortBy, type, name, targetedDiv, displayMode, tagData, devData, gameData });
-
   let content = "";
   let sortedList = [];
   let title = "";
 
-  if (type === "tag") title = tagData[name]?.fullName;
-  else if (type === "dev") title = `By ${devData[name]?.name}`;
+
+  if (type === "tag" && tagData[name]) title = tagData[name]?.fullName;
+  else if (type === "dev" && devData[name]) title = `By ${devData[name]?.name}`;
+  else {
+    // Handle the case where tagData[name] or devData[name] does not exist
+    console.error(`Invalid name for type ${type}: ${name}`);
+    return;
+  }
 
   if (displayMode === "short") {
     content = `<div style="text-align:left"><h2 style="display:inline-block"><a href="/${type}/${name}" style="text-decoration:none">${title}</a></h2> <span style="font-size:14px;text-decoration:underline;cursor:pointer" onclick="window.open('/${type}/${name}','_self');">(More)</span></div>`;
   } else {
     content = `<h2>${title}</h2>`;
   }
-
-  console.log('Initial content:', content);
 
   // Draw Non-Sticky Games
   for (let item in gameData) {
@@ -63,8 +64,6 @@ export var updateGameList = async function (
     sortedList.push(temp);
   }
   sortedList.sort((a, b) => b.ratingValue - a.ratingValue);
-
-  console.log('Sorted non-sticky games:', sortedList);
 
   // Draw Sticky Games
   for (let item in gameData) {
@@ -83,10 +82,7 @@ export var updateGameList = async function (
     sortedList = sortedList.slice(0, 4);
   }
 
-  console.log("Final sorted list:", sortedList);
-
   for (let item of sortedList) {
-    console.log('Creating game thumb for item:', item.id);
     content += await createGameThumb(item.id, gameData);
     displayedGames[item.id] = true;
   }
@@ -101,9 +97,6 @@ export var updateGameList = async function (
 
 
 export var createGameThumb = async function (item, gameData) {
-    console.log('Item:', item);
-    console.log('Game Data:', gameData);
-  
     if (!gameData[item]) return "";
   
     var appLink = "/app/" + item;

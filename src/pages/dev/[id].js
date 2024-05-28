@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useRouter } from 'next/router';
 import AppPage from "../../../component/AppPage";
+import DevPage from "../../../component/DevPage";
 
 export default function App() {
   const router = useRouter();
@@ -42,7 +43,7 @@ export default function App() {
 
   return (
     <>
-      <AppPage gameData={gameData} tagData={tagData} devData={devData} params={{ id }} />
+      <DevPage devData={devData} gameData={gameData} tagData={tagData} id={ id } />
     </>
   );
 }

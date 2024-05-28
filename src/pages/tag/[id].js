@@ -42,7 +42,7 @@ export default function TagData() {
 
   return (
     <>
-      <TagPage  id={ id } tagData={tagData} />
+      <TagPage  id={ id } tagData={tagData} gameData={gameData} devData={devData} />
     </>
   );
 }

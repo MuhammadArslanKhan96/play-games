@@ -1,13 +1,20 @@
 import { updateGameList, updateLastPlayedList } from "@/utils";
 import Head from "next/head";
 import Script from "next/script";
-import { useEffect } from "react";
+import React, { useEffect, useState} from "react";
 
 const HomePage = ({ gameData, tagData, devData }) => {
+  const [loading, setLoading] = useState(true);
 
+
+  
     const getData = async () => {
 
-    updateLastPlayedList();
+      if(!Object.keys(tagData).length || !Object.keys(devData).length || !Object.keys(gameData).length) return;
+
+      console.log(gameData, tagData, devData)
+
+    updateLastPlayedList(gameData);
     updateGameList("rating", "dev", "playemio", "gameList1", "short", tagData, devData, gameData);
     updateGameList("rating", "tag", "iogames", "gameList2", "short", tagData, devData, gameData);
     updateGameList("rating", "tag", "fps", "gameList3", "short", tagData, devData, gameData);
@@ -16,10 +23,14 @@ const HomePage = ({ gameData, tagData, devData }) => {
     updateGameList("rating", "tag", "boardgames", "gameList6", "short", tagData, devData, gameData);
     updateGameList("rating", "tag", "productivity", "gameList7", "short", tagData, devData, gameData);
     updateGameList("rating", "tag", "animesites", "gameList8", "short", tagData, devData, gameData);
+    setLoading(false);
+
   };
 
   useEffect(() => {
-    getData();
+    if(typeof document !== 'undefined') {
+      getData();
+    }
   }, [gameData, tagData, devData]);
 
   return (
@@ -62,15 +73,15 @@ const HomePage = ({ gameData, tagData, devData }) => {
             style={{
               display: "inline-block",
               verticalAlign: "top",
+              marginTop: "60px",
               marginBottom: "50px",
               width: "80%",
             }}
           >
-            <h2 id="lastPlayedTitle" >
+            <h2 id="lastPlayedTitle" style={loading ? {display: "none"} : {display: "none"}}>
               Continue
             </h2>
             <div id="lastPlayedList"></div>
-
             <div id="gameList0"></div>
             <div id="gameList1"></div>
             <div id="gameList2"></div>
@@ -86,6 +97,7 @@ const HomePage = ({ gameData, tagData, devData }) => {
           </div>
         </center>
 
+        <div style={!loading ? {display: "none"} : {fontSize: "28px", fontWeight: "bold", display: "flex", justifyContent: "center", alignItems: "center" }}>Loading...</div>
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-QDV881PBPN"

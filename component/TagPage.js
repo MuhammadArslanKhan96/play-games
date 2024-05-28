@@ -2,23 +2,23 @@ import Head from 'next/head';
 import { useEffect } from 'react';
 import { updateGameList, updateLastPlayedList } from "@/utils";
 
-const TagPage = ({ id, tagData }) => {
+const TagPage = ({ id, tagData, gameData, devData }) => {
 
   useEffect(() => {
-    if (typeof window !== 'undefined' && tagData && tagData[id]) {
-      updateLastPlayedList();
-      updateGameList('rating', 'tag', id, 'gameList0', 'full', tagData);
-      if (tagData[id].similar) {
-        tagData[id].similar.forEach((similarTag, index) => {
-          if (similarTag === id) return;
-          const div = document.createElement('div');
-          div.id = `gameList${index + 1}`;
-          document.getElementById('gameList').appendChild(div);
-          updateGameList('rating', 'tag', similarTag, `gameList${index + 1}`, 'short');
-        });
-      }
+    if (typeof window !== 'undefined' && gameData && tagData && tagData[id]) {
+      updateLastPlayedList(gameData);
+      updateGameList("rating", "tag", id, "gameList", "full", tagData, devData, gameData);
+      // if (tagData[id].similar) {
+      //   tagData[id].similar.forEach((similarTag, index) => {
+      //     if (similarTag === id) return;
+      //     const div = document.createElement('div');
+      //     div.id = `gameList${index + 1}`;
+      //     document.getElementById('gameList').appendChild(div);
+      //     updateGameList('rating', 'tag', similarTag, `gameList${index + 1}`, 'short');
+      //   });
+      // }
     }
-  }, [id, tagData]);
+  }, [id, tagData, gameData, devData]);
 
 
   return (
@@ -49,9 +49,9 @@ const TagPage = ({ id, tagData }) => {
       </Head>
       <body>
         <center>
-          <div style={{ display: 'inline-block', verticalAlign: 'top', marginBottom: '50px', width: '80%' }}>
-            <h2 id="lastPlayedTitle" style={{ display: 'none' }}>Continue</h2>
-            <div id="lastPlayedList" style={{ textAlign: 'left' }}></div>
+          <div style={{ display: 'inline-block', verticalAlign: 'top', marginTop: '60px', marginBottom: '50px', width: '80%' }}>
+            <h2 id="lastPlayedTitle">Continue</h2>
+            <div id="lastPlayedList"></div>
             <div id="gameList0"></div>
             <div id="gameList"></div>
           </div>
