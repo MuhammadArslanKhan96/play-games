@@ -1,0 +1,2018 @@
+{
+    "games": {
+        "name": "Games",
+        "desc": "<p>Enjoy best games on Playem.io!</p>",
+        "fullName": "Games"
+    },
+    "2048games": {
+        "name": "2048 Games",
+        "desc": "<p>Enjoy all your favorite 2048-styled puzzles! Merge numbers to make them reach 2048 in various original scenarios. Use the page filter to find the newest and best 2048 games.</p>",
+        "fullName": "2048 Games"
+    },
+    "1playergames": {
+        "name": "1 Player Games",
+        "desc": "<p>Browse this selection of all the best 1 player games online! Find the newest and most popular 1 player games by using the list filters.</p>",
+        "fullName": "1 Player Games"
+    },
+    "2playergames": {
+        "name": "2 Player Games",
+        "desc": "None",
+        "fullName": "2 Player Games"
+    },
+    "2dgames": {
+        "name": "2D Games",
+        "fullName": "2D Games",
+        "desc": "This list collects all the best 2D games available on the Internet."
+    },
+    "3playergames": {
+        "name": "3 Player Games",
+        "desc": "<p>Browse the latest and greatest 3 player games at Playem.io! </p>",
+        "fullName": "3 Player Games"
+    },
+    "3dgames": {
+        "name": "3D Games",
+        "fullName": "3D Games",
+        "desc": "This list collects all the best 3D games available on the Internet."
+    },
+    "airplanegames": {
+        "name": "Airplane Games",
+        "desc": "Airports are a place of wonderment and busy action. With our airplane games, you can partake and have fun controlling and directing jets. In some challenges, you can fly through the sky, racing amongst the clouds and shooting down your enemies. If you prefer strategy challenges, take the helm as an air traffic controller. You’ll balance time and speed as you control dozens of planes, attempting to land all of them without a crash. Land as many planes as you can, and set a new high score! Or, get behind the throttles of a commercial plane and attempt to drive through airport runways.",
+        "fullName": "Airplane Games"
+    },
+    "aliengames": {
+        "name": "Alien Games",
+        "desc": "",
+        "fullName": "Alien Games"
+    },
+    "footballgames": {
+        "name": "Football Games",
+        "desc": "Challenge your friends to a game of pigskin! Our American Football games feature talented quarterbacks, tough linemen, and speedy running backs. You can play on real NFL teams, including the New England Patriots, Dallas Cowboys, and Chicago Bears. Go head-to-head on the gridiron against friends and other gamers around the world. You can throw long passes, run past the defensive line, and score touchdowns to win the Super Bowl!",
+        "fullName": "Football Games"
+    },
+    "animalgames": {
+        "name": "Animal Games",
+        "desc": "Airports are a place of wonderment and busy action. With our airplane games, you can partake and have fun controlling and directing jets. In some challenges, you can fly through the sky, racing amongst the clouds and shooting down your enemies. If you prefer strategy challenges, take the helm as an air traffic controller. You’ll balance time and speed as you control dozens of planes, attempting to land all of them without a crash. Land as many planes as you can, and set a new high score! Or, get behind the throttles of a commercial plane and attempt to drive through airport runways.",
+        "fullName": "Animal Games"
+    },
+    "animegames": {
+        "name": "Anime Games",
+        "desc": "Airports are a place of wonderment and busy action. With our airplane games, you can partake and have fun controlling and directing jets. In some challenges, you can fly through the sky, racing amongst the clouds and shooting down your enemies. If you prefer strategy challenges, take the helm as an air traffic controller. You’ll balance time and speed as you control dozens of planes, attempting to land all of them without a crash. Land as many planes as you can, and set a new high score! Or, get behind the throttles of a commercial plane and attempt to drive through airport runways.",
+        "fullName": "Anime Games"
+    },
+    "arcadegames": {
+        "name": "Arcade Games",
+        "fullName": "Arcade Games",
+        "desc": "This list collects all the best Arcade Games available on the Internet."
+    },
+    "archerygames": {
+        "name": "Archery Games",
+        "desc": "Our collection is an amalgam of the greatest arcade games ever made. We have older and brand new machines, from original Pong to 3D air hockey! In our challenging levels, you’ll experience exciting action and captivating gameplay. Play modern variations of Space Invaders and Bomberman, complete with authentic game sounds and graphics. Or, play updated Nintendo and Sega games, including Mario and Sonic the Hedgehog. All of your arcade desires are waiting to be fulfilled.",
+        "fullName": "Archery Games"
+    },
+    "arenagames": {
+        "name": "Arena Games",
+        "desc": "Enter the arena and compete against thousands of others in a variety of online battles! Our collection of arena games lets you battle your friends, strangers, or the computer!",
+        "fullName": "Arena Games"
+    },
+    "armygames": {
+        "name": "Army Games",
+        "desc": "Our collection is an amalgam of the greatest arcade games ever made. We have older and brand new machines, from original Pong to 3D air hockey! In our challenging levels, you’ll experience exciting action and captivating gameplay. Play modern variations of Space Invaders and Bomberman, complete with authentic game sounds and graphics. Or, play updated Nintendo and Sega games, including Mario and Sonic the Hedgehog. All of your arcade desires are waiting to be fulfilled.",
+        "fullName": "Army Games"
+    },
+    "artgames": {
+        "name": "Art Games",
+        "desc": "<p>Express your creative side in our range of free art games. You can play them online, no installs required!</p>",
+        "fullName": "Art Games"
+    },
+    "avoidgames": {
+        "name": "Avoid Games",
+        "desc": "",
+        "fullName": "Avoid Games"
+    },
+    "babygames": {
+        "name": "Baby Games",
+        "desc": "<p>Go googoo gaga baby mode in any of these cute baby games! Filter by top, most popular, and newest to find the best free baby games online!</p>",
+        "fullName": "Baby Games"
+    },
+    "badmintongames": {
+        "name": "Badminton Games",
+        "desc": "",
+        "fullName": "Badminton Games"
+    },
+    "ballgames": {
+        "name": "Ball Games",
+        "desc": "Compete against the best athletes in the world, and win grueling championship tournaments! Our ball games include every type of incredible sport, including football, basketball, and baseball. Now, you have the chance to play like Pelé in the World Cup! Or, pretend you're Michael Jordan, and score against the best NBA teams. Our baseball challenges include backyard games and home run derby competitions. Instead of simply watching sports on TV, you should play them right here!",
+        "fullName": "Ball Games"
+    },
+    "balloongames": {
+        "name": "Balloon Games",
+        "desc": "",
+        "fullName": "Balloon Games"
+    },
+    "barbiegames": {
+        "name": "Barbie Games",
+        "desc": "Make Barbie look like a fashion icon in these Barbie games! Style her makeup and choose the latest fashion trends for her newest adventures.",
+        "fullName": "Barbie Games"
+    },
+    "bartbontegames": {
+        "name": "Bart Bonte Games",
+        "desc": "",
+        "fullName": "Bart Bonte Games"
+    },
+    "baseballgames": {
+        "name": "Baseball Games",
+        "desc": "Fans of America's favorite pastime will love our collection of baseball games.  You can play realistic challenges, featuring accurate physics engines and tough gameplay.  Or, enter the arcade, and try to hit 500+ ft home runs in a wild home run derby!  Our baseball challenges are fun and unique, providing entertainment for little league fans and minor league wannabes.  Pitch a knuckleball, throw a 100 mph fastball, and show your opponent who the big league master really is!",
+        "fullName": "Baseball Games"
+    },
+    "basketballgames": {
+        "name": "Basketball Games",
+        "desc": "Sports fans will love our huge selection of basketball games. You can play quick arcade challenges or in-depth simulation challenges. Choose your favorite court, pick a player, and get ready to shoot some hoops! Our collection puts you in control of star NBA players, streetball athletes, and newbies. You’ll be challenged to make 3-pointers, score huge slam dunks, and beat your opponents in 4 quarters. Exciting sports challenges are waiting for you!",
+        "fullName": "Basketball Games"
+    },
+    "battlegames": {
+        "name": "Battle Games",
+        "desc": "<p>Battle Games - fight on hundreds of battlefields against monsters, tanks and more!</p>",
+        "fullName": "Battle Games"
+    },
+    "battleroyalegames": {
+        "name": "Battle Royale Games",
+        "desc": "Battle Royale Games have gained popularity over the past few years. Think of games like Fortnite, PUBG, Call of Duty Warzone, Free Fire, and many more. If you are a fan of those games, our Battle Royale Games is the place to be! We offer many different Battle Royale games for free and without any downloads. You can access the games in your browser.",
+        "fullName": "Battle Royale Games"
+    },
+    "battleshipgames": {
+        "name": "Battleship Games",
+        "desc": "None",
+        "fullName": "Battleship Games"
+    },
+    "bikegames": {
+        "name": "Bike Games",
+        "desc": "Our collection provides the ideal combination of action, speed, and strategy. You’ll need motorcycle control and precise decision-making skills in order to succeed; when you do, you’ll earn tons of points and new levels. We have plenty of bike games and hundreds of levels. Fans of trial bike action will feel right at home, with obstacles such as tires, shifting wood planks, and steep cliffs. If you can gather enough speed, perform tricks such as backflips and frontflips to earn even more points! With each level comes new challenges, stunts, and tricks.",
+        "fullName": "Bike Games"
+    },
+    "blockgames": {
+        "name": "Block Games",
+        "desc": "Playing with blocks is fun for all kinds of players and is still growing in popularity. Think of games like Roblox, Minecraft, and more. If you enjoy playing those games, our Block Games category is the place to be for you!",
+        "fullName": "Block Games"
+    },
+    "bloodygames": {
+        "name": "Bloody Games",
+        "desc": "Bloody Games - practice a little violence and get covered in blood and gore!",
+        "fullName": "Bloody Games"
+    },
+    "bmxgames": {
+        "name": "BMX Games",
+        "desc": "Our collection is an amalgam of the greatest arcade games ever made. We have older and brand new machines, from original Pong to 3D air hockey! In our challenging levels, you’ll experience exciting action and captivating gameplay. Play modern variations of Space Invaders and Bomberman, complete with authentic game sounds and graphics. Or, play updated Nintendo and Sega games, including Mario and Sonic the Hedgehog. All of your arcade desires are waiting to be fulfilled.",
+        "fullName": "BMX Games"
+    },
+    "boardgames": {
+        "name": "Board Games",
+        "fullName": "Board Games",
+        "desc": "This list collects all the best board games available on the Internet. Some of the most popular online board games are Chess.com and Board Game Arena. Board games are games where you mostly use brain to think of strategy or tactics to outplay your opponents."
+    },
+    "boatgames": {
+        "name": "Boat Games",
+        "desc": "Every great board game from your past is available for free in our collection! You can play all types of chess and checkers variations, including 3D and themed games. Turn classic cardboard pieces into animated, virtual characters! Enter a card tournament, and prove your skills at the high-limit tables. Try to outsmart your friends or the computer at any difficulty level. Play your favorite, retro games, or delve into uncharted gaming territory. Go head-to-head with smart AI, or crush your friends online.",
+        "fullName": "Boat Games"
+    },
+    "bombermangames": {
+        "name": "Bomberman Games",
+        "desc": "Bomberman Games - Play games based on this iconic retro arcade game!",
+        "fullName": "Bomberman Games"
+    },
+    "bowgames": {
+        "name": "Bow Games",
+        "desc": "",
+        "fullName": "Bow Games"
+    },
+    "bowlinggames": {
+        "name": "Bowling Games",
+        "desc": "Our bowling collection is great for advanced bowlers and casual fans. We have all types of lanes, ball sizes, and variations available for you. Compete with your friends, or challenge many levels of computer AI in a full match! You can set up at any angle within the lane, calculate the appropriate spin, and launch your ball to hit a strike. If you connect 3 strikes in a row, you can score a Turkey!  Both left- and right-handed players will have a blast scoring spares and strikes in our bowling games!",
+        "fullName": "Bowling Games"
+    },
+    "boxinggames": {
+        "name": "Boxing Games",
+        "desc": "Our boxing games feature fast action and realistic gameplay. Hit the ring with Ivan Drago from Rocky IV or champ Mike Tyson! But first, make sure your skills are up-to-par by training in one of our boxing challenges. Hit the speed bag, work on your combos, and practice against a punching bag before entering the ring. Once you’re really ready, join a tournament and fight your way through the ranks. Win enough matches, and you will be crowned as champion of the ring!",
+        "fullName": "Boxing Games"
+    },
+    "braingames": {
+        "name": "Brain Games",
+        "fullName": "Brain Games",
+        "desc": "This list collects all the best brain games available on the Internet."
+    },
+    "bubbleshootergames": {
+        "name": "Bubble Shooter Games",
+        "desc": "Challenge your intellect with our extensive collection of brain games! We offer a diverse array of mind-bending, brainteasing challenges that cater to every level of player. Immerse yourself in classic and contemporary puzzlers, ranging from variations of Windows' Minesweeper to specially-themed Memory games! Navigate through intricate mazes of varying difficulty levels, using your cognitive prowess to emerge victorious while staying one step ahead of the computer. Engage in modified versions of timeless favorites, and usher in the 21st century with an inexhaustible supply of brain games!",
+        "fullName": "Bubble Shooter Games"
+    },
+    "buildinggames": {
+        "name": "Building Games",
+        "fullName": "Building Games",
+        "desc": "This list collects all the best building games available on the Internet. Some of the most popular building games are Minecraft and Taming.io. Building games are games where you mostly can build and craft different constructions, buildings, items or equipments in a big world."
+    },
+    "busgames": {
+        "name": "Bus Games",
+        "desc": "Challenge your intellect with our extensive collection of brain games! We offer a diverse array of mind-bending, brainteasing challenges that cater to every level of player. Immerse yourself in classic and contemporary puzzlers, ranging from variations of Windows' Minesweeper to specially-themed Memory games! Navigate through intricate mazes of varying difficulty levels, using your cognitive prowess to emerge victorious while staying one step ahead of the computer. Engage in modified versions of timeless favorites, and usher in the 21st century with an inexhaustible supply of brain games!",
+        "fullName": "Bus Games"
+    },
+    "businessgames": {
+        "name": "Business Games",
+        "desc": "<p>Build a business empire and become a global mogul with our large collection of business games! All our games can run straight in your browser.</p>",
+        "fullName": "Business Games"
+    },
+    "cakegames": {
+        "name": "Cake Games",
+        "desc": "Challenge your intellect with our extensive collection of brain games! We offer a diverse array of mind-bending, brainteasing challenges that cater to every level of player. Immerse yourself in classic and contemporary puzzlers, ranging from variations of Windows' Minesweeper to specially-themed Memory games! Navigate through intricate mazes of varying difficulty levels, using your cognitive prowess to emerge victorious while staying one step ahead of the computer. Engage in modified versions of timeless favorites, and usher in the 21st century with an inexhaustible supply of brain games!",
+        "fullName": "Cake Games"
+    },
+    "candygames": {
+        "name": "Candy Games",
+        "desc": "<p>Satisfy your sweet tooth in our collection of free candy games! There are games like Candy Crush, Mahjong Candy, and more. You can sort these games by top, newest, and most played.</p>",
+        "fullName": "Candy Games"
+    },
+    "cannongames": {
+        "name": "Cannon Games",
+        "desc": "",
+        "fullName": "Cannon Games"
+    },
+    "cargames": {
+        "name": "Car Games",
+        "desc": "Whether you enjoy race cars, dune buggies, or motorcycles, we have the perfect car challenge for you. Go from 0 to 60 mph in mere seconds in one of our racing challenges, and try to set a new speed record. Or, choose an off-road vehicle and traverse over mountains, junkyards, and other exotic terrains. Even go through hundreds of options and customize your very own vehicle in our car games! After creating the ideal ride, take your racer on the road and challenge tough opponents. A full selection of go kart and parking challenges are included, too!",
+        "fullName": "Car Games"
+    },
+    "cardgames": {
+        "name": "Card Games",
+        "fullName": "Card Games",
+        "desc": "This list collects all the best card games available on the Internet."
+    },
+    "cartoongames": {
+        "name": "Cartoon Games",
+        "desc": "",
+        "fullName": "Cartoon Games"
+    },
+    "catgames": {
+        "name": "Cat Games",
+        "desc": "Our collection is guaranteed to have your favorite type of game. You can play all different types of poker variations, blackjack, and video poker in our challenging collection. Make a straight flush, bet high with four-of-a-kind, and bluff your opponents in our card games. You can play against computer and real opponents, deciding your fate at the casino. In many of our card adventures, you’ll go up against the house, trying to clean out the casino for all its worth! Get ready to wage your virtual cash and win millions!",
+        "fullName": "Cat Games"
+    },
+    "chessgames": {
+        "name": "Chess Games",
+        "fullName": "Chess Games",
+        "desc": "This list collects all the best chess games available on the Internet."
+    },
+    "christmasgames": {
+        "name": "Christmas Games",
+        "desc": "Ho Ho Ho, Santa Claus is coming to Poki and brought a lot of free online Christmas Games to play. You can play our Christmas games all year long. But, during the winter periods, our Christmas Category turns into a real winter wonderland. Keep your eyes opened, since your favorite games on Playem.io might receive Christmas updates.",
+        "fullName": "Christmas Games"
+    },
+    "classicgames": {
+        "name": "Classic Games",
+        "desc": "Step into the delightful world of classic games on Playem.io, where timeless fun meets modern play. This category is a treasure trove of all your favorite classics, designed to bring joy to players of every age. Dive into the strategic depths of Chess, where kings and queens dance in a timeless game of skill. Or, enjoy the simplicity of Tic Tac Toe, a game that turns ordinary Xs and Os into hours of fun.",
+        "fullName": "Classic Games"
+    },
+    "coopgames": {
+        "name": "Co-op Games",
+        "desc": "None",
+        "fullName": "Co-op Games"
+    },
+    "collectgames": {
+        "name": "Collect Games",
+        "desc": "",
+        "fullName": "Collect Games"
+    },
+    "colorgames": {
+        "name": "Color Games",
+        "desc": "Bring color to your life with our beautiful Color Games. Play colorful games, play games that are themed with a single color, or dominate the playing field with your favorite color! Color your favorite paintings or tattoos. Make your friends guess what you have colored or practice a little before showing others. We have puzzle games, logic games, drawing games, and many more in this trendy selection of games.",
+        "fullName": "Color Games"
+    },
+    "coloringgames": {
+        "name": "Coloring Games",
+        "desc": "<p>Bring images to life with an array of colors! Relax and make beautiful art in these free coloring games.</p>",
+        "fullName": "Coloring Games"
+    },
+    "connectgames": {
+        "name": "Connect Games",
+        "desc": "<p>Browse our collection of connect games and link anything from fruits to animals. Sort the list by top, newest, and most popular using the provided filters.</p>",
+        "fullName": "Connect Games"
+    },
+    "controllergames": {
+        "name": "Controller Games",
+        "desc": "<p>Plug in your controller of choice and hop into any of these controller-compatible games! You can play this collection of free web games using a game controller. You'll find everything from racing game thrills to action-packed adventures here.</p>",
+        "fullName": "Controller Games"
+    },
+    "cookinggames": {
+        "name": "Cooking Games",
+        "desc": "All of our cooking games are easy to learn and free to play. If you want to have fun in a colorful, fantasy kitchen and bake colorful goods, try one of our challenges. In you like to follow recipes and make realistic-looking, dinner dishes, we have several cooking challenges for you. Our selection covers a wide variety of genres, from action to puzzle to trivia! Work in a candy factory, bake pizzas in a pizza shop, or just have fun decorating ice cream. In several of our baking challenges, you can even take control of a virtual restaurant and act as head chef!",
+        "fullName": "Cooking Games"
+    },
+    "craftinggames": {
+        "name": "Crafting Games",
+        "desc": "Welcome to our cozy games, a special place filled with super cute and relaxing games. Here, every game is like a soft hug for your heart. We've picked out the most adorable games that are perfect for chilling out and having fun without any stress.",
+        "fullName": "Crafting Games"
+    },
+    "crashgames": {
+        "name": "Crash Games",
+        "desc": "",
+        "fullName": "Crash Games"
+    },
+    "cricketgames": {
+        "name": "Cricket Games",
+        "desc": "On Poki we have many free crazy games available. If you are looking for crazy games, this category contains a curated selection of the craziest games we could find. Don't play these game too many times, because you might go crazy!",
+        "fullName": "Cricket Games"
+    },
+    "crosswordgames": {
+        "name": "Crossword Games",
+        "desc": "<p>Expand your vocabulary and language skills in any of these free online crossword puzzles. You can find the latest and best crosswords by using the filters.</p>",
+        "fullName": "Crossword Games"
+    },
+    "cutegames": {
+        "name": "Cute Games",
+        "desc": "<p>Get all cutesy and cuddly in any of these free cute games! There's over 100 online cute games to satisfy your attachment to adorableness. Sort by most played and new using the filters.</p>",
+        "fullName": "Cute Games"
+    },
+    "dancegames": {
+        "name": "Dance Games",
+        "desc": "<p>Dance and have fun in these free dance games! Tap to the rhythm or pop some fresh moves on the dance floor - the choice is yours.</p>",
+        "fullName": "Dance Games"
+    },
+    "defensegames": {
+        "name": "Defense Games",
+        "desc": "",
+        "fullName": "Defense Games"
+    },
+    "dentistgames": {
+        "name": "Dentist Games",
+        "desc": "",
+        "fullName": "Dentist Games"
+    },
+    "destroygames": {
+        "name": "Destroy Games",
+        "desc": "",
+        "fullName": "Destroy Games"
+    },
+    "detectivegames": {
+        "name": "Detective Games",
+        "desc": "Detective Games - Follow in the footsteps of legends like Sherlock Holmes!",
+        "fullName": "Detective Games"
+    },
+    "difficultgames": {
+        "name": "Difficult Games",
+        "desc": "",
+        "fullName": "Difficult Games"
+    },
+    "dinosaurgames": {
+        "name": "Dinosaur Games",
+        "fullName": "Dinosaur Games",
+        "desc": "This list collects all the best online Dinosaur Games available on the Internet."
+    },
+    "dirtbikegames": {
+        "name": "Dirt Bike Games",
+        "desc": "Our dirt bike games feature tons of different motorcycles and riders. You can cruise on motocross vehicles from every engine class, each with unique decals and stats. Choose your favorite rider, or create a custom character to look just like you! Every game in our collection features fast, challenging action. We have riding courses and racing tournaments that send you around the world. Ride your motorbike on dirt, sand, stone, and snow!",
+        "fullName": "Dirt Bike Games"
+    },
+    "doctorgames": {
+        "name": "Doctor Games",
+        "desc": "Our doctor games put you right into the action at bustling hospitals. You can play games with cute nurses, manage a busy ER, and collect medical insurance bills. For an intense challenge, try having a steady hand and performing gut-wrenching surgery!  We have plenty of different surgery options available, from cartoon-style to realistic knee replacements. While playing our doctor challenges, you'll have fun and learn at the same time. The medical knowledge you'll gain is priceless!",
+        "fullName": "Doctor Games"
+    },
+    "doggames": {
+        "name": "Dog Games",
+        "desc": "Our doctor games put you right into the action at bustling hospitals. You can play games with cute nurses, manage a busy ER, and collect medical insurance bills. For an intense challenge, try having a steady hand and performing gut-wrenching surgery!  We have plenty of different surgery options available, from cartoon-style to realistic knee replacements. While playing our doctor challenges, you'll have fun and learn at the same time. The medical knowledge you'll gain is priceless!",
+        "fullName": "Dog Games"
+    },
+    "dolphingames": {
+        "name": "Dolphin Games",
+        "desc": "<p>Swim around as one of the most fascinating aquatic animals in these free online dolphin games!</p>",
+        "fullName": "Dolphin Games"
+    },
+    "draggames": {
+        "name": "Drag Games",
+        "desc": "",
+        "fullName": "Drag Games"
+    },
+    "dragongames": {
+        "name": "Dragon Games",
+        "desc": "Our doctor games put you right into the action at bustling hospitals. You can play games with cute nurses, manage a busy ER, and collect medical insurance bills. For an intense challenge, try having a steady hand and performing gut-wrenching surgery!  We have plenty of different surgery options available, from cartoon-style to realistic knee replacements. While playing our doctor challenges, you'll have fun and learn at the same time. The medical knowledge you'll gain is priceless!",
+        "fullName": "Dragon Games"
+    },
+    "drawinggames": {
+        "name": "Drawing Games",
+        "desc": "None",
+        "fullName": "Drawing Games"
+    },
+    "dressupgames": {
+        "name": "Dress Up Games",
+        "desc": "Have you ever wanted to give makeovers? Perhaps you love clothes and shopping for new outfits. Look no further than our giant collection of dress up adventures, which are here to suit all of your needs! Our dress up games features a wide range of clothing styles, from wedding to princess to emo. You’ll never run out of options when choosing clothes for beautiful, virtual characters. Make models even prettier and watch them walk down the runway! Our adventures have plenty of options to satisfy all of your wardrobe dreams.",
+        "fullName": "Dress Up Games"
+    },
+    "driftinggames": {
+        "name": "Drifting Games",
+        "desc": "None",
+        "fullName": "Drifting Games"
+    },
+    "dungeongames": {
+        "name": "Dungeon Games",
+        "desc": "Dungeon Games. Explore various spooky underground worlds, fight dangerous monsters, and collect loot!",
+        "fullName": "Dungeon Games"
+    },
+    "easygames": {
+        "name": "Easy Games",
+        "desc": "<p>Take it easy and have fun in any of these free, easy games on the web.</p>",
+        "fullName": "Easy Games"
+    },
+    "educationalgames": {
+        "name": "Educational Games",
+        "desc": "Our educational games turn learning into a fun, addictive experience. You can improve your skills by simply playing games! Learn all about counting in number challenges. Complete puzzling patterns and earn rewards for winning! We also have a wide variety of math challenges, which combine basic operations with special actions. Work on your addition, subtraction, multiplication, and division in a brand-new, totally fun way!",
+        "fullName": "Educational Games"
+    },
+    "escapegames": {
+        "name": "Escape Games",
+        "desc": "Our escape games feature tons of different adventures for all types of players.  If you prefer solo action, try one of our jailbreak games.  You can try to sneak out of your jail cell, break out of prison, and seek freedom!  Or, solve riddles, collect clues, and escape from various torture chambers.  Our collection will keep you guessing and solving mysteries for hours on end.  You'll feel like a real super sleuth, practicing the ability to use tools to break yourself out of any holding cell!",
+        "fullName": "Escape Games"
+    },
+    "farminggames": {
+        "name": "Farming Games",
+        "desc": "Build up your own farm, complete with crops and cattle, in this collection of farming-themed games. ",
+        "fullName": "Farming Games"
+    },
+    "fashiongames": {
+        "name": "Fashion Games",
+        "desc": "Our fashion games collection is designed for fashionistas and makeup-savvy players. You’ll have plenty of clothing, hair, and makeup options from which to choose, giving you thousands of different results. Choose a beautiful model, and dress them from head to toe in the clothes of your choice! Our levels put you in the chair of a fashion designer, giving you all of the opportunities that professional designers have. Dress up a stunning model in high-end clothing, and send them down the runway!",
+        "fullName": "Fashion Games"
+    },
+    "fightinggames": {
+        "name": "Fighting Games",
+        "desc": "All of our fighting games are loaded with fun and full of action. Depending which character you choose, you’ll have access to special punches, kicks, and weapons as you fight against plenty of opponents. Play as a hobo on the loose and run from the cops or fight other prisoners as you escape from jail! Wield the power of a ninja in one of our advanced fighting levels and unleash special powers on your enemies. Or, play as a classic video game character and fight as Wonder Woman or the fighter of your choice from the Street Fighter game series.",
+        "fullName": "Fighting Games"
+    },
+    "fireboyandwatergirlgames": {
+        "name": "Fireboy and Watergirl Games",
+        "desc": "Fireboy and Watergirl is the ultimate fire and water multiplayer game series. Browse this list for the latest Fireboy and Watergirl releases.",
+        "fullName": "Fireboy and Watergirl Games"
+    },
+    "fpsgames": {
+        "name": "FPS Games",
+        "desc": "<p>Pick your favorite weapon loadout and jump instantly into competitive online FPS games. You can sort these games by top, new, and most played using the filter.</p>",
+        "fullName": "FPS Games"
+    },
+    "fishinggames": {
+        "name": "Fishing Games",
+        "desc": "None",
+        "fullName": "Fishing Games"
+    },
+    "fivenightsatfreddysgames": {
+        "name": "Five Nights at Freddy's Games",
+        "desc": "",
+        "fullName": "Five Nights at Freddy's Games"
+    },
+    "flashgames": {
+        "name": "Flash Games",
+        "desc": "Are you searching for your favorite old web games? Are you having flashbacks? Do you miss the classics built in Flash? Look no further! We have compiled a category full of the best old Flash games, as well as the shiny new HTML5 versions of these said classics. This allows you to play the games without Flash. Sit back and enjoy all these entertaining titles reworked from the ground up!\n",
+        "fullName": "Flash Games"
+    },
+    "foodgames": {
+        "name": "Food Games",
+        "desc": "Casual chefs and wannabe bakers will love our collection of food games. We have all types of gourmet goods, including appetizers, main courses, and desserts. Each game showcases different aspects of being a chef. You can mix various ingredients to craft delicious items. Many games feature recipes that you may use in real life! Chop, measure, pour, and blend tasty vegetables and spices. Follow the baker's instructions perfectly for amazing results!",
+        "fullName": "Food Games"
+    },
+    "formula1games": {
+        "name": "Formula 1 Games",
+        "desc": "Drive at incredible speeds in our selection of F1 games!",
+        "fullName": "Formula 1 Games"
+    },
+    "frozengames": {
+        "name": "Frozen Games",
+        "desc": "",
+        "fullName": "Frozen Games"
+    },
+    "gangstergames": {
+        "name": "Gangster Games",
+        "desc": "",
+        "fullName": "Gangster Games"
+    },
+    "geographygames": {
+        "name": "Geography Games",
+        "desc": "Our vast collection of girl games is sure to entertain you. You can play any type of game, from simple dress-up to advanced dance competitions. Control cute characters and admirable women. Show off your extreme gaming skills, or relax with fashion-based games. For a romantic adventure, pick a cute date, and fall in love! Create outfits for celebrities, design dresses for dolls, or apply cute makeup. Fulfill your wildest shopping dreams without spending a penny.",
+        "fullName": "Geography Games"
+    },
+    "gladiatorgames": {
+        "name": "Gladiator Games",
+        "desc": "<p>Gladiator Games - Rise up above your competition and become a fighting legend!</p>",
+        "fullName": "Gladiator Games"
+    },
+    "goalkeepergames": {
+        "name": "Goalkeeper Games",
+        "desc": "",
+        "fullName": "Goalkeeper Games"
+    },
+    "golfgames": {
+        "name": "Golf Games",
+        "desc": "Our golf games offer many hours of 9- and 18-hole entertainment. You can choose from plenty of courses, which offer realistic holes and exciting challenges. Avoid deep sand traps, stay away from water hazards, and try to sink the final putt in the least amount of strokes possible! Our collection will test every aspect of your craft, from long drives to chips to putts. Practice your backswing, perfect your aim, and hit balls like Tiger Woods! Play any type of golf challenge, including match play, stroke play, and skins.",
+        "fullName": "Golf Games"
+    },
+    "grannygames": {
+        "name": "Granny Games",
+        "desc": "<p></p>",
+        "fullName": "Granny Games"
+    },
+    "gravitygames": {
+        "name": "Gravity Games",
+        "desc": "",
+        "fullName": "Gravity Games"
+    },
+    "growgames": {
+        "name": "Grow Games",
+        "desc": "",
+        "fullName": "Grow Games"
+    },
+    "gtagames": {
+        "name": "GTA Games",
+        "desc": "Our GTA games will put you right into the action of the best-selling video game series.  You can join a gang of street criminals, or enter a high-class Mafia crime ring.  The choice is yours, as our GTA collection features action based on the popular computer and console video game series.  Wreak havoc in Vice City,  kill enemy gang members, and live a life of crime.  High-octane Grand Theft Auto action is available right on your computer, completely for free.  Start stealing virtual cars today!",
+        "fullName": "GTA Games"
+    },
+    "gungames": {
+        "name": "Gun Games",
+        "desc": "None",
+        "fullName": "Gun Games"
+    },
+    "hairgames": {
+        "name": "Hair Games",
+        "desc": "None",
+        "fullName": "Hair Games"
+    },
+    "halloweengames": {
+        "name": "Halloween Games",
+        "desc": "If Autumn is your favorite time of year, you'll love our collection of online Halloween games. You'll hear the leaves rustling, see carved pumpkins, and enjoy all of the great themes of October. You can dress up for Trick or Treating, decorate your food, and escape from haunted creatures! Our Halloween collection features all of your favorite All Hallows' Eve characters, including ghosts, zombies, ghouls, witches, and Frankenstein! Try not to get too scared, and prepare for a night of dark fun! In our free Halloween Games, you can escape from haunted houses, fight with zombies, and freak out your friends! Our Halloween games are great year-round, providing that Fall feeling holiday fans love. All kinds of players can have fun with our Halloween-themed dress-ups, preparing you for the big night. Choose from tons of props, including bat wings, dresses, fun outfits, and different hairstyles. By picking the best outfit, you might even get ideas of how to dress up for this year's holiday!",
+        "fullName": "Halloween Games"
+    },
+    "helicoptergames": {
+        "name": "Helicopter Games",
+        "desc": "Our helicopter games allow you to jump into the cockpit and fly the helicopters.",
+        "fullName": "Helicopter Games"
+    },
+    "henrystickmingames": {
+        "name": "Henry Stickmin Games",
+        "desc": "Henry Stickmin games is a series of point-and-click games created by Marcus Bromander, better known as PuffballsUnited. Every Stickmin game follows Henry Stickman (and his girlfriend Ellie) on a dangerous adventure where the player is in charge of the events and endings.",
+        "fullName": "Henry Stickmin Games"
+    },
+    "herogames": {
+        "name": "Hero Games",
+        "desc": "",
+        "fullName": "Hero Games"
+    },
+    "hiddenobjectgames": {
+        "name": "Hidden Object Games",
+        "desc": "None",
+        "fullName": "Hidden Object Games"
+    },
+    "hockeygames": {
+        "name": "Hockey Games",
+        "desc": "None",
+        "fullName": "Hockey Games"
+    },
+    "hordesurvivalgames": {
+        "name": "Horde Survival Games",
+        "desc": "",
+        "fullName": "Horde Survival Games"
+    },
+    "horrorgames": {
+        "name": "Horror Games",
+        "fullName": "Horror Games",
+        "desc": "This list collects all the best Horror Games available on the Internet."
+    },
+    "horsegames": {
+        "name": "Horse Games",
+        "desc": "None",
+        "fullName": "Horse Games"
+    },
+    "hospitalgames": {
+        "name": "Hospital Games",
+        "desc": "Our hospital games are great for medical enthusiasts, doctor lovers, and other gamers. We have adventures for all kinds of players! You will enjoy cartoon-themed maternity ward games where you can work in a nursery and take care of newborn babies. Or jump into more adult adventures and enjoy our realistic, more challenging hospital games. In these games, you can perform realistic surgeries, and follow instructions to become a knowledgeable surgeon. Dress-up a nurse, re-align broken bones, and help out your patients today!",
+        "fullName": "Hospital Games"
+    },
+    "funnygames": {
+        "name": "Funny Games",
+        "desc": "Our collection features all types of gameplay styles, from action to arcade to strategy. You’ll be able to play as a wide variety of characters, all of which are sure to make you laugh and have a great time. Play pranks on your opponents, make your enemies explode, and engage in all sorts of hilarious action! Our funny games provide some of the most joyful, entertaining, and laugh-filled fun you’ll ever have! And, every adventure in our comedy collection is completely free to play!",
+        "fullName": "Funny Games"
+    },
+    "huntinggames": {
+        "name": "Hunting Games",
+        "desc": "Our hospital games are great for medical enthusiasts, doctor lovers, and other gamers. We have adventures for all kinds of players! You will enjoy cartoon-themed maternity ward games where you can work in a nursery and take care of newborn babies. Or jump into more adult adventures and enjoy our realistic, more challenging hospital games. In these games, you can perform realistic surgeries, and follow instructions to become a knowledgeable surgeon. Dress-up a nurse, re-align broken bones, and help out your patients today!",
+        "fullName": "Hunting Games"
+    },
+    "gamerinagames": {
+        "name": "Gamerina Games",
+        "desc": "",
+        "fullName": "Gamerina Games"
+    },
+    "idlegames": {
+        "name": "Idle Games",
+        "fullName": "Idle Games",
+        "desc": "This list collects all the best Idle Games available on the Internet."
+    },
+    "incrementalgames": {
+        "name": "Incremental Games",
+        "desc": "",
+        "fullName": "Incremental Games"
+    },
+    "japanesegames": {
+        "name": "Japanese Games",
+        "desc": "",
+        "fullName": "Japanese Games"
+    },
+    "jewelgames": {
+        "name": "Jewel Games",
+        "desc": "Browse our collection of free jewel games and become entranced by the precious gems, colors and music! You can sort the jewel games by top, newest, and most played using the filter.",
+        "fullName": "Jewel Games"
+    },
+    "jigsawgames": {
+        "name": "Jigsaw Games",
+        "desc": "Browse our jigsaw games to find various puzzles covering cities, pets, nature and everything else. You can play these jigsaw games in your web browser for free. ",
+        "fullName": "Jigsaw Games"
+    },
+    "jumpscaregames": {
+        "name": "Jump Scare Games",
+        "desc": "Browse our collection of jump scare games and find something that gives you, or your unsuspecting friends, a shock!",
+        "fullName": "Jump Scare Games"
+    },
+    "jumpinggames": {
+        "name": "Jumping Games",
+        "desc": "",
+        "fullName": "Jumping Games"
+    },
+    "kartgames": {
+        "name": "Kart Games",
+        "desc": "",
+        "fullName": "Kart Games"
+    },
+    "killinggames": {
+        "name": "Killing Games",
+        "desc": "",
+        "fullName": "Killing Games"
+    },
+    "kogamagames": {
+        "name": "Kogama Games",
+        "desc": "",
+        "fullName": "Kogama Games"
+    },
+    "launchgames": {
+        "name": "Launch Games",
+        "desc": "",
+        "fullName": "Launch Games"
+    },
+    "logicgames": {
+        "name": "Logic Games",
+        "desc": "Play our collection of typing games and two-player games that can be played using a single keyboard! Play collaborative multiplayer titles like Duo Survival and ZOOM-BE, battle locally against your friends in Minibattles or Football Masters. There are also fast-paced word typing games such as Fast Typer 3, action-packed Typing Fighter, and even rhythm games like Friday Night Funkin'!",
+        "fullName": "Logic Games"
+    },
+    "lolgames": {
+        "name": "Lol Games",
+        "desc": "",
+        "fullName": "Lol Games"
+    },
+    "lovegames": {
+        "name": "Love Games",
+        "desc": "Play our collection of typing games and two-player games that can be played using a single keyboard! Play collaborative multiplayer titles like Duo Survival and ZOOM-BE, battle locally against your friends in Minibattles or Football Masters. There are also fast-paced word typing games such as Fast Typer 3, action-packed Typing Fighter, and even rhythm games like Friday Night Funkin'!",
+        "fullName": "Love Games"
+    },
+    "mafiagames": {
+        "name": "Mafia Games",
+        "desc": "",
+        "fullName": "Mafia Games"
+    },
+    "magicgames": {
+        "name": "Magic Games",
+        "desc": "None",
+        "fullName": "Magic Games"
+    },
+    "mahjonggames": {
+        "name": "Mahjong Games",
+        "desc": "Mahjong games are a great way to have fun while exercising your brain. We have a large selection, which contain variations for every player. From traditional Mahjong to colorful, 3D challenges, you can always play a refreshing version of the classic Chinese game. We have special challenges for all kinds of players, including Snow White and classic Looney Tunes themes. You can even find a variation for any season, as we have special holiday-themed tiles. The possibilities are truly endless!",
+        "fullName": "Mahjong Games"
+    },
+    "makeupgames": {
+        "name": "Make Up Games",
+        "desc": "Wearing different types of beauty products and trying on different shades doesn’t cost any money in our make up games. Make beautiful models even prettier with high-class eyeshadow, eyeliner, and mascara. If you’re feeling adventurous, our make up challenges will allow you to dress your models with fake eyelashes and glitter, too! After finding the perfect products for the eyes and face, dip into hairstyling fashion and try different hairstyles on your models. Our collection features a full array of hair styles, cuts, and colors.",
+        "fullName": "Make Up Games"
+    },
+    "managementgames": {
+        "name": "Management Games",
+        "desc": "Our makeover games are perfect for all kinds of players who want to look fashionable. You can go shopping, dress up cartoon people, and apply makeup to celebrities in our collection. Choose between many colors of blush, eyeliner, and hair! In our make over challenges, you can select from dozens of beautiful hairstyles, and even try on wigs! Our collection includes special character themes, including summer beachwear, Valentine’s Day, and Mommy Makeovers. After playing, you’ll feel like a professional stylist!",
+        "fullName": "Management Games"
+    },
+    "mariogames": {
+        "name": "Mario Games",
+        "desc": "<p>Here you’ll find a collection of the best Mario games you can play for free in your web browser. Enjoy the classic 2D Mario platformer or jump into exciting 3D Mario games. Find the newest Mario games using the game list filters.</p>",
+        "fullName": "Mario Games"
+    },
+    "match3games": {
+        "name": "Match 3 Games",
+        "desc": "Our makeover games are perfect for all kinds of players who want to look fashionable. You can go shopping, dress up cartoon people, and apply makeup to celebrities in our collection. Choose between many colors of blush, eyeliner, and hair! In our make over challenges, you can select from dozens of beautiful hairstyles, and even try on wigs! Our collection includes special character themes, including summer beachwear, Valentine’s Day, and Mommy Makeovers. After playing, you’ll feel like a professional stylist!",
+        "fullName": "Match 3 Games"
+    },
+    "mathgames": {
+        "name": "Math Games",
+        "desc": "Our makeover games are perfect for all kinds of players who want to look fashionable. You can go shopping, dress up cartoon people, and apply makeup to celebrities in our collection. Choose between many colors of blush, eyeliner, and hair! In our make over challenges, you can select from dozens of beautiful hairstyles, and even try on wigs! Our collection includes special character themes, including summer beachwear, Valentine’s Day, and Mommy Makeovers. After playing, you’ll feel like a professional stylist!",
+        "fullName": "Math Games"
+    },
+    "mazegames": {
+        "name": "Maze Games",
+        "desc": "Our makeover games are perfect for all kinds of players who want to look fashionable. You can go shopping, dress up cartoon people, and apply makeup to celebrities in our collection. Choose between many colors of blush, eyeliner, and hair! In our make over challenges, you can select from dozens of beautiful hairstyles, and even try on wigs! Our collection includes special character themes, including summer beachwear, Valentine’s Day, and Mommy Makeovers. After playing, you’ll feel like a professional stylist!",
+        "fullName": "Maze Games"
+    },
+    "medievalgames": {
+        "name": "Medieval Games",
+        "desc": "",
+        "fullName": "Medieval Games"
+    },
+    "memegames": {
+        "name": "Meme Games",
+        "desc": "",
+        "fullName": "Meme Games"
+    },
+    "memorygames": {
+        "name": "Memory Games",
+        "desc": "Play any of these games to improve your memory! This curated selection of free online memory games features various titles that prompt you to memorize patterns and remember places.",
+        "fullName": "Memory Games"
+    },
+    "mergegames": {
+        "name": "Merge Games",
+        "desc": "A whole new kind of adventure awaits you! Check out our collection of Merge games that feature a world where you are a digital hoarder and improver. Reach higher levels by combining two of the same item and unlock newer, more powerful and shinier ones. This is the only category where you will find so many different types of visuals that make you feel good, and enjoy the satisfaction of getting better at something.",
+        "fullName": "Merge Games"
+    },
+    "minecraftgames": {
+        "name": "Minecraft Games",
+        "desc": "A whole new kind of adventure awaits you! Check out our collection of Merge games that feature a world where you are a digital hoarder and improver. Reach higher levels by combining two of the same item and unlock newer, more powerful and shinier ones. This is the only category where you will find so many different types of visuals that make you feel good, and enjoy the satisfaction of getting better at something.",
+        "fullName": "Minecraft Games"
+    },
+    "minigamesgames": {
+        "name": "Minigames Games",
+        "desc": "<p>Got 5 minutes to play some free minigames? Reach your highest score yet then get back to whatever it is you were doing before!</p>",
+        "fullName": "Minigames Games"
+    },
+    "mininggames": {
+        "name": "Mining Games",
+        "desc": "",
+        "fullName": "Mining Games"
+    },
+    "missiongames": {
+        "name": "Mission Games",
+        "desc": "",
+        "fullName": "Mission Games"
+    },
+    "mmogames": {
+        "name": "MMO Games",
+        "fullName": "MMO Games",
+        "desc": "This list collects all the best MMO Games available on the Internet."
+    },
+    "monkeygames": {
+        "name": "Monkey Games",
+        "desc": "None",
+        "fullName": "Monkey Games"
+    },
+    "monstergames": {
+        "name": "Monster Games",
+        "desc": "None",
+        "fullName": "Monster Games"
+    },
+    "monstertruckgames": {
+        "name": "Monster Truck Games",
+        "desc": "Our monster truck games provide fast-paced and high-octane fun for all kinds of players. You can get behind the wheel of a monstrous vehicle, and feel the horsepower underneath the engine. In our monster truck challenges, you can choose between dozens of different vehicles to drive. Select your favorite truck color, decals, and wheels, and get ready to go! We have plenty of challenging courses, big ramps, and tough obstacles. Our collection will have you plowing through levels and earning thousands of points!",
+        "fullName": "Monster Truck Games"
+    },
+    "mousegames": {
+        "name": "Mouse Games",
+        "desc": "None",
+        "fullName": "Mouse Games"
+    },
+    "multiplayergames": {
+        "name": "Multiplayer Games",
+        "desc": "Our multiplayer games will connect you with other players around the world, completely for free. We have a wide selection of multiplayer challenges, all of which are fun to play and based upon live action. Don’t worry about AI or finding a partner with which to play; our games will place you in a virtual world with tons of opponents! We have fighting, action, and exploration games based entirely in virtual environments. Choose your avatar, hone your skills, and compete with others around the world!",
+        "fullName": "Multiplayer Games"
+    },
+    "musicgames": {
+        "name": "Music Games",
+        "desc": "Our multiplayer games will connect you with other players around the world, completely for free. We have a wide selection of multiplayer challenges, all of which are fun to play and based upon live action. Don’t worry about AI or finding a partner with which to play; our games will place you in a virtual world with tons of opponents! We have fighting, action, and exploration games based entirely in virtual environments. Choose your avatar, hone your skills, and compete with others around the world!",
+        "fullName": "Music Games"
+    },
+    "mysterygames": {
+        "name": "Mystery Games",
+        "desc": "",
+        "fullName": "Mystery Games"
+    },
+    "ninjagames": {
+        "name": "Ninja Games",
+        "desc": "Wield hardcore weapons, and unleash your powers in one of our ninja games. Accept traditional fighting challenges, or flip your way through 2D side-scrolling games. With so many challenges available, you’ll be having new adventures for many hours to come. We have ninja levels for all kinds of players, showcasing cartoon graphics and gruesome visuals alike. Use swords, nunchucks, and even chainsaws as you defeat your mortal enemies. Attack in the middle of the night, and attack via stealth like a true warrior!",
+        "fullName": "Ninja Games"
+    },
+    "obstaclegames": {
+        "name": "Obstacle Games",
+        "desc": "",
+        "fullName": "Obstacle Games"
+    },
+    "onebuttongames": {
+        "name": "One Button Games",
+        "desc": "",
+        "fullName": "One Button Games"
+    },
+    "pandagames": {
+        "name": "Panda Games",
+        "desc": "",
+        "fullName": "Panda Games"
+    },
+    "papasgames": {
+        "name": "Papa's Games",
+        "desc": "Our tasty collection of Papa's games, which can now be played without flash, is filled with the most exciting management challenges in the world. We have every one of Papa Louie's restaurants, bakeries, and food stands, including his taco shop, salad stall, and pizzeria. You can choose one of the current workers, or create your own character from scratch. Make the fast food expert look like yourself, or design a totally wild person. Whoever he or she is, they must be able to fill orders quickly! Currently, we are working to get all Papa's Games running with no flash needed.",
+        "fullName": "Papa's Games"
+    },
+    "parkinggames": {
+        "name": "Parking Games",
+        "desc": "Our tasty collection of Papa's games, which can now be played without flash, is filled with the most exciting management challenges in the world. We have every one of Papa Louie's restaurants, bakeries, and food stands, including his taco shop, salad stall, and pizzeria. You can choose one of the current workers, or create your own character from scratch. Make the fast food expert look like yourself, or design a totally wild person. Whoever he or she is, they must be able to fill orders quickly! Currently, we are working to get all Papa's Games running with no flash needed.",
+        "fullName": "Parking Games"
+    },
+    "parkourgames": {
+        "name": "Parkour Games",
+        "desc": "Our tasty collection of Papa's games, which can now be played without flash, is filled with the most exciting management challenges in the world. We have every one of Papa Louie's restaurants, bakeries, and food stands, including his taco shop, salad stall, and pizzeria. You can choose one of the current workers, or create your own character from scratch. Make the fast food expert look like yourself, or design a totally wild person. Whoever he or she is, they must be able to fill orders quickly! Currently, we are working to get all Papa's Games running with no flash needed.",
+        "fullName": "Parkour Games"
+    },
+    "penaltygames": {
+        "name": "Penalty Games",
+        "desc": "The party games section on Playem.io.com is a laughter-packed playground, perfect for you and your friends! Filled with mini-games, it's the ultimate spot for fun, memes, and more. Imagine creating your own memes or playing 'Draw and Guess' – where you sketch, laugh, and try to guess each other's wacky drawings. It's easy to play and super entertaining.",
+        "fullName": "Penalty Games"
+    },
+    "penguingames": {
+        "name": "Penguin Games",
+        "desc": "Cause all sorts of mischief on the frozen continent of Antarctica! Our penguin games put you in control of flightless, black-and-white birds. Walk through the snow and across the ice. We have popular series and completely unique titles with frigid action. Skate across an icy restaurant to serve hungry patrons. Fans of flying adventures can learn their penguin to fly!",
+        "fullName": "Penguin Games"
+    },
+    "petgames": {
+        "name": "Pet Games",
+        "desc": "",
+        "fullName": "Pet Games"
+    },
+    "phasergames": {
+        "name": "Phaser Games",
+        "desc": "",
+        "fullName": "Phaser Games"
+    },
+    "physicsgames": {
+        "name": "Physics Games",
+        "desc": "Cause all sorts of mischief on the frozen continent of Antarctica! Our penguin games put you in control of flightless, black-and-white birds. Walk through the snow and across the ice. We have popular series and completely unique titles with frigid action. Skate across an icy restaurant to serve hungry patrons. Fans of flying adventures can learn their penguin to fly!",
+        "fullName": "Physics Games"
+    },
+    "pianogames": {
+        "name": "Piano Games",
+        "desc": "<p>Get behind the keys and play us a song! Play these free piano games in your web browser and practice your musical abilities.</p>",
+        "fullName": "Piano Games"
+    },
+    "pinballgames": {
+        "name": "Pinball Games",
+        "desc": "",
+        "fullName": "Pinball Games"
+    },
+    "pirategames": {
+        "name": "Pirate Games",
+        "desc": "Now you can own the seas without breaking the law, in one of our pirate games. Hop aboard a pirate ship, and take an exciting trip on the ocean! We have many challenging levels which feature tons of different adventures. You can conquer enemies one-on-one, or engage in full-out sea war! Take control of a peg-legged commander and show off your sword fighting skills; or, get behind a cannonball and unleash the fury! The colorful graphics, realistic controls, and exciting action will keep you entertained for hours!",
+        "fullName": "Pirate Games"
+    },
+    "pixelgames": {
+        "name": "Pixel Games",
+        "desc": "",
+        "fullName": "Pixel Games"
+    },
+    "platformgames": {
+        "name": "Platform Games",
+        "fullName": "Platform Games",
+        "desc": "This list collects all the best Platform Games available on the Internet."
+    },
+    "pointandclickgames": {
+        "name": "Point and Click Games",
+        "desc": "Our collection has every platform game you could imagine. Play fighting or strategic challenges, and much more, all for free! We have classic and modern action, including entire series of games. Play Castle Cat 1, 2, 3, and 4, all Wiggi games, and the entire Rolling Hero collection! Our platform collection will keep you entertained for weeks and weeks, with tens of thousands of levels available! Get ready to jump, fight, and run to the top of the leaderboards!",
+        "fullName": "Point and Click Games"
+    },
+    "pokemongames": {
+        "name": "Pokemon Games",
+        "desc": "<p>Pokemon - Gotta catch em' all! Play Pokemon games for free in your web browser - no download required. </p>",
+        "fullName": "Pokemon Games"
+    },
+    "policegames": {
+        "name": "Police Games",
+        "desc": "Being an officer of the law is out of reach no longer; with our police games, you can experience the action of a cop from the safety of your own home. Put on a SWAT helmet, strap into a bulletproof vest, and wield a weapon in one of our adventures. You can even drive an exotic sport cop car, or fly a helicopter through dangerous cities. Our levels will provide you with action-packed, high-tension cop challenges. Select your favorite cop weapon, and defend against evil in our crime-fighting adventures!",
+        "fullName": "Police Games"
+    },
+    "poolgames": {
+        "name": "Pool Games",
+        "desc": "Being an officer of the law is out of reach no longer; with our police games, you can experience the action of a cop from the safety of your own home. Put on a SWAT helmet, strap into a bulletproof vest, and wield a weapon in one of our adventures. You can even drive an exotic sport cop car, or fly a helicopter through dangerous cities. Our levels will provide you with action-packed, high-tension cop challenges. Select your favorite cop weapon, and defend against evil in our crime-fighting adventures!",
+        "fullName": "Pool Games"
+    },
+    "princessgames": {
+        "name": "Princess Games",
+        "desc": "None",
+        "fullName": "Princess Games"
+    },
+    "quizgames": {
+        "name": "Quiz Games",
+        "desc": "Our quiz games put the fun into learning. Your knowledge will be tested regarding a variety of subjects, including geography, cultures, and cartoons. Well-traveled players will love showcasing their map skills in every continent. Answer questions about international borders and capitals to score points and advance. If you get stuck, certain games allow hints and retries. The objective is always to earn a perfect score. Play again and again to achieve a 100% rating!",
+        "fullName": "Quiz Games"
+    },
+    "racinggames": {
+        "name": "Racing Games",
+        "desc": "None",
+        "fullName": "Racing Games"
+    },
+    "ragdollgames": {
+        "name": "Ragdoll Games",
+        "desc": "Ragdoll physics is an integral part of thousands of games. Now, you can harness their power in one of our ragdoll games! Play with physics engines, modify gravity, and fling characters through the air. Our exciting levels feature high-flying action and hilarious stickman violence. You control what happens, so the level of damage you inflict is up to you! Our collection will challenge you to fly through the air, dive into obstacles, and score big points. The more damage and the higher you fly, the more points you’ll get!",
+        "fullName": "Ragdoll Games"
+    },
+    "rallygames": {
+        "name": "Rally Games",
+        "desc": "Test your driving skills to the limit with these superb rally games!",
+        "fullName": "Rally Games"
+    },
+    "relaxinggames": {
+        "name": "Relaxing Games",
+        "desc": "",
+        "fullName": "Relaxing Games"
+    },
+    "restaurantgames": {
+        "name": "Restaurant Games",
+        "desc": "Ragdoll physics is an integral part of thousands of games. Now, you can harness their power in one of our ragdoll games! Play with physics engines, modify gravity, and fling characters through the air. Our exciting levels feature high-flying action and hilarious stickman violence. You control what happens, so the level of damage you inflict is up to you! Our collection will challenge you to fly through the air, dive into obstacles, and score big points. The more damage and the higher you fly, the more points you’ll get!",
+        "fullName": "Restaurant Games"
+    },
+    "robotgames": {
+        "name": "Robot Games",
+        "desc": "Our collection is perfect for bot enthusiasts and newbies alike. You can build from a variety of materials, constructing the perfect machine to compete with opponents. Use saw blades, chainsaws, and high-powered rifles to destroy your enemies! Our robot games are the ultimate solution for your droid-bot gaming needs. Play with monsters, metal dogs, and a plethora of other robot shapes. Head into battle and fight with your very own machine today!",
+        "fullName": "Robot Games"
+    },
+    "rocketgames": {
+        "name": "Rocket Games",
+        "desc": "",
+        "fullName": "Rocket Games"
+    },
+    "roguelikegames": {
+        "name": "Roguelike Games",
+        "desc": "<p>Hack and slash your way through these epic free roguelike games! No download required. Use the page filter to sort the games by popularity and freshness.</p>",
+        "fullName": "Roguelike Games"
+    },
+    "rollercoastergames": {
+        "name": "Rollercoaster Games",
+        "desc": "",
+        "fullName": "Rollercoaster Games"
+    },
+    "rpggames": {
+        "name": "RPG Games",
+        "desc": "All of our RPG games are free to play and feature exciting gaming action. You can play as a variety of animated characters, from epic fighters to mafia members to fairy tale wizards. Our RPG collection puts you in mystical environments with familiar players, including Megaman, Hansel and Gretel, and more. You can use many dangerous weapons and cast powerful spells on your opponents. Assemble an army, develop your strategy, and prepare for battle against threatening enemies!",
+        "fullName": "RPG Games"
+    },
+    "runninggames": {
+        "name": "Running Games",
+        "desc": "Experience fantasy lands at top speeds with our collection of running games! Each challenge puts obstacles in your path. The missions and environment change with each story. Flee from a wolf disguised as your grandma, or clean up the village streets as fast as possible. You can pick up items and coins for points, and execute flips and combos for bonus rewards. Whether you run for fun or survival, your adrenaline will be pumping!",
+        "fullName": "Running Games"
+    },
+    "sandboxgames": {
+        "name": "Sandbox Games",
+        "desc": "",
+        "fullName": "Sandbox Games"
+    },
+    "scarygames": {
+        "name": "Scary Games",
+        "desc": "None",
+        "fullName": "Scary Games"
+    },
+    "sciencegames": {
+        "name": "Science Games",
+        "desc": "",
+        "fullName": "Science Games"
+    },
+    "scratchgames": {
+        "name": "Scratch Games",
+        "desc": "",
+        "fullName": "Scratch Games"
+    },
+    "sharkgames": {
+        "name": "Shark Games",
+        "desc": "",
+        "fullName": "Shark Games"
+    },
+    "shopgames": {
+        "name": "Shop Games",
+        "desc": "",
+        "fullName": "Shop Games"
+    },
+    "sidescrollinggames": {
+        "name": "Side Scrolling Games",
+        "desc": "",
+        "fullName": "Side Scrolling Games"
+    },
+    "simulationgames": {
+        "name": "Simulation Games",
+        "desc": "Expensive video game consoles aren’t the only place to play marksmanship games. Our collection of shooting games are all free to play and available right now, on your computer. Play as a variety of marksmen in tons of environments, sneaking through levels and firing at any enemies in your path. Create classes with all kinds of different guns. Play as a futuristic assassin with ultra-modern weapons or go back in time and re-live the Doom game series. In our shooting challenges, you can holster your weapon as a solo player or unleash ammo as a member of a multiplayer task force. The possibilities are endless.",
+        "fullName": "Simulation Games"
+    },
+    "skateboardinggames": {
+        "name": "Skateboarding Games",
+        "desc": "Our wide selection of skateboarding games includes tons of variety. You can play 3D, realistic skating simulations and 2D, arcade style game in a matter of seconds. If you like to race, our skateboarding collection hosts many different types of deck racing challenges, from downhill battles to Lego-themed runs. If you prefer to pull off big tricks, then look no further than our many skating challenges. You can even play officially licensed games, supported by Etnies skate shoes and the Rob & Big TV show. With multiple versions of many games available, you’ll never run out of options!",
+        "fullName": "Skateboarding Games"
+    },
+    "skiinggames": {
+        "name": "Skiing Games",
+        "desc": "",
+        "fullName": "Skiing Games"
+    },
+    "skillgames": {
+        "name": "Skill Games",
+        "desc": "Our skill games will test every aspect of your gaming talents. Go retro, and try a classic arcade challenge. Play games like Asteroids, Snake, and tons of other legendary adventures! Shoot enemies in classic 2D, with 8-bit graphics and low-fi sounds.  Or, jump into the 21st century, and try a jumping or launching game. From arcade gameplay to reaction speed tests, your gaming abilities will be stretched to the limit! Master each challenge quickly, and use your skills to show what a multi-talented gamer you can be!",
+        "fullName": "Skill Games"
+    },
+    "snailbobgames": {
+        "name": "Snail Bob Games",
+        "desc": "",
+        "fullName": "Snail Bob Games"
+    },
+    "snakegames": {
+        "name": "Snake Games",
+        "fullName": "Snake Games",
+        "desc": "This list collects all the best snake games available on the Internet. Some of the most popular Snake games are Slither.io, Womate.io and LittleBigSnake.io. You can play all the games quickly directly without any downloads or create an account.",
+        "similar": [
+            "iogames",
+            "actiongames",
+            "fps",
+            "casualgames"
+        ]
+    },
+    "snipergames": {
+        "name": "Sniper Games",
+        "desc": "Our collection is full of classic snake action and much, much more. Play the original snake game, or venture into the land of wild variations and challenges. We have snake games that feature vivid colors and smooth, 3D graphics. In our adventures, you’ll control your cobra to eat apples, avoid negative power-ups, and collect bonuses. Just make sure to avoid running into yourself, or you’ll crash and burn.",
+        "fullName": "Sniper Games"
+    },
+    "snowgames": {
+        "name": "Snow Games",
+        "desc": "",
+        "fullName": "Snow Games"
+    },
+    "snowboardinggames": {
+        "name": "Snowboarding Games",
+        "desc": "",
+        "fullName": "Snowboarding Games"
+    },
+    "soccergames": {
+        "name": "Soccer Games",
+        "desc": "You no longer have to worry about the weather outside, because you can play a fun game of soccer indoor, with one of our soccer games! We have a huge selection of games with varying gameplay, from realistic, 3D matches to 2D, cartoon-themed games. Reenact headshots from real games or become an overhead champion in our soccer games! Even play a game of soccer slime or android soccer, both of which feature classic, arcade gameplay. If you like table games, then look no further, as our collection also has many varieties of table soccer action.",
+        "fullName": "Soccer Games"
+    },
+    "soldiergames": {
+        "name": "Soldier Games",
+        "desc": "",
+        "fullName": "Soldier Games"
+    },
+    "solitairegames": {
+        "name": "Solitaire Games",
+        "desc": "You no longer have to worry about the weather outside, because you can play a fun game of soccer indoor, with one of our soccer games! We have a huge selection of games with varying gameplay, from realistic, 3D matches to 2D, cartoon-themed games. Reenact headshots from real games or become an overhead champion in our soccer games! Even play a game of soccer slime or android soccer, both of which feature classic, arcade gameplay. If you like table games, then look no further, as our collection also has many varieties of table soccer action.",
+        "fullName": "Solitaire Games"
+    },
+    "spacegames": {
+        "name": "Space Games",
+        "desc": "None",
+        "fullName": "Space Games"
+    },
+    "speedgames": {
+        "name": "Speed Games",
+        "desc": "",
+        "fullName": "Speed Games"
+    },
+    "spidermangames": {
+        "name": "Spiderman Games",
+        "desc": "",
+        "fullName": "Spiderman Games"
+    },
+    "spotthedifferencegames": {
+        "name": "Spot the Difference Games",
+        "desc": "<p>Play spot the difference for free in any of these games! How observant are you?</p>",
+        "fullName": "Spot the Difference Games"
+    },
+    "stackinggames": {
+        "name": "Stacking Games",
+        "desc": "",
+        "fullName": "Stacking Games"
+    },
+    "stickmangames": {
+        "name": "Stickman Games",
+        "desc": "Go on dangerous missions with crudely drawn heroes in our selection of stickman games! Made to survive even the roughest tumbles and falls, your stickman can withstand many harsh conditions. Send the 2D character flying over cliffs on a dirt bike, or arm him with rifles for an intense gunfight. If you die in battle, you can get up again instantly. The fun never stops! Go mountain biking, fishing and racing with your hand-drawn pal!",
+        "fullName": "Stickman Games"
+    },
+    "storygames": {
+        "name": "Story Games",
+        "desc": "None",
+        "fullName": "Story Games"
+    },
+    "strategygames": {
+        "name": "Strategy Games",
+        "fullName": "Strategy Games",
+        "desc": "This list collects all the best Strategy Games available on the Internet."
+    },
+    "stuntgames": {
+        "name": "Stunt Games",
+        "desc": "Try out some impressive vehicle tricks with these epic stunt games!",
+        "fullName": "Stunt Games"
+    },
+    "sudokugames": {
+        "name": "Sudoku Games",
+        "desc": "Strategy games come in a wide range of styles, and we have all of them! You can play space wars, ancient battles, and much more. Several of our strategy challenges are based on popular series, allowing you to play your favorite classics. You can build up an army, train troops, and purchase inventory and weapons. When you’re ready to go to battle, execute your plan and win! Play as Alexander the Great, Mastermind, or create your own army general!",
+        "fullName": "Sudoku Games"
+    },
+    "superherogames": {
+        "name": "Superhero Games",
+        "desc": "Our vast selection of superhero games will test your ability to save the world! Complete all sorts of intense tasks, such as defusing a bomb as Batman or swinging across the skies of New York City as Spiderman. For a more relaxing experience, try to beat hero-themed card and puzzle challenges. Girls will enjoy the cartoon romance in My Superhero Boyfriend. Whether you're a fan of DC or Marvel, we have the perfect adventure for you!",
+        "fullName": "Superhero Games"
+    },
+    "surgerygames": {
+        "name": "Surgery Games",
+        "desc": "Our vast selection of superhero games will test your ability to save the world! Complete all sorts of intense tasks, such as defusing a bomb as Batman or swinging across the skies of New York City as Spiderman. For a more relaxing experience, try to beat hero-themed card and puzzle challenges. Girls will enjoy the cartoon romance in My Superhero Boyfriend. Whether you're a fan of DC or Marvel, we have the perfect adventure for you!",
+        "fullName": "Surgery Games"
+    },
+    "survivalgames": {
+        "name": "Survival Games",
+        "desc": "Survive and thrive to be victorious in our huge selection of survival games! We have every scenario imaginable for adventurous gamers who love a true challenge. Help townspeople flourish in a post-apocalyptic world, complete with mutant monsters and undead fiends. You can hide from an onslaught of hungry, desperate zombies from The Walking Dead. Or, team up with Ben 10 to save thousands of humans!",
+        "fullName": "Survival Games"
+    },
+    "swordgames": {
+        "name": "Sword Games",
+        "desc": "",
+        "fullName": "Sword Games"
+    },
+    "tankgames": {
+        "name": "Tank Games",
+        "desc": "Survive and thrive to be victorious in our huge selection of survival games! We have every scenario imaginable for adventurous gamers who love a true challenge. Help townspeople flourish in a post-apocalyptic world, complete with mutant monsters and undead fiends. You can hide from an onslaught of hungry, desperate zombies from The Walking Dead. Or, team up with Ben 10 to save thousands of humans!",
+        "fullName": "Tank Games"
+    },
+    "taxigames": {
+        "name": "Taxi Games",
+        "desc": "Survive and thrive to be victorious in our huge selection of survival games! We have every scenario imaginable for adventurous gamers who love a true challenge. Help townspeople flourish in a post-apocalyptic world, complete with mutant monsters and undead fiends. You can hide from an onslaught of hungry, desperate zombies from The Walking Dead. Or, team up with Ben 10 to save thousands of humans!",
+        "fullName": "Taxi Games"
+    },
+    "tennisgames": {
+        "name": "Tennis Games",
+        "desc": "Survive and thrive to be victorious in our huge selection of survival games! We have every scenario imaginable for adventurous gamers who love a true challenge. Help townspeople flourish in a post-apocalyptic world, complete with mutant monsters and undead fiends. You can hide from an onslaught of hungry, desperate zombies from The Walking Dead. Or, team up with Ben 10 to save thousands of humans!",
+        "fullName": "Tennis Games"
+    },
+    "tetrisgames": {
+        "name": "Tetris Games",
+        "desc": "<p>Check out these free online Tetris games and jump into the retro world of Tetris from the original game to radical new spin-off titles.</p>",
+        "fullName": "Tetris Games"
+    },
+    "textbasedgames": {
+        "name": "Text-based Games",
+        "desc": "",
+        "fullName": "Text-based Games"
+    },
+    "thirdpersonshootergames": {
+        "name": "Third Person Shooter Games",
+        "desc": "",
+        "fullName": "Third Person Shooter Games"
+    },
+    "topdowngames": {
+        "name": "Top-Down Games",
+        "desc": "",
+        "fullName": "Top-Down Games"
+    },
+    "towerdefensegames": {
+        "name": "Tower Defense Games",
+        "desc": "Tower Defence Games are very popular. Think of games like Clash Royale, Clash of Clans, League of Legends, and more! If you enjoy playing those games, give our Tower Defence Category a try! ",
+        "fullName": "Tower Defense Games"
+    },
+    "trafficgames": {
+        "name": "Traffic Games",
+        "desc": "<p>Rule the roads in a variety of vehicles and weave through manic traffic! With our collection of high-quality HTML5 and Flash traffic games you won't be bored for more than a second!</p>",
+        "fullName": "Traffic Games"
+    },
+    "traingames": {
+        "name": "Train Games",
+        "desc": "If you enjoy playing on farms, you will love our wide selection of tractor games. You can drive a standard farm machine, modified racing tractor, or even a junk-smashing monster truck! Our collection provides plenty of exciting driving action, putting you behind the wheel of powerful farm equipment. In our adventures, you can own your own farm, tend your land, and complete exciting in-game challenges. Go up against tough opponents around the world, and try to become the ultimate farming professional!",
+        "fullName": "Train Games"
+    },
+    "trialgames": {
+        "name": "Trial Games",
+        "desc": "Trial Games - Test out your motorbike skills in these series of trail and cross bike games!",
+        "fullName": "Trial Games"
+    },
+    "triviagames": {
+        "name": "Trivia Games",
+        "desc": "Play our collection of trivia games and put your logic and problem-solving skills to the test. There are tricky riddle games such as Brain Test: Tricky Puzzles, fun question and answer games such as The Impossible Quiz, academical and historical games like Time Quiz, Flags Maniac for geography enthusiasts, Math Trivia Live for math geeks, and much more!",
+        "fullName": "Trivia Games"
+    },
+    "trollgames": {
+        "name": "Troll Games",
+        "desc": "",
+        "fullName": "Troll Games"
+    },
+    "trollfacegames": {
+        "name": "Trollface Games",
+        "desc": "",
+        "fullName": "Trollface Games"
+    },
+    "truckgames": {
+        "name": "Truck Games",
+        "desc": "Our truck games take the driving experience to a whole new level. Take control of one of many different types of 18-wheelers, and complete different missions “on the job.\" You can drive a farmer’s rig, transport goods on a dump truck, or even drive over dangerous construction yards! We have challenges for all types of players; whether you’re looking for high-octane fun or a relaxing adventure, we have the perfect game for you. Test your skills with a double-clutch, and shift your way across lengthy highways on a mission to earn virtual cash and points!",
+        "fullName": "Truck Games"
+    },
+    "turnbasedgames": {
+        "name": "Turn Based Games",
+        "desc": "Turn Based Games - conquer your opponents using skill, strategy and tactics!",
+        "fullName": "Turn Based Games"
+    },
+    "tycoongames": {
+        "name": "Tycoon Games",
+        "desc": "<p>Tycoon Games - Try your hand at building and managing a thriving business empire!</p>",
+        "fullName": "Tycoon Games"
+    },
+    "typinggames": {
+        "name": "Typing Games",
+        "desc": "Have tons of fun mashing buttons and spelling words in our free typing games! You can play as many different characters, spelling words as quickly as possible to win. Whether it's a speed typing challenge, a typing test, or a magical adventure, there's something for everyone. Race against Olympic runners, perform magic tricks, and go deep sea diving! Use your keyboard skills to climb mountains, fly a jetpack, and escape from danger in these exciting online typing adventures.",
+        "fullName": "Typing Games"
+    },
+    "unicorngames": {
+        "name": "Unicorn Games",
+        "desc": "",
+        "fullName": "Unicorn Games"
+    },
+    "vampiregames": {
+        "name": "Vampire Games",
+        "desc": "<p>Dig your fangs into these free vampire games! No download required - play for free in your web browser.</p>",
+        "fullName": "Vampire Games"
+    },
+    "volleyballgames": {
+        "name": "Volleyball Games",
+        "desc": "",
+        "fullName": "Volleyball Games"
+    },
+    "wargames": {
+        "name": "War Games",
+        "desc": "Our assortment of war games puts you in control as commander-in-chief. Take charge and lead your group into the battlefield right away, or train your troops to prepare for full-scale war! Our challenges come in a variety of formats, from direct, troop-to-troop fighting, to turn-based RPG style, in which you’ll plan your attacks and launch weapons at will. Go to battle in prehistoric times, fight outdoor on famous grounds, or even go to war in modern times; in several challenges, you can even control a modern gang and fight rivals in a virtual city!",
+        "fullName": "War Games"
+    },
+    "watergames": {
+        "name": "Water Games",
+        "desc": "",
+        "fullName": "Water Games"
+    },
+    "weddinggames": {
+        "name": "Wedding Games",
+        "desc": "",
+        "fullName": "Wedding Games"
+    },
+    "withfriendsgames": {
+        "name": "With Friends Games",
+        "desc": "<p>You and your best pal looking for some game time? This page is full of free online games to play with friends, so check some of them out and have a blast!</p>",
+        "fullName": "With Friends Games"
+    },
+    "wordgames": {
+        "name": "Word Games",
+        "fullName": "Word Games",
+        "desc": "This list collects all of the best word games available on the Internet."
+    },
+    "worldcupgames": {
+        "name": "World Cup Games",
+        "desc": "None",
+        "fullName": "World Cup Games"
+    },
+    "worldwar2games": {
+        "name": "World War 2 Games",
+        "desc": "",
+        "fullName": "World War 2 Games"
+    },
+    "wrestlinggames": {
+        "name": "Wrestling Games",
+        "desc": "If you enjoy the WWE, ECW, and backyard wrestling action, you’ll love our wide selection of wrestling games. You can choose all of your favorite fighters, get into the ring, and face off against muscular opponents! Our challenges give you pay-per-view entertainment completely for free. Re-enact matches from Wrestlemania, Summer Slam, and Monday Night Raw; or, start your own Royal Rumble! Turn your sports entertainment fantasies into reality!",
+        "fullName": "Wrestling Games"
+    },
+    "wtfgames": {
+        "name": "WTF Games",
+        "desc": "",
+        "fullName": "WTF Games"
+    },
+    "zombiegames": {
+        "name": "Zombie Games",
+        "desc": "Shoot, slay and escape from undead evil in our free zombie games. Inspired by movies like Dawn of the Dead and games like Resident Evil, our challenges will have you defeating the walkers in style. Choose from a myriad weapons and kill the undead before they eat your brains! In our zombie challenges, the undead are dangerous and relentless. Play through levels of varying difficulty and do whatever you can to defeat evil walkers. Be prepared for gruesome violence, detailed graphics, and undying challenges previously seen only in horror movies!",
+        "fullName": "Zombie Games"
+    },
+    "iogames": {
+        "name": ".IO Games",
+        "fullName": ".IO Games",
+        "desc": "This list collects all the best .io games available on the Internet. Some of the most popular .io games are Agar.io, Slither.io and Krunker.io. You can play all the games quickly without any downloads nor accounts.",
+        "similar": [
+            "iogames",
+            "actiongames",
+            "fps",
+            "casualgames"
+        ]
+    },
+    "actiongames": {
+        "name": "Action Games",
+        "fullName": "Action Games",
+        "desc": "This list collects all the best action games available on the Internet.",
+        "similar": [
+            "iogames",
+            "actiongames",
+            "fps",
+            "casualgames"
+        ]
+    },
+    "adventuregames": {
+        "name": "Adventure Games",
+        "fullName": "Adventure Games",
+        "desc": "This list collects all the best adventure games available on the Internet. Some of the most popular adventure games are Minecraft and Stumble Guys. Adventure games are games where you explore different places, walk around the world and play different game modes."
+    },
+    "appstoregames": {
+        "name": "App Store Games",
+        "desc": "Looking for your favorite games from the app stores? This collection of App Store Games features some of the most popular games from the App Store and Google Play store all available to play for free online. No downloading or updating required! Try out your favorite App Store Games on Playem.io today.",
+        "fullName": "App Store Games"
+    },
+    "backgammongames": {
+        "name": "Backgammon Games",
+        "desc": "Our collection is an amalgam of the greatest arcade games ever made. We have older and brand new machines, from original Pong to 3D air hockey! In our challenging levels, you’ll experience exciting action and captivating gameplay. Play modern variations of Space Invaders and Bomberman, complete with authentic game sounds and graphics. Or, play updated Nintendo and Sega games, including Mario and Sonic the Hedgehog. All of your arcade desires are waiting to be fulfilled.",
+        "fullName": "Backgammon Games"
+    },
+    "bicyclegames": {
+        "name": "Bicycle Games",
+        "desc": "None",
+        "fullName": "Bicycle Games"
+    },
+    "bubblegames": {
+        "name": "Bubble Games",
+        "desc": "Challenge your intellect with our extensive collection of brain games! We offer a diverse array of mind-bending, brainteasing challenges that cater to every level of player. Immerse yourself in classic and contemporary puzzlers, ranging from variations of Windows' Minesweeper to specially-themed Memory games! Navigate through intricate mazes of varying difficulty levels, using your cognitive prowess to emerge victorious while staying one step ahead of the computer. Engage in modified versions of timeless favorites, and usher in the 21st century with an inexhaustible supply of brain games!",
+        "fullName": "Bubble Games"
+    },
+    "candycrushgames": {
+        "name": "Candy Crush Games",
+        "desc": "Challenge your intellect with our extensive collection of brain games! We offer a diverse array of mind-bending, brainteasing challenges that cater to every level of player. Immerse yourself in classic and contemporary puzzlers, ranging from variations of Windows' Minesweeper to specially-themed Memory games! Navigate through intricate mazes of varying difficulty levels, using your cognitive prowess to emerge victorious while staying one step ahead of the computer. Engage in modified versions of timeless favorites, and usher in the 21st century with an inexhaustible supply of brain games!",
+        "fullName": "Candy Crush Games"
+    },
+    "carracinggames": {
+        "name": "Car Racing Games",
+        "desc": "Our intense collection of car racing games features the fastest vehicles in the world. This is your chance to sit in the driver's seat of a Formula 1 racer or NASCAR stock car. You can compete against virtual racing champions and real players from around the world. Speed across oval tracks, drag strips, twisting courses, and abandoned highways to win the gold medal. There's no room for trucks, ATVs, or motorcycles here; only the swiftest cars are allowed!",
+        "fullName": "Car Racing Games"
+    },
+    "checkersgames": {
+        "name": "Checkers Games",
+        "desc": "Checkers isn’t just a board game; in our challenging collection, you’ll find plenty of variations and virtual renditions of the classic strategy game. Choose from far more colors than red or black, and select one of dozens of different board designs! If you prefer basic, simple action, we have the perfect game for you. Want a more advanced challenge? Try 3-in-1 or Chinese variations! Rapid-fire action and cunning strategy challenges are waiting for you in our checkers games collection.",
+        "fullName": "Checkers Games"
+    },
+    "clickergames": {
+        "name": "Clicker Games",
+        "desc": "Step into the delightful world of classic games on Playem.io, where timeless fun meets modern play. This category is a treasure trove of all your favorite classics, designed to bring joy to players of every age. Dive into the strategic depths of Chess, where kings and queens dance in a timeless game of skill. Or, enjoy the simplicity of Tic Tac Toe, a game that turns ordinary Xs and Os into hours of fun.",
+        "fullName": "Clicker Games"
+    },
+    "constructiongames": {
+        "name": "Construction Games",
+        "desc": "Bring color to your life with our beautiful Color Games. Play colorful games, play games that are themed with a single color, or dominate the playing field with your favorite color! Color your favorite paintings or tattoos. Make your friends guess what you have colored or practice a little before showing others. We have puzzle games, logic games, drawing games, and many more in this trendy selection of games.",
+        "fullName": "Construction Games"
+    },
+    "coolgames": {
+        "name": "Cool Games",
+        "desc": "None",
+        "fullName": "Cool Games"
+    },
+    "cozygames": {
+        "name": "Cozy Games",
+        "desc": "Welcome to our cozy games, a special place filled with super cute and relaxing games. Here, every game is like a soft hug for your heart. We've picked out the most adorable games that are perfect for chilling out and having fun without any stress.",
+        "fullName": "Cozy Games"
+    },
+    "crazygames": {
+        "name": "Crazy Games",
+        "desc": "On Poki we have many free crazy games available. If you are looking for crazy games, this category contains a curated selection of the craziest games we could find. Don't play these game too many times, because you might go crazy!",
+        "fullName": "Crazy Games"
+    },
+    "decorationgames": {
+        "name": "Decoration Games",
+        "desc": "On Poki we have many free crazy games available. If you are looking for crazy games, this category contains a curated selection of the craziest games we could find. Don't play these game too many times, because you might go crazy!",
+        "fullName": "Decoration Games"
+    },
+    "drivinggames": {
+        "name": "Driving Games",
+        "desc": "Test the limits of your vehicle-handling skills in our collection of driving games! Steering champions will love handing the tight squeeze of parking challenges. We also have tons of racing options for speed junkies. Strap yourself to the driver's seat of a huge truck, custom racing car, or luxury vehicle, and hit the road! You can drive laps around the competition in amateur and professional races. If a cop catches you racing illegally, leave him in a cloud of dust as you escape!",
+        "fullName": "Driving Games"
+    },
+    "eastergames": {
+        "name": "Easter Games",
+        "desc": "Test the limits of your vehicle-handling skills in our collection of driving games! Steering champions will love handing the tight squeeze of parking challenges. We also have tons of racing options for speed junkies. Strap yourself to the driver's seat of a huge truck, custom racing car, or luxury vehicle, and hit the road! You can drive laps around the competition in amateur and professional races. If a cop catches you racing illegally, leave him in a cloud of dust as you escape!",
+        "fullName": "Easter Games"
+    },
+    "farmgames": {
+        "name": "Farm Games",
+        "fullName": "Farm Games",
+        "desc": "This list collects all the best Farm Games available on the Internet."
+    },
+    "fidgetspinnergames": {
+        "name": "Fidget Spinner Games",
+        "desc": "Our fashion games collection is designed for fashionistas and makeup-savvy players. You’ll have plenty of clothing, hair, and makeup options from which to choose, giving you thousands of different results. Choose a beautiful model, and dress them from head to toe in the clothes of your choice! Our levels put you in the chair of a fashion designer, giving you all of the opportunities that professional designers have. Dress up a stunning model in high-end clothing, and send them down the runway!",
+        "fullName": "Fidget Spinner Games"
+    },
+    "fireandwatergames": {
+        "name": "Fire and Water games",
+        "desc": "All of our fighting games are loaded with fun and full of action. Depending which character you choose, you’ll have access to special punches, kicks, and weapons as you fight against plenty of opponents. Play as a hobo on the loose and run from the cops or fight other prisoners as you escape from jail! Wield the power of a ninja in one of our advanced fighting levels and unleash special powers on your enemies. Or, play as a classic video game character and fight as Wonder Woman or the fighter of your choice from the Street Fighter game series.",
+        "fullName": "Fire and Water games"
+    },
+    "firefightergames": {
+        "name": "Firefighter Games",
+        "desc": "All of our fighting games are loaded with fun and full of action. Depending which character you choose, you’ll have access to special punches, kicks, and weapons as you fight against plenty of opponents. Play as a hobo on the loose and run from the cops or fight other prisoners as you escape from jail! Wield the power of a ninja in one of our advanced fighting levels and unleash special powers on your enemies. Or, play as a classic video game character and fight as Wonder Woman or the fighter of your choice from the Street Fighter game series.",
+        "fullName": "Firefighter Games"
+    },
+    "fishgames": {
+        "name": "Fish Games",
+        "desc": "None",
+        "fullName": "Fish Games"
+    },
+    "flappybirdgames": {
+        "name": "Flappy Bird Games",
+        "desc": "None",
+        "fullName": "Flappy Bird Games"
+    },
+    "flyinggames": {
+        "name": "Flying Games",
+        "desc": "Are you searching for your favorite old web games? Are you having flashbacks? Do you miss the classics built in Flash? Look no further! We have compiled a category full of the best old Flash games, as well as the shiny new HTML5 versions of these said classics. This allows you to play the games without Flash. Sit back and enjoy all these entertaining titles reworked from the ground up!\n",
+        "fullName": "Flying Games"
+    },
+    "gamesforboys": {
+        "name": "Games for Boys",
+        "desc": "Wage wars as one of many powerful men in our collection of games for boys. Whether you are on mean city streets or international battlegrounds, your fate is in your hands. If you want to join the mafia, complete all sorts of illegal missions for the Don. Or, join the armed forces, and use your tactical skills to outlast opponents during World War II! You can even fight zombies in the most extreme adventures.",
+        "fullName": "Games for Boys"
+    },
+    "gamesforgirls": {
+        "name": "Games for Girls",
+        "desc": "Our vast collection of girl games is sure to entertain you. You can play any type of game, from simple dress-up to advanced dance competitions. Control cute characters and admirable women. Show off your extreme gaming skills, or relax with fashion-based games. For a romantic adventure, pick a cute date, and fall in love! Create outfits for celebrities, design dresses for dolls, or apply cute makeup. Fulfill your wildest shopping dreams without spending a penny.",
+        "fullName": "Games for Girls"
+    },
+    "ghostgames": {
+        "name": "Ghost Games",
+        "desc": "Our vast collection of girl games is sure to entertain you. You can play any type of game, from simple dress-up to advanced dance competitions. Control cute characters and admirable women. Show off your extreme gaming skills, or relax with fashion-based games. For a romantic adventure, pick a cute date, and fall in love! Create outfits for celebrities, design dresses for dolls, or apply cute makeup. Fulfill your wildest shopping dreams without spending a penny.",
+        "fullName": "Ghost Games"
+    },
+    "html5games": {
+        "name": "HTML5 Games",
+        "desc": "None",
+        "fullName": "HTML5 Games"
+    },
+    "hangmangames": {
+        "name": "Hangman Games",
+        "desc": "If Autumn is your favorite time of year, you'll love our collection of online Halloween games. You'll hear the leaves rustling, see carved pumpkins, and enjoy all of the great themes of October. You can dress up for Trick or Treating, decorate your food, and escape from haunted creatures! Our Halloween collection features all of your favorite All Hallows' Eve characters, including ghosts, zombies, ghouls, witches, and Frankenstein! Try not to get too scared, and prepare for a night of dark fun! In our free Halloween Games, you can escape from haunted houses, fight with zombies, and freak out your friends! Our Halloween games are great year-round, providing that Fall feeling holiday fans love. All kinds of players can have fun with our Halloween-themed dress-ups, preparing you for the big night. Choose from tons of props, including bat wings, dresses, fun outfits, and different hairstyles. By picking the best outfit, you might even get ideas of how to dress up for this year's holiday!",
+        "fullName": "Hangman Games"
+    },
+    "horseracinggames": {
+        "name": "Horse Racing Games",
+        "desc": "None",
+        "fullName": "Horse Racing Games"
+    },
+    "horseridinggames": {
+        "name": "Horse Riding Games",
+        "desc": "Take off your riding helmet and strap into a saddle atop a virtual, galloping stallion. Our horse riding games feature high-speed, steed action and put you in control. Become a top jockey in Kentucky Derby-style racing or just leisurely jog across beautiful pastures. Our steed games collection showcases a range of styles, from easy-to-play games to advanced, 3D, horse-jumping simulations. There will never be a dull moment as you try your best and have fun playing our stallion games.",
+        "fullName": "Horse Riding Games"
+    },
+    "icecreamgames": {
+        "name": "Ice Cream Games",
+        "desc": "Our hospital games are great for medical enthusiasts, doctor lovers, and other gamers. We have adventures for all kinds of players! You will enjoy cartoon-themed maternity ward games where you can work in a nursery and take care of newborn babies. Or jump into more adult adventures and enjoy our realistic, more challenging hospital games. In these games, you can perform realistic surgeries, and follow instructions to become a knowledgeable surgeon. Dress-up a nurse, re-align broken bones, and help out your patients today!",
+        "fullName": "Ice Cream Games"
+    },
+    "intelligencegames": {
+        "name": "Intelligence Games",
+        "desc": "Our idle games are *extremely* addictive! We have all of the hottest titles that will send you into a clicking frenzy. Gameplay is simple, as all you have to do is click! Whether you're planting crops, baking candy, or mining for gold, you must level up to win. The path to victory is clear and daunting. How will you ever earn one billion in currency? Click, click, and click until you're rich!",
+        "fullName": "Intelligence Games"
+    },
+    "jeuxjeuxjeux": {
+        "name": "JeuxJeuxJeux",
+        "desc": "You can still play all your favorite fun games here!",
+        "fullName": "JeuxJeuxJeux"
+    },
+    "jigsawpuzzlegames": {
+        "name": "Jigsaw Puzzle Games",
+        "fullName": "Jigsaw Puzzle Games",
+        "desc": "This list collects all of the best Jigsaw Puzzle games available on the Internet."
+    },
+    "keyboardgames": {
+        "name": "Keyboard Games",
+        "desc": "Play our collection of typing games and two-player games that can be played using a single keyboard! Play collaborative multiplayer titles like Duo Survival and ZOOM-BE, battle locally against your friends in Minibattles or Football Masters. There are also fast-paced word typing games such as Fast Typer 3, action-packed Typing Fighter, and even rhythm games like Friday Night Funkin'!",
+        "fullName": "Keyboard Games"
+    },
+    "makeovergames": {
+        "name": "Makeover Games",
+        "desc": "Our makeover games are perfect for all kinds of players who want to look fashionable. You can go shopping, dress up cartoon people, and apply makeup to celebrities in our collection. Choose between many colors of blush, eyeliner, and hair! In our make over challenges, you can select from dozens of beautiful hairstyles, and even try on wigs! Our collection includes special character themes, including summer beachwear, Valentine’s Day, and Mommy Makeovers. After playing, you’ll feel like a professional stylist!",
+        "fullName": "Makeover Games"
+    },
+    "matchinggames": {
+        "name": "Matching Games",
+        "desc": "Our makeover games are perfect for all kinds of players who want to look fashionable. You can go shopping, dress up cartoon people, and apply makeup to celebrities in our collection. Choose between many colors of blush, eyeliner, and hair! In our make over challenges, you can select from dozens of beautiful hairstyles, and even try on wigs! Our collection includes special character themes, including summer beachwear, Valentine’s Day, and Mommy Makeovers. After playing, you’ll feel like a professional stylist!",
+        "fullName": "Matching Games"
+    },
+    "megaspel": {
+        "name": "Megaspel",
+        "desc": "You can still play all your favorite fun games here!",
+        "fullName": "Megaspel"
+    },
+    "minigames": {
+        "name": "Mini Games",
+        "desc": "A whole new kind of adventure awaits you! Check out our collection of Merge games that feature a world where you are a digital hoarder and improver. Reach higher levels by combining two of the same item and unlock newer, more powerful and shinier ones. This is the only category where you will find so many different types of visuals that make you feel good, and enjoy the satisfaction of getting better at something.",
+        "fullName": "Mini Games"
+    },
+    "minigolfgames": {
+        "name": "Mini Golf Games",
+        "desc": "A whole new kind of adventure awaits you! Check out our collection of Merge games that feature a world where you are a digital hoarder and improver. Reach higher levels by combining two of the same item and unlock newer, more powerful and shinier ones. This is the only category where you will find so many different types of visuals that make you feel good, and enjoy the satisfaction of getting better at something.",
+        "fullName": "Mini Golf Games"
+    },
+    "mobilegames": {
+        "name": "Mobile Games",
+        "desc": "None",
+        "fullName": "Mobile Games"
+    },
+    "motorbikegames": {
+        "name": "Motorbike Games",
+        "desc": "We have plenty of different motorbike games, all of which feature different characters. You can play as original riders and stuntmen, or try your turn as a classic character, such as Bart Simpson or Patrick from Spongebob Squarepants. Our Harley-inspired games feature plenty of riding environments, so you'll be driving on rocks, through deserts, over snow, or even on top of props and junkyard obstacles! There are plenty of different types and colors of motorcycles to choose from, so you'll never run out of unique rides. If you're into high-flying action, many of our crotch-rocket games feature stunt ramps that will propel you high into the air and through the sky!",
+        "fullName": "Motorbike Games"
+    },
+    "multiplicationgames": {
+        "name": "Multiplication Games",
+        "desc": "Our multiplayer games will connect you with other players around the world, completely for free. We have a wide selection of multiplayer challenges, all of which are fun to play and based upon live action. Don’t worry about AI or finding a partner with which to play; our games will place you in a virtual world with tons of opponents! We have fighting, action, and exploration games based entirely in virtual environments. Choose your avatar, hone your skills, and compete with others around the world!",
+        "fullName": "Multiplication Games"
+    },
+    "newgames": {
+        "name": "New Games",
+        "desc": "This webpage contains all our latest game releases. Daily, new games are launched by game creators on our playground and they appear in this list. So if you are into discovering new games, this list will help you discover the latest online web games. Each game can be played for free, without installs or pop-ups.",
+        "fullName": "New Games"
+    },
+    "nitromegames": {
+        "name": "Nitrome Games",
+        "desc": "None",
+        "fullName": "Nitrome Games"
+    },
+    "numbergames": {
+        "name": "Number Games",
+        "desc": "Challenge yourself to hours of mathematical fun with our collection of number games! Test your Sudoku skills on many different board types. You can play a simple round with plain digits, or enter a fantasy world filled with animated characters. Certain games in our collection feature symbols and artwork instead of numbers! For a more relaxing adventure, try to find hidden numbers in colorful pictures from your favorite movies and TV shows!",
+        "fullName": "Number Games"
+    },
+    "obbygames": {
+        "name": "Obby Games",
+        "fullName": "Obby Games",
+        "desc": "This list collects all the best Obby Games available on the Internet. What is Obby Games actually? Basically, 'Obby' stands for Obstacle Course games and it has gain popularity on game platforms such as Minecraft, Roblox and Fortnite. People enjoy playing obstacle courses and parkours. In this list of Obby Games, we have collected the best Obstacle Games for you, such as Subway Surfers, Tunnel Rush, Happy Wheels and Rainbow Obby."
+    },
+    "olympicsgames": {
+        "name": "Olympics Games",
+        "desc": "Ready to go on the coolest online adventures? Dive into the world of Obby Games on Playem.io! Ever wondered, 'What is Obby?' The term 'Obby' stands for 'obstacle course' and it gained popularity on platforms like Roblox, Minecraft, and Fortnite.",
+        "fullName": "Olympics Games"
+    },
+    "onlinegames": {
+        "name": "Online Games",
+        "desc": "Play our addictive online multiplayer games for free on Playem.io! Play 3D multiplayer shooting games such as Venge.io and Battle Forces. Show your friends who the boss is in Rabbids Wild Race and House of Hazards. Or work together to solve puzzles in ZOOM-BE and Duo Survival. You can even create virtual chaos together in Schoolbreak.io! Enjoy our collection of free online games with no installing required!",
+        "fullName": "Online Games"
+    },
+    "paisdelosjuegos": {
+        "name": "Pais de los Juegos",
+        "desc": "You can still play all your favorite fun games here!",
+        "fullName": "Pais de los Juegos"
+    },
+    "partygames": {
+        "name": "Party Games",
+        "desc": "The party games section on Playem.io.com is a laughter-packed playground, perfect for you and your friends! Filled with mini-games, it's the ultimate spot for fun, memes, and more. Imagine creating your own memes or playing 'Draw and Guess' – where you sketch, laugh, and try to guess each other's wacky drawings. It's easy to play and super entertaining.",
+        "fullName": "Party Games"
+    },
+    "pizzagames": {
+        "name": "Pizza Games",
+        "desc": "Now you can own the seas without breaking the law, in one of our pirate games. Hop aboard a pirate ship, and take an exciting trip on the ocean! We have many challenging levels which feature tons of different adventures. You can conquer enemies one-on-one, or engage in full-out sea war! Take control of a peg-legged commander and show off your sword fighting skills; or, get behind a cannonball and unleash the fury! The colorful graphics, realistic controls, and exciting action will keep you entertained for hours!",
+        "fullName": "Pizza Games"
+    },
+    "popitgames": {
+        "name": "Pop It Games",
+        "desc": "None",
+        "fullName": "Pop It Games"
+    },
+    "populargames": {
+        "name": "Popular Games",
+        "desc": "None",
+        "fullName": "Popular Games"
+    },
+    "princessdressupgames": {
+        "name": "Princess Dress Up Games",
+        "desc": "None",
+        "fullName": "Princess Dress Up Games"
+    },
+    "puzzlegames": {
+        "name": "Puzzle Games",
+        "fullName": "Puzzle & Brain Games",
+        "desc": "This list collects all the best puzzle games available on the Internet."
+    },
+    "retrogames": {
+        "name": "Retro Games",
+        "desc": "None",
+        "fullName": "Retro Games"
+    },
+    "rugbygames": {
+        "name": "Rugby Games",
+        "desc": "Rugby is a high-energy, full-contact sport which often results in tons of a fun and plenty of injuries. By playing our rugby games, you can join the action without getting hurt! We have plenty of scrum and arcade football variations available for your pleasure. Play a full game of realistic football, or enjoy a cartoon-style game with vibrant graphics and humorous action. In our collection, you can even practice specific aspects of gameplay, such as kicking or throwing. Hone your individual skills first, and then join a team and conquer the UK sports world!",
+        "fullName": "Rugby Games"
+    },
+    "scrabblegames": {
+        "name": "Scrabble Games",
+        "desc": "None",
+        "fullName": "Scrabble Games"
+    },
+    "shootinggames": {
+        "name": "Shooting Games",
+        "desc": "Expensive video game consoles aren’t the only place to play marksmanship games. Our collection of shooting games are all free to play and available right now, on your computer. Play as a variety of marksmen in tons of environments, sneaking through levels and firing at any enemies in your path. Create classes with all kinds of different guns. Play as a futuristic assassin with ultra-modern weapons or go back in time and re-live the Doom game series. In our shooting challenges, you can holster your weapon as a solo player or unleash ammo as a member of a multiplayer task force. The possibilities are endless.",
+        "fullName": "Shooting Games"
+    },
+    "shoppinggames": {
+        "name": "Shopping Games",
+        "desc": "Expensive video game consoles aren’t the only place to play marksmanship games. Our collection of shooting games are all free to play and available right now, on your computer. Play as a variety of marksmen in tons of environments, sneaking through levels and firing at any enemies in your path. Create classes with all kinds of different guns. Play as a futuristic assassin with ultra-modern weapons or go back in time and re-live the Doom game series. In our shooting challenges, you can holster your weapon as a solo player or unleash ammo as a member of a multiplayer task force. The possibilities are endless.",
+        "fullName": "Shopping Games"
+    },
+    "slimegames": {
+        "name": "Slime Games",
+        "desc": "Our skill games will test every aspect of your gaming talents. Go retro, and try a classic arcade challenge. Play games like Asteroids, Snake, and tons of other legendary adventures! Shoot enemies in classic 2D, with 8-bit graphics and low-fi sounds.  Or, jump into the 21st century, and try a jumping or launching game. From arcade gameplay to reaction speed tests, your gaming abilities will be stretched to the limit! Master each challenge quickly, and use your skills to show what a multi-talented gamer you can be!",
+        "fullName": "Slime Games"
+    },
+    "sportsgames": {
+        "name": "Sports Games",
+        "fullName": "Sports Games",
+        "desc": "This list collects all the best Sports games available on the Internet."
+    },
+    "tattoogames": {
+        "name": "Tattoo Games",
+        "desc": "Survive and thrive to be victorious in our huge selection of survival games! We have every scenario imaginable for adventurous gamers who love a true challenge. Help townspeople flourish in a post-apocalyptic world, complete with mutant monsters and undead fiends. You can hide from an onslaught of hungry, desperate zombies from The Walking Dead. Or, team up with Ben 10 to save thousands of humans!",
+        "fullName": "Tattoo Games"
+    },
+    "thanksgivinggames": {
+        "name": "Thanksgiving Games",
+        "desc": "None",
+        "fullName": "Thanksgiving Games"
+    },
+    "tractorgames": {
+        "name": "Tractor Games",
+        "desc": "If you enjoy playing on farms, you will love our wide selection of tractor games. You can drive a standard farm machine, modified racing tractor, or even a junk-smashing monster truck! Our collection provides plenty of exciting driving action, putting you behind the wheel of powerful farm equipment. In our adventures, you can own your own farm, tend your land, and complete exciting in-game challenges. Go up against tough opponents around the world, and try to become the ultimate farming professional!",
+        "fullName": "Tractor Games"
+    },
+    "unitygames": {
+        "name": "Unity Games",
+        "desc": "Our Unity games collection features incredible graphics and totally immersive gameplay! You can strike down gory zombies, race Minecraft vehicles, and enter the world of The Hobbit in breathtaking 3D. Best of all, every game here is completely free to play! Enjoy a world-class experience with detailed characters, gripping storylines, and intuitive controls. All of the amazing action is waiting for you!",
+        "fullName": "Unity Games"
+    },
+    "videogames": {
+        "name": "Video Games",
+        "desc": "Video Games can now be played online for free from your browser! No downloads are needed. We offer a wide selection of web games that can be played on your PC, mobile phone, or tablet.  We offer all types of video games. Play action-packed video games in which you can shoot guns or explore new worlds. However, if you are more into games without any violence, you are at the right place as well. We offer big video games like Minecraft, but also games that can exclusively be played on Playem.io. This category is a reflection of all the video games that are popular right now! \n",
+        "fullName": "Video Games"
+    },
+    "watermelongames": {
+        "name": "Watermelon Games",
+        "desc": "Welcome to the whimsical world of Watermelon Games, where the joy of stacking and merging meets the challenge of keeping things from overflowing! Inspired by the viral sensation Suika Game, also known as the Watermelon Game, this category brings you a collection of merging puzzle games that promise hours of strategic gameplay.",
+        "fullName": "Watermelon Games"
+    },
+    "wintergames": {
+        "name": "Winter Games",
+        "desc": "None",
+        "fullName": "Winter Games"
+    },
+    "wolfgames": {
+        "name": "Wolf Games",
+        "desc": "None",
+        "fullName": "Wolf Games"
+    },
+    "gamesites": {
+        "name": "Game Sites",
+        "fullName": "Game Sites",
+        "desc": "This list collects all the best web game portals available on the Internet. Some of the most popular browser game websites are Poki, CrazyGames and Y8.com. You can play all the games quickly inside the game site without any downloads."
+    },
+    "fps": {
+        "name": "FPS",
+        "fullName": "First Person Shooter (FPS)",
+        "desc": "This list collects all the best First Person Shooter (FPS) games available on the Internet. Some of the most popular FPS games are Krunker.io, Venge.io and Shell Shocker. FPS games are games where you battle with guns against other users in 3D.",
+        "similar": [
+            "iogames",
+            "actiongames",
+            "fps",
+            "casualgames"
+        ]
+    },
+    "casualgames": {
+        "name": "Casual Games",
+        "fullName": "Casual Games",
+        "desc": "This list collects all the best casual games available on the Internet.",
+        "similar": [
+            "iogames",
+            "actiongames",
+            "fps",
+            "casualgames"
+        ]
+    },
+    "socialgames": {
+        "name": "Social Games",
+        "fullName": "Social Games",
+        "desc": "This list collects all the best social games available on the Internet."
+    },
+    "billiardgames": {
+        "name": "Billiard & Pool Games",
+        "fullName": "Billiard Games",
+        "desc": "This list collects all the best online billiard games available on the Internet."
+    },
+    "bridgegames": {
+        "name": "Bridge Games",
+        "fullName": "Bridge Games",
+        "desc": "This list collects all the best online bridge games available on the Internet."
+    },
+    "sudoku": {
+        "name": "Sudoku Games",
+        "fullName": "Sudoku",
+        "desc": "This list collects all the best Sudoku games available on the Internet."
+    },
+    "wordle": {
+        "name": "Wordle Games",
+        "fullName": "Wordle Games",
+        "desc": "This list collects all of the best Wordle games available on the Internet."
+    },
+    "solitaire": {
+        "name": "Solitaire Games",
+        "fullName": "Solitaire Games",
+        "desc": "This list collects all the best online solitaire games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "mahjong": {
+        "name": "Mahjong Games",
+        "fullName": "Mahjong Games",
+        "desc": "This list collects all of the best Mahjong games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "spidersolitaire": {
+        "name": "Spider Solitaire Games",
+        "fullName": "Spider Solitaire Games",
+        "desc": "This list collects all of the best Spider Solitaire games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "freecellsolitaire": {
+        "name": "FreeCell Solitaire Games",
+        "fullName": "FreeCell Solitaire Games",
+        "desc": "This list collects all of the best FreeCell Solitaire games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "yahtzee": {
+        "name": "Yahtzee Games",
+        "fullName": "Yahtzee Games",
+        "desc": "This list collects all of the best online Yahtzee games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "klondike": {
+        "name": "Klondike Games",
+        "fullName": "Klondike Games",
+        "desc": "This list collects all of the best online Klondike games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "spades": {
+        "name": "Spades Games",
+        "fullName": "Spades Games",
+        "desc": "This list collects all of the best online Spades games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "cribbage": {
+        "name": "Cribbage Games",
+        "fullName": "Cribbage Games",
+        "desc": "This list collects all of the best online Cribbage games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "backgammon": {
+        "name": "Backgammon Games",
+        "fullName": "Backgammon Games",
+        "desc": "This list collects all of the best online Backgammon games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "hearts": {
+        "name": "Hearts Games",
+        "fullName": "Hearts Games",
+        "desc": "This list collects all of the best online Hearts games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "poker": {
+        "name": "Poker Games",
+        "fullName": "Poker Games",
+        "desc": "This list collects all of the best online Poker games available on the Internet.",
+        "similar": [
+            "solitaire",
+            "mahjong",
+            "spidersolitaire",
+            "freecellsolitaire",
+            "backgammon",
+            "klondike",
+            "yahtzee",
+            "hearts",
+            "poker"
+        ]
+    },
+    "dating": {
+        "name": "Dating Apps",
+        "fullName": "Dating Apps",
+        "desc": "This list collects all the best Dating Apps available on the Internet."
+    },
+    "videochats": {
+        "name": "Video Chats",
+        "fullName": "Video Chats",
+        "desc": "This list collects all the best Video Chats available on the Internet."
+    },
+    "onlinechats": {
+        "name": "Online Chats",
+        "fullName": "Online Chats",
+        "desc": "This list collects all the best Online Chats available on the Internet."
+    },
+    "aichat": {
+        "name": "AI Chats",
+        "fullName": "AI Chats",
+        "desc": "This list collects all the best AI Chat available on the Internet. We have collected all AI Chatbots of all types, such as Productivity, Entertainment, Humor, etc. The most popular AI Chats right now are ChatGPT, Google Bard, Bing Chat AI and Character.ai. The latest technology Artificial Intelligence Generated Content (AIGC), which is originally developed by the first engineers of Google, and later on became a hit in the world with the launch of ChatGPT from OpenAI. AIGC is the core technilogy behind most of the latest AI Chats, as it has given the ability of generating text, images, or other media, using generative models to the softwares."
+    },
+    "aitools": {
+        "name": "AI Tools",
+        "fullName": "AI Tools & Websites",
+        "desc": "This list collects all the best AI Tools and Websites available on the Internet. We have collected all AI (i.e. artificial intelligence) applications and softwares of all types, including Productivity, Entertainment, Humor, and other products powered by AI. The most popular AI Tools and Websites right now are ChatGPT, Google Bard, Bing Chat AI and Character.ai. We have sorted all the AI products according to their ratings, popularity and other factors."
+    },
+    "productivity": {
+        "name": "Productivity Tools",
+        "fullName": "Productivity Tools & Softwares",
+        "desc": "This list collects all the best Productivity applications and softwares available on the Internet. We have featured the best productivity websites and tools from various publishers such as Google, Microsoft, Quora and Adobe."
+    },
+    "animesites": {
+        "name": "Anime Sites",
+        "fullName": "Anime Sites - Watch Anime Online",
+        "desc": "This list collects all the best free Anime Sites available on the Internet. The top free anime websites in 2023 are 9Anime, KissAnime and Anime Planet. While best premium anime websites are Netflix, Crunchyroll and Hulu."
+    },
+    "nsfw": {
+        "name": "NSFW",
+        "fullName": "NSFW",
+        "desc": "This list collects all the best websites and applications with the NSFW label available on the Internet. NSFW represents Not Safe For Work, which means content with this label is not suitable in workplace as they may contain inappropriate and private content such as content that are sexually explicit or violent."
+    },
+    "adult": {
+        "name": "Adult Sites",
+        "fullName": "Adult Sites",
+        "desc": "This list collects all the best Adult sites available on the Internet. Adult labels are for content that can only be viewed when you are above 18 years old, such as sexually explicit or violent content. This label is made to keep children and teenagers safe."
+    },
+    "porn": {
+        "name": "Porn Sites",
+        "fullName": "Porn Sites",
+        "desc": "This list collects all the Porn sites available on the Internet. Some of the top Porn and Sex sites are: Pornhub, XVideos, XNXX and xHamster."
+    },
+    "socialmedia": {
+        "name": "Social Media",
+        "fullName": "Social Media",
+        "desc": "This list collects all the best Social Media available on the Internet. The top Social Media are YouTube, Facebook, TikTok and Reddit."
+    },
+    "searchengine": {
+        "name": "Search Engine",
+        "fullName": "Search Engine",
+        "desc": "This list collects all the best Search Engine available on the Internet."
+    },
+    "aigirl": {
+        "name": "AI Girl",
+        "fullName": "AI Girl",
+        "desc": "This list collects all the best AI Girl apps available on the Internet. These online app has the best female avatars powered by Artifical Intelligence and deepfake. If you want to chat with any AI girls, you must check out this list."
+    },
+    "aigenerator": {
+        "name": "AI Art Generator",
+        "fullName": "AI Art Generator",
+        "desc": "This list collects all the best AI Generator websites and apps available on the Internet. These tools allow anybody to generator any AI contents, such as arts, texts and animations. You can even create more complex contents, such as characters, chatbots and web applications with some of these tools."
+    },
+    "aiart": {
+        "name": "AI Art & Design Apps",
+        "fullName": "AI Art & Design Apps",
+        "desc": "This list collects all the best AI Art and Design websites and apps available on the Internet. You can find the latest technology on AI Arts here, including AI Arts and Design generator, transforming simple word prompts into different images."
+    },
+	"townandcitygames": {
+        "name": "Town and City Games",
+        "desc": "",
+        "fullName": "Town and City Games"
+    },
+	"comedygames": {
+        "name": "Comedy Games",
+        "desc": "",
+        "fullName": "Comedy Games"
+    },
+	"navalgames": {
+        "name": "Naval Games",
+        "desc": "",
+        "fullName": "Naval Games"
+    },
+    "scifigames": {
+        "name": "Sci-Fi Games",
+        "desc": "",
+        "fullName": "Sci-Fi Games"
+    },
+    "militarygames": {
+        "name": "Military Games",
+        "desc": "",
+        "fullName": "Military Games"
+    },
+	"westerngames": {
+        "name": "Western Games",
+        "desc": "",
+        "fullName": "Western Games"
+    },
+	"robloxgames": {
+        "name": "Roblox Games",
+        "desc": "",
+        "fullName": "Roblox Games"
+    },
+	"steamgames": {
+        "name": "Steam Games",
+        "desc": "",
+        "fullName": "Steam Games"
+    }
+}

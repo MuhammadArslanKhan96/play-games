@@ -1,0 +1,7077 @@
+{
+    "buyhtml5": {
+        "name": "BuyHTML5",
+        "fullName": "BuyHTML5",
+        "desc": ""
+    },
+    "solebonllc": {
+        "name": "Solebon LLC",
+        "fullName": "Solebon LLC",
+        "desc": ""
+    },
+    "happylander": {
+        "name": "Happylander",
+        "fullName": "Happylander",
+        "desc": ""
+    },
+    "gamepix": {
+        "name": "GamePix",
+        "fullName": "GamePix",
+        "desc": ""
+    },
+	"sybo": {
+        "name": "SYBO",
+        "fullName": "SYBO",
+        "desc": ""
+    },
+    "erayzeşen": {
+        "name": "Eray Zeşen",
+        "fullName": "Eray Zeşen",
+        "desc": ""
+    },
+    "bontegames": {
+        "name": "Bonte Games",
+        "fullName": "Bonte Games",
+        "desc": ""
+    },
+    "playworksdigital": {
+        "name": "PlayWorks Digital",
+        "fullName": "PlayWorks Digital",
+        "desc": ""
+    },
+    "playwithfurcifer": {
+        "name": "PlayWithFurcifer",
+        "fullName": "PlayWithFurcifer",
+        "desc": ""
+    },
+    "denisolenison": {
+        "name": "Denis Olenison",
+        "fullName": "Denis Olenison",
+        "desc": ""
+    },
+    "kodiqi": {
+        "name": "Kodiqi",
+        "fullName": "Kodiqi",
+        "desc": ""
+    },
+    "carlospedroso": {
+        "name": "Carlos Pedroso",
+        "fullName": "Carlos Pedroso",
+        "desc": ""
+    },
+    "calastrovsk": {
+        "name": "Calastrovsk",
+        "fullName": "Calastrovsk",
+        "desc": ""
+    },
+    "justinhook": {
+        "name": "Justin Hook",
+        "fullName": "Justin Hook",
+        "desc": ""
+    },
+    "poki": {
+        "name": "Poki",
+        "fullName": "Poki",
+        "desc": ""
+    },
+    "xformgames": {
+        "name": "XFormGames",
+        "fullName": "XFormGames",
+        "desc": ""
+    },
+    "trebuchetentertainment": {
+        "name": "Trebuchet Entertainment",
+        "fullName": "Trebuchet Entertainment",
+        "desc": ""
+    },
+    "gogoman": {
+        "name": "GoGoMan",
+        "fullName": "GoGoMan",
+        "desc": ""
+    },
+    "firmaksim": {
+        "name": "firmaksim",
+        "fullName": "firmaksim",
+        "desc": ""
+    },
+    "wixgames": {
+        "name": "Wix Games",
+        "fullName": "Wix Games",
+        "desc": ""
+    },
+    "mosugames": {
+        "name": "Mosu Games",
+        "fullName": "Mosu Games",
+        "desc": ""
+    },
+    "evilobjective": {
+        "name": "EvilObjective",
+        "fullName": "EvilObjective",
+        "desc": ""
+    },
+    "barnzmu": {
+        "name": "Barnzmu",
+        "fullName": "Barnzmu",
+        "desc": ""
+    },
+    "özgüraydın": {
+        "name": "Özgür Aydın",
+        "fullName": "Özgür Aydın",
+        "desc": ""
+    },
+    "gametornado": {
+        "name": "Gametornado",
+        "fullName": "Gametornado",
+        "desc": ""
+    },
+    "gopandagames": {
+        "name": "Go Panda Games",
+        "fullName": "Go Panda Games",
+        "desc": ""
+    },
+    "robertalvarez": {
+        "name": "Robert Alvarez",
+        "fullName": "Robert Alvarez",
+        "desc": ""
+    },
+    "konstantinkornushin": {
+        "name": "konstantin kornushin",
+        "fullName": "konstantin kornushin",
+        "desc": ""
+    },
+    "codebolt": {
+        "name": "codebolt",
+        "fullName": "codebolt",
+        "desc": ""
+    },
+    "adgard": {
+        "name": "Adgard",
+        "fullName": "Adgard",
+        "desc": ""
+    },
+    "dennatolich": {
+        "name": "dennatolich",
+        "fullName": "dennatolich",
+        "desc": ""
+    },
+    "taplabgames": {
+        "name": "TapLabGames",
+        "fullName": "TapLabGames",
+        "desc": ""
+    },
+    "robowhale": {
+        "name": "Robowhale",
+        "fullName": "Robowhale",
+        "desc": ""
+    },
+    "eaglegames": {
+        "name": "Eagle Games",
+        "fullName": "Eagle Games",
+        "desc": ""
+    },
+    "ncase": {
+        "name": "NCase",
+        "fullName": "NCase",
+        "desc": ""
+    },
+    "impossibleapps": {
+        "name": "Impossible Apps",
+        "fullName": "Impossible Apps",
+        "desc": ""
+    },
+    "maksimeliseenko": {
+        "name": "Maksim Eliseenko",
+        "fullName": "Maksim Eliseenko",
+        "desc": ""
+    },
+    "blueaxis": {
+        "name": "Blue Axis",
+        "fullName": "Blue Axis",
+        "desc": ""
+    },
+    "miniduck": {
+        "name": "Mini Duck",
+        "fullName": "Mini Duck",
+        "desc": ""
+    },
+    "beedogames": {
+        "name": "Beedo Games",
+        "fullName": "Beedo Games",
+        "desc": ""
+    },
+    "brainsoftware": {
+        "name": "Brain Software",
+        "fullName": "Brain Software",
+        "desc": ""
+    },
+    "madpuffers": {
+        "name": "Madpuffers",
+        "fullName": "Madpuffers",
+        "desc": ""
+    },
+    "gamerina": {
+        "name": "Gamerina",
+        "fullName": "Gamerina",
+        "desc": ""
+    },
+    "b10b": {
+        "name": "b10b",
+        "fullName": "b10b",
+        "desc": ""
+    },
+    "drmop": {
+        "name": "Drmop",
+        "fullName": "Drmop",
+        "desc": ""
+    },
+    "airapport": {
+        "name": "Airapport",
+        "fullName": "Airapport",
+        "desc": ""
+    },
+    "freewayinteractive": {
+        "name": "Freeway Interactive",
+        "fullName": "Freeway Interactive",
+        "desc": ""
+    },
+    "vardanaleksanyan": {
+        "name": "Vardan Aleksanyan",
+        "fullName": "Vardan Aleksanyan",
+        "desc": ""
+    },
+    "titangames": {
+        "name": "TitanGames",
+        "fullName": "TitanGames",
+        "desc": ""
+    },
+    "iriysoft": {
+        "name": "IriySoft",
+        "fullName": "IriySoft",
+        "desc": ""
+    },
+    "psgames": {
+        "name": "PS Games",
+        "fullName": "PS Games",
+        "desc": ""
+    },
+    "paperbunker": {
+        "name": "PaperBunker",
+        "fullName": "PaperBunker",
+        "desc": ""
+    },
+    "tallteam": {
+        "name": "Tall Team",
+        "fullName": "Tall Team",
+        "desc": ""
+    },
+    "tonycorbin": {
+        "name": "Tony Corbin",
+        "fullName": "Tony Corbin",
+        "desc": ""
+    },
+    "ravalmatic": {
+        "name": "Ravalmatic",
+        "fullName": "Ravalmatic",
+        "desc": ""
+    },
+    "cybergoldfinch": {
+        "name": "CyberGoldFinch",
+        "fullName": "CyberGoldFinch",
+        "desc": ""
+    },
+    "shareddreams": {
+        "name": "Shared Dreams",
+        "fullName": "Shared Dreams",
+        "desc": ""
+    },
+    "frvr": {
+        "name": "FRVR",
+        "fullName": "FRVR",
+      "desc":"FRVR the developer of popular games such as Basketball FRVR, Hex FRVR, Gold Digger FRVR and Krunker FRVR. It is a casual game studio founded by Chris Benjaminsen. FRVR's vision is to make the best casual web games available in the style of FRVR, with great graphic designs, smooth animations, and fun gameplay."
+   },
+    "aronsommer": {
+        "name": "Aron Sommer",
+        "fullName": "Aron Sommer",
+        "desc": ""
+    },
+    "smokokoltd": {
+        "name": "SMOKOKO LTD",
+        "fullName": "SMOKOKO LTD",
+        "desc": ""
+    },
+    "spirkop": {
+        "name": "Spirkop",
+        "fullName": "Spirkop",
+        "desc": ""
+    },
+    "martiangames": {
+        "name": "Martian Games",
+        "fullName": "Martian Games",
+        "desc": ""
+    },
+    "playtouch": {
+        "name": "Playtouch",
+        "fullName": "Playtouch",
+        "desc": ""
+    },
+    "dekman": {
+        "name": "dekman",
+        "fullName": "dekman",
+        "desc": ""
+    },
+    "pecpocgames": {
+        "name": "PecPoc Games",
+        "fullName": "PecPoc Games",
+        "desc": ""
+    },
+    "vladetamarinkovic": {
+        "name": "Vladeta Marinkovic",
+        "fullName": "Vladeta Marinkovic",
+        "desc": ""
+    },
+    "pixelvoices": {
+        "name": "Pixel Voices",
+        "fullName": "Pixel Voices",
+        "desc": ""
+    },
+    "eggysgames": {
+        "name": "Eggys Games",
+        "fullName": "Eggys Games",
+        "desc": ""
+    },
+    "dparrot": {
+        "name": "DParrot",
+        "fullName": "DParrot",
+        "desc": ""
+    },
+    "madpuffer": {
+        "name": "MadPuffer",
+        "fullName": "MadPuffer",
+        "desc": ""
+    },
+    "faramelgames": {
+        "name": "Faramel games",
+        "fullName": "Faramel games",
+        "desc": ""
+    },
+    "g4aagames": {
+        "name": "G4AA Games",
+        "fullName": "G4AA Games",
+        "desc": ""
+    },
+    "redeyeproductions": {
+        "name": "RedEye Productions",
+        "fullName": "RedEye Productions",
+        "desc": ""
+    },
+    "bonecrackergames": {
+        "name": "BoneCracker Games",
+        "fullName": "BoneCracker Games",
+        "desc": ""
+    },
+    "denissokolov": {
+        "name": "Denis Sokolov",
+        "fullName": "Denis Sokolov",
+        "desc": ""
+    },
+    "arthur": {
+        "name": "Arthur",
+        "fullName": "Arthur",
+        "desc": ""
+    },
+    "ericetto": {
+        "name": "Ericetto",
+        "fullName": "Ericetto",
+        "desc": ""
+    },
+    "goaliesave25": {
+        "name": "GoalieSave25",
+        "fullName": "GoalieSave25",
+        "desc": ""
+    },
+    "famobi": {
+        "name": "Famobi",
+        "fullName": "Famobi",
+        "desc": ""
+    },
+    "miniblox": {
+        "name": "Miniblox",
+        "fullName": "Miniblox",
+        "desc": ""
+    },
+    "battlelab": {
+        "name": "battlelab",
+        "fullName": "battlelab",
+        "desc": ""
+    },
+    "dapalab": {
+        "name": "DAPALAB",
+        "fullName": "DAPALAB",
+        "desc": ""
+    },
+    "alekseiskachko": {
+        "name": "Aleksei Skachko",
+        "fullName": "Aleksei Skachko",
+        "desc": ""
+    },
+    "gmrbros": {
+        "name": "GMR Bros.",
+        "fullName": "GMR Bros.",
+        "desc": ""
+    },
+    "valvolex": {
+        "name": "Valvolex",
+        "fullName": "Valvolex",
+        "desc": ""
+    },
+    "rhminteractive": {
+        "name": " RHM Interactive",
+        "fullName": " RHM Interactive",
+        "desc": ""
+    },
+    "pierreéli": {
+        "name": "Pierre Éli",
+        "fullName": "Pierre Éli",
+        "desc": ""
+    },
+    "blayzegames": {
+        "name": "Blayze Games",
+        "fullName": "Blayze Games",
+        "desc": ""
+    },
+    "hikboostudios": {
+        "name": "HikBoo Studios",
+        "fullName": "HikBoo Studios",
+        "desc": ""
+    },
+    "arkadium": {
+        "name": "Arkadium",
+        "fullName": "Arkadium",
+        "desc": ""
+    },
+    "voodoo": {
+        "name": "Voodoo",
+        "fullName": "Voodoo",
+        "desc": ""
+    },
+    "chennaigames": {
+        "name": "ChennaiGames",
+        "fullName": "ChennaiGames",
+        "desc": ""
+    },
+    "boombit": {
+        "name": "Boombit",
+        "fullName": "Boombit",
+        "desc": ""
+    },
+    "sergeymezhakov": {
+        "name": "Sergey Mezhakov",
+        "fullName": "Sergey Mezhakov",
+        "desc": ""
+    },
+    "tonsomar": {
+        "name": "tonsomar",
+        "fullName": "tonsomar",
+        "desc": ""
+    },
+    "fireflour": {
+        "name": "Fire Flour",
+        "fullName": "Fire Flour",
+        "desc": ""
+    },
+    "yilmazkiymaz": {
+        "name": "Yilmaz Kiymaz",
+        "fullName": "Yilmaz Kiymaz",
+        "desc": ""
+    },
+    "jetgames": {
+        "name": "JetGames",
+        "fullName": "JetGames",
+        "desc": ""
+    },
+    "gametionglobal": {
+        "name": "Gametion Global",
+        "fullName": "Gametion Global",
+        "desc": ""
+    },
+    "obumogames": {
+        "name": "Obumo Games",
+        "fullName": "Obumo Games",
+        "desc": ""
+    },
+    "bornisgamelab": {
+        "name": "BORNIS GameLab",
+        "fullName": "BORNIS GameLab",
+        "desc": ""
+    },
+    "kooapps": {
+        "name": "Kooapps",
+        "fullName": "Kooapps",
+        "desc": ""
+    },
+    "amuzo": {
+        "name": "Amuzo",
+        "fullName": "Amuzo",
+        "desc": ""
+    },
+    "ctrl4ltdel": {
+        "name": "Ctrl4ltDel",
+        "fullName": "Ctrl4ltDel",
+        "desc": ""
+    },
+    "magnifica": {
+        "name": "magnifica",
+        "fullName": "magnifica",
+        "desc": ""
+    },
+    "miniclip": {
+        "name": "Miniclip",
+        "fullName": "Miniclip",
+        "desc": ""
+    },
+    "am": {
+        "name": "AM",
+        "fullName": "AM",
+        "desc": ""
+    },
+    "cleverapps": {
+        "name": "Clever Apps",
+        "fullName": "Clever Apps",
+        "desc": ""
+    },
+    "curtastic": {
+        "name": "curtastic",
+        "fullName": "curtastic",
+        "desc": ""
+    },
+    "playmost": {
+        "name": "Playmost",
+        "fullName": "Playmost",
+        "desc": ""
+    },
+    "chacragames": {
+        "name": "Chacra Games",
+        "fullName": "Chacra Games",
+        "desc": ""
+    },
+    "ysocorp": {
+        "name": "Yso Corp",
+        "fullName": "Yso Corp",
+        "desc": ""
+    },
+    "leezak": {
+        "name": "Lee Zak",
+        "fullName": "Lee Zak",
+        "desc": ""
+    },
+    "coltroc": {
+        "name": "Coltroc",
+        "fullName": "Coltroc",
+        "desc": ""
+    },
+    "lapamauve": {
+        "name": "LapaMauve",
+        "fullName": "LapaMauve",
+        "desc": ""
+    },
+    "neuronality": {
+        "name": "Neuronality",
+        "fullName": "Neuronality",
+        "desc": ""
+    },
+    "saygames": {
+        "name": "SayGames",
+        "fullName": "SayGames",
+        "desc": ""
+    },
+    "winterpixelgames": {
+        "name": "Winterpixel Games",
+        "fullName": "Winterpixel Games",
+        "desc": ""
+    },
+    "nevergames": {
+        "name": "neverGames",
+        "fullName": "neverGames",
+        "desc": ""
+    },
+    "kwalee": {
+        "name": "Kwalee",
+        "fullName": "Kwalee",
+        "desc": ""
+    },
+    "astetrio": {
+        "name": "Astetrio",
+        "fullName": "Astetrio",
+        "desc": ""
+    },
+    "blurystudio": {
+        "name": "Blury Studio",
+        "fullName": "Blury Studio",
+        "desc": ""
+    },
+    "onkigames": {
+        "name": "Onki Games",
+        "fullName": "Onki Games",
+        "desc": ""
+    },
+    "asdfgames": {
+        "name": "ASDF Games",
+        "fullName": "ASDF Games",
+        "desc": ""
+    },
+    "tinydobbins": {
+        "name": "TinyDobbins",
+        "fullName": "TinyDobbins",
+        "desc": ""
+    },
+    "ozitech": {
+        "name": "OziTech",
+        "fullName": "OziTech",
+        "desc": ""
+    },
+    "justaliendev": {
+        "name": "justaliendev",
+        "fullName": "justaliendev",
+        "desc": ""
+    },
+    "neko": {
+        "name": "Neko",
+        "fullName": "Neko",
+        "desc": ""
+    },
+    "mathfgames": {
+        "name": "Mathf Games",
+        "fullName": "Mathf Games",
+        "desc": ""
+    },
+    "funtorystudio": {
+        "name": "Funtory Studio",
+        "fullName": "Funtory Studio",
+        "desc": ""
+    },
+    "andreymelnikov": {
+        "name": "Andrey Melnikov",
+        "fullName": "Andrey Melnikov",
+        "desc": ""
+    },
+    "mattzap": {
+        "name": "Mattzap",
+        "fullName": "Mattzap",
+        "desc": ""
+    },
+    "zytechai": {
+        "name": "Zytech AI",
+        "fullName": "Zytech AI",
+        "desc": ""
+    },
+    "antargames": {
+        "name": "Antar Games",
+        "fullName": "Antar Games",
+        "desc": ""
+    },
+    "mewtongames": {
+        "name": "Mewton Games",
+        "fullName": "Mewton Games",
+        "desc": ""
+    },
+    "atomicode": {
+        "name": "Atomicode",
+        "fullName": "Atomicode",
+        "desc": ""
+    },
+    "easycats": {
+        "name": "EasyCats",
+        "fullName": "EasyCats",
+        "desc": ""
+    },
+    "wildspike": {
+        "name": "Wild Spike",
+        "fullName": "Wild Spike",
+        "desc": ""
+    },
+    "gamepush": {
+        "name": "GamePush",
+        "fullName": "GamePush",
+        "desc": ""
+    },
+    "blacktabbgames": {
+        "name": "Blacktabb Games",
+        "fullName": "Blacktabb Games",
+        "desc": ""
+    },
+    "faraday": {
+        "name": "Faraday",
+        "fullName": "Faraday",
+        "desc": ""
+    },
+    "playsaurus": {
+        "name": "Playsaurus",
+        "fullName": "Playsaurus",
+        "desc": ""
+    },
+    "devdude": {
+        "name": "Dev Dude",
+        "fullName": "Dev Dude",
+        "desc": ""
+    },
+    "ideastudios": {
+        "name": "Idea Studios",
+        "fullName": "Idea Studios",
+        "desc": ""
+    },
+    "laplacegames": {
+        "name": "Laplace Games",
+        "fullName": "Laplace Games",
+        "desc": ""
+    },
+    "jefersonbelmiro": {
+        "name": "Jeferson Belmiro",
+        "fullName": "Jeferson Belmiro",
+        "desc": ""
+    },
+    "playablefactory": {
+        "name": "playablefactory",
+        "fullName": "playablefactory",
+        "desc": ""
+    },
+    "softbear": {
+        "name": "Softbear",
+        "fullName": "Softbear",
+        "desc": ""
+    },
+    "šarūnasvisockas": {
+        "name": "Šarūnas Visockas",
+        "fullName": "Šarūnas Visockas",
+        "desc": ""
+    },
+    "orenjispark": {
+        "name": "Orenji Spark",
+        "fullName": "Orenji Spark",
+        "desc": ""
+    },
+    "barbas": {
+        "name": "Barbas",
+        "fullName": "Barbas",
+        "desc": ""
+    },
+    "sateda": {
+        "name": "Sateda",
+        "fullName": "Sateda",
+        "desc": ""
+    },
+    "kwaleeltd": {
+        "name": "Kwalee Ltd",
+        "fullName": "Kwalee Ltd",
+        "desc": ""
+    },
+    "radbrothers": {
+        "name": "Rad Brothers",
+        "fullName": "Rad Brothers",
+        "desc": ""
+    },
+    "mnogoigrovka": {
+        "name": "Mnogoigrovka",
+        "fullName": "Mnogoigrovka",
+        "desc": ""
+    },
+    "nerderror": {
+        "name": "nerdError",
+        "fullName": "nerdError",
+        "desc": ""
+    },
+    "mirragames": {
+        "name": "Mirra games",
+        "fullName": "Mirra games",
+        "desc": ""
+    },
+    "matheusvaladares": {
+        "name": "Matheus Valadares",
+        "fullName": "Matheus Valadares",
+        "desc": ""
+    },
+    "a1games": {
+        "name": "a1games",
+        "fullName": "a1games",
+        "desc": ""
+    },
+    "arturstogney": {
+        "name": "Artur Stogney",
+        "fullName": "Artur Stogney",
+        "desc": ""
+    },
+    "angelhrisimov": {
+        "name": "Angel Hrisimov",
+        "fullName": "Angel Hrisimov",
+        "desc": ""
+    },
+    "madhawkgames": {
+        "name": "Madhawk Games",
+        "fullName": "Madhawk Games",
+        "desc": ""
+    },
+    "popmu": {
+        "name": "PoPMu",
+        "fullName": "PoPMu",
+        "desc": ""
+    },
+    "leimurgames": {
+        "name": "LeimurGames",
+        "fullName": "LeimurGames",
+        "desc": ""
+    },
+    "funtory": {
+        "name": "Funtory",
+        "fullName": "Funtory",
+        "desc": ""
+    },
+    "swanrnd": {
+        "name": "swanrnd",
+        "fullName": "swanrnd",
+        "desc": ""
+    },
+    "sunstudio": {
+        "name": "SUN.STUDIO",
+        "fullName": "SUN.STUDIO",
+        "desc": ""
+    },
+    "voxiom": {
+        "name": "Voxiom",
+        "fullName": "Voxiom",
+        "desc": ""
+    },
+    "solitaireparadise": {
+        "name": "Solitaire Paradise",
+        "fullName": "Solitaire Paradise",
+        "desc": ""
+    },
+    "burgumgames": {
+        "name": "BurGum Games",
+        "fullName": "BurGum Games",
+        "desc": ""
+    },
+    "syn": {
+        "name": "Syn",
+        "fullName": "Syn",
+        "desc": ""
+    },
+    "moonee": {
+        "name": "Moonee",
+        "fullName": "Moonee",
+        "desc": ""
+    },
+    "luts91": {
+        "name": "Luts91",
+        "fullName": "Luts91",
+        "desc": ""
+    },
+    "gaterngames": {
+        "name": "Gatern Games",
+        "fullName": "Gatern Games",
+        "desc": ""
+    },
+    "markus": {
+        "name": "Markus",
+        "fullName": "Markus",
+        "desc": ""
+    },
+    "pikmer": {
+        "name": "pikmer",
+        "fullName": "pikmer",
+        "desc": ""
+    },
+    "robertomulas": {
+        "name": "Roberto Mulas",
+        "fullName": "Roberto Mulas",
+        "desc": ""
+    },
+    "ledwar": {
+        "name": "LedWar",
+        "fullName": "LedWar",
+        "desc": ""
+    },
+    "feverdev": {
+        "name": "FeverDev",
+        "fullName": "FeverDev",
+        "desc": ""
+    },
+    "creauctopus": {
+        "name": "Creauctopus",
+        "fullName": "Creauctopus",
+        "desc": ""
+    },
+    "maximtsai": {
+        "name": "Maxim Tsai",
+        "fullName": "Maxim Tsai",
+        "desc": ""
+    },
+    "evracstudio": {
+        "name": "Evrac Studio",
+        "fullName": "Evrac Studio",
+        "desc": ""
+    },
+    "kayiyou": {
+        "name": "Kayiyou",
+        "fullName": "Kayiyou",
+        "desc": ""
+    },
+    "nugames": {
+        "name": "Nu Games",
+        "fullName": "Nu Games",
+        "desc": ""
+    },
+    "homagames": {
+        "name": "Homa Games",
+        "fullName": "Homa Games",
+        "desc": ""
+    },
+    "peka": {
+        "name": "PEKA",
+        "fullName": "PEKA",
+        "desc": ""
+    },
+    "youdevice!": {
+        "name": "YouDevice!",
+        "fullName": "YouDevice!",
+        "desc": ""
+    },
+    "anima_games": {
+        "name": "Anima_Games",
+        "fullName": "Anima_Games",
+        "desc": ""
+    },
+    "coderselectronics": {
+        "name": "CodersElectronics",
+        "fullName": "CodersElectronics",
+        "desc": ""
+    },
+    "devshifustudio": {
+        "name": "Devshifu Studio",
+        "fullName": "Devshifu Studio",
+        "desc": ""
+    },
+    "brewgames": {
+        "name": "Brew Games",
+        "fullName": "Brew Games",
+        "desc": ""
+    },
+    "starlegion": {
+        "name": "Star Legion",
+        "fullName": "Star Legion",
+        "desc": ""
+    },
+    "ichbinhamma": {
+        "name": "Ichbinhamma",
+        "fullName": "Ichbinhamma",
+        "desc": ""
+    },
+    "tinycarnival": {
+        "name": "Tiny Carnival",
+        "fullName": "Tiny Carnival",
+        "desc": ""
+    },
+    "holydaystudios": {
+        "name": "Holyday Studios",
+        "fullName": "Holyday Studios",
+        "desc": ""
+    },
+    "ixelgames": {
+        "name": "Ixel Games",
+        "fullName": "Ixel Games",
+        "desc": ""
+    },
+    "foony": {
+        "name": "Foony",
+        "fullName": "Foony",
+        "desc": ""
+    },
+    "cereglobal": {
+        "name": "CERE Global",
+        "fullName": "CERE Global",
+        "desc": ""
+    },
+    "gameever": {
+        "name": "GameEver",
+        "fullName": "GameEver",
+        "desc": ""
+    },
+    "ignasrcom": {
+        "name": "IgnasRCom",
+        "fullName": "IgnasRCom",
+        "desc": ""
+    },
+    "griffpatch": {
+        "name": "Griffpatch",
+        "fullName": "Griffpatch",
+        "desc": ""
+    },
+    "veprogames": {
+        "name": "VeproGames",
+        "fullName": "VeproGames",
+        "desc": ""
+    },
+    "ivanpanasenko": {
+        "name": "Ivan Panasenko",
+        "fullName": "Ivan Panasenko",
+        "desc": ""
+    },
+    "dogames": {
+        "name": "do.games",
+        "fullName": "do.games",
+        "desc": ""
+    },
+    "freepda": {
+        "name": "FreePDA",
+        "fullName": "FreePDA",
+        "desc": ""
+    },
+    "seyloj": {
+        "name": "Seyloj",
+        "fullName": "Seyloj",
+        "desc": ""
+    },
+    "magnificstudios": {
+        "name": "Magnific Studios",
+        "fullName": "Magnific Studios",
+        "desc": ""
+    },
+    "bombsightgames": {
+        "name": "Bombsight Games",
+        "fullName": "Bombsight Games",
+        "desc": ""
+    },
+    "chromedinocom": {
+        "name": "ChromeDino.com",
+        "fullName": "ChromeDino.com",
+        "desc": ""
+    },
+    "vadgames": {
+        "name": "Vad Games",
+        "fullName": "Vad Games",
+        "desc": ""
+    },
+    "triflesgames": {
+        "name": "Trifles Games",
+        "fullName": "Trifles Games",
+        "desc": ""
+    },
+    "digitalwill": {
+        "name": "Digital Will",
+        "fullName": "Digital Will",
+        "desc": ""
+    },
+    "pixelhead": {
+        "name": "pixelhead",
+        "fullName": "pixelhead",
+        "desc": ""
+    },
+    "dragz777": {
+        "name": "dragz.777",
+        "fullName": "dragz.777",
+        "desc": ""
+    },
+    "zetoman77": {
+        "name": "Zetoman77",
+        "fullName": "Zetoman77",
+        "desc": ""
+    },
+    "dedragames": {
+        "name": "Dedra Games",
+        "fullName": "Dedra Games",
+        "desc": ""
+    },
+    "seryasgames": {
+        "name": "Seryas Games",
+        "fullName": "Seryas Games",
+        "desc": ""
+    },
+    "borutist": {
+        "name": "Borutist",
+        "fullName": "Borutist",
+        "desc": ""
+    },
+    "4ugames": {
+        "name": "4U Games",
+        "fullName": "4U Games",
+        "desc": ""
+    },
+    "everplay": {
+        "name": "Everplay",
+        "fullName": "Everplay",
+        "desc": ""
+    },
+    "matryoshkagames": {
+        "name": "Matryoshka Games",
+        "fullName": "Matryoshka Games",
+        "desc": ""
+    },
+    "moonfrog": {
+        "name": "Moonfrog",
+        "fullName": "Moonfrog",
+        "desc": ""
+    },
+    "noxgames": {
+        "name": "NOXGAMES",
+        "fullName": "NOXGAMES",
+        "desc": ""
+    },
+    "plexygame": {
+        "name": "PLEXYGAME",
+        "fullName": "PLEXYGAME",
+        "desc": ""
+    },
+    "animagames": {
+        "name": "AnimaGames",
+        "fullName": "AnimaGames",
+        "desc": ""
+    },
+    "isotronic": {
+        "name": "isotronic",
+        "fullName": "isotronic",
+        "desc": ""
+    },
+    "gearheadgames": {
+        "name": "Gearhead Games",
+        "fullName": "Gearhead Games",
+        "desc": ""
+    },
+    "lukaglavonjić": {
+        "name": "Luka Glavonjić",
+        "fullName": "Luka Glavonjić",
+        "desc": ""
+    },
+    "zmedia": {
+        "name": "Z-Media",
+        "fullName": "Z-Media",
+        "desc": ""
+    },
+    "xenoliastudios": {
+        "name": "Xenolia Studios",
+        "fullName": "Xenolia Studios",
+        "desc": ""
+    },
+    "snapbreak": {
+        "name": "Snapbreak",
+        "fullName": "Snapbreak",
+        "desc": ""
+    },
+    "minimunstudios": {
+        "name": "MinimunStudios",
+        "fullName": "MinimunStudios",
+        "desc": ""
+    },
+    "unitradius": {
+        "name": "UnitRadius",
+        "fullName": "UnitRadius",
+        "desc": ""
+    },
+    "dmobin": {
+        "name": "Dmobin",
+        "fullName": "Dmobin",
+        "desc": ""
+    },
+    "arpaplus": {
+        "name": "Arpaplus",
+        "fullName": "Arpaplus",
+        "desc": ""
+    },
+    "balzsam": {
+        "name": "Balzsam",
+        "fullName": "Balzsam",
+        "desc": ""
+    },
+    "adventale": {
+        "name": "Adventale",
+        "fullName": "Adventale",
+        "desc": ""
+    },
+    "masasgames": {
+        "name": "masasgames",
+        "fullName": "masasgames",
+        "desc": ""
+    },
+    "dorfergames": {
+        "name": "Dorfer Games",
+        "fullName": "Dorfer Games",
+        "desc": ""
+    },
+    "almagames": {
+        "name": "almagames",
+        "fullName": "almagames",
+        "desc": ""
+    },
+    "playnoob": {
+        "name": "Playnoob",
+        "fullName": "Playnoob",
+        "desc": ""
+    },
+    "worldnmore": {
+        "name": "WorldNMore",
+        "fullName": "WorldNMore",
+        "desc": ""
+    },
+    "hityaragames": {
+        "name": "HITyara Games",
+        "fullName": "HITyara Games",
+        "desc": ""
+    },
+    "cgames": {
+        "name": "C Games",
+        "fullName": "C Games",
+        "desc": ""
+    },
+    "furkankarapınar": {
+        "name": "Furkan Karapınar",
+        "fullName": "Furkan Karapınar",
+        "desc": ""
+    },
+    "vobbygames": {
+        "name": "VobbyGames",
+        "fullName": "VobbyGames",
+        "desc": ""
+    },
+    "startgames": {
+        "name": "start games",
+        "fullName": "start games",
+        "desc": ""
+    },
+    "joefree": {
+        "name": "joefree",
+        "fullName": "joefree",
+        "desc": ""
+    },
+    "zackwheelhouse": {
+        "name": "Zack Wheelhouse",
+        "fullName": "Zack Wheelhouse",
+        "desc": ""
+    },
+    "yuriynikshych": {
+        "name": "Yuriy Nikshych",
+        "fullName": "Yuriy Nikshych",
+        "desc": ""
+    },
+    "rkn": {
+        "name": "rkn",
+        "fullName": "rkn",
+        "desc": ""
+    },
+    "chaz": {
+        "name": "Chaz",
+        "fullName": "Chaz",
+        "desc": ""
+    },
+    "abcgames": {
+        "name": "abcgames",
+        "fullName": "abcgames",
+        "desc": ""
+    },
+    "aleksandrkabalkin": {
+        "name": "Aleksandr Kabalkin",
+        "fullName": "Aleksandr Kabalkin",
+        "desc": ""
+    },
+    "armath": {
+        "name": "Armath",
+        "fullName": "Armath",
+        "desc": ""
+    },
+    "lazydev": {
+        "name": "LazyDev",
+        "fullName": "LazyDev",
+        "desc": ""
+    },
+    "eponeshtechnologies": {
+        "name": "Eponesh.Technologies",
+        "fullName": "Eponesh.Technologies",
+        "desc": ""
+    },
+    "jronn": {
+        "name": "jronn",
+        "fullName": "jronn",
+        "desc": ""
+    },
+    "deanédan": {
+        "name": "Dean Édan",
+        "fullName": "Dean Édan",
+        "desc": ""
+    },
+    "gigamegagames": {
+        "name": "GigaMegaGames",
+        "fullName": "GigaMegaGames",
+        "desc": ""
+    },
+    "apexlogics": {
+        "name": "Apex Logics",
+        "fullName": "Apex Logics",
+        "desc": ""
+    },
+    "diyagames": {
+        "name": "Diya Games",
+        "fullName": "Diya Games",
+        "desc": ""
+    },
+    "busidol": {
+        "name": "Busidol",
+        "fullName": "Busidol",
+        "desc": ""
+    },
+    "minixgames": {
+        "name": "Minix Games",
+        "fullName": "Minix Games",
+        "desc": ""
+    },
+    "aimlessstudios": {
+        "name": "Aimless Studios",
+        "fullName": "Aimless Studios",
+        "desc": ""
+    },
+    "oscartulkens": {
+        "name": "oscar tulkens",
+        "fullName": "oscar tulkens",
+        "desc": ""
+    },
+    "nobrainstudio": {
+        "name": "NoBrain Studio",
+        "fullName": "NoBrain Studio",
+        "desc": ""
+    },
+    "gmambastudio": {
+        "name": "Gmamba Studio",
+        "fullName": "Gmamba Studio",
+        "desc": ""
+    },
+    "beavergames": {
+        "name": "Beaver Games ",
+        "fullName": "Beaver Games ",
+        "desc": ""
+    },
+    "snowroadgames": {
+        "name": "SnowRoadGames",
+        "fullName": "SnowRoadGames",
+        "desc": ""
+    },
+    "kiqqigames": {
+        "name": "Kiqqi Games",
+        "fullName": "Kiqqi Games",
+        "desc": ""
+    },
+    "freezenova": {
+        "name": "Freeze Nova",
+        "fullName": "Freeze Nova",
+        "desc": ""
+    },
+    "chrisscott": {
+        "name": "Chris Scott",
+        "fullName": "Chris Scott",
+        "desc": ""
+    },
+    "monoinyo": {
+        "name": "monoinyo",
+        "fullName": "monoinyo",
+        "desc": ""
+    },
+    "monsteragames": {
+        "name": "Monstera Games",
+        "fullName": "Monstera Games",
+        "desc": ""
+    },
+    "jonathanconcepcion": {
+        "name": "Jonathan Concepcion",
+        "fullName": "Jonathan Concepcion",
+        "desc": ""
+    },
+    "liberinno": {
+        "name": "Liberinno",
+        "fullName": "Liberinno",
+        "desc": ""
+    },
+    "unit5": {
+        "name": "UNIT5",
+        "fullName": "UNIT5",
+        "desc": ""
+    },
+    "animaxneil": {
+        "name": "AnimaxNeil",
+        "fullName": "AnimaxNeil",
+        "desc": ""
+    },
+    "cutearmy": {
+        "name": "Cute Army",
+        "fullName": "Cute Army",
+        "desc": ""
+    },
+    "arvindsudarshan": {
+        "name": "Arvind Sudarshan",
+        "fullName": "Arvind Sudarshan",
+        "desc": ""
+    },
+    "goodypundit": {
+        "name": "Goody Pundit",
+        "fullName": "Goody Pundit",
+        "desc": ""
+    },
+    "tokyo": {
+        "name": "Tokyo",
+        "fullName": "Tokyo",
+        "desc": ""
+    },
+    "multiverseaps": {
+        "name": "Multiverse ApS",
+        "fullName": "Multiverse ApS",
+        "desc": ""
+    },
+    "borington": {
+        "name": "Borington",
+        "fullName": "Borington",
+        "desc": ""
+    },
+    "gepnitogames": {
+        "name": "Gepnito Games",
+        "fullName": "Gepnito Games",
+        "desc": ""
+    },
+    "potatoplay": {
+        "name": "Potato Play",
+        "fullName": "Potato Play",
+        "desc": ""
+    },
+    "yamystudio": {
+        "name": "Yamy Studio",
+        "fullName": "Yamy Studio",
+        "desc": ""
+    },
+    "dragonflyentertainment": {
+        "name": "Dragonfly Entertainment",
+        "fullName": "Dragonfly Entertainment",
+        "desc": ""
+    },
+    "beetleplay": {
+        "name": "Beetleplay",
+        "fullName": "Beetleplay",
+        "desc": ""
+    },
+    "awfu11ife": {
+        "name": "awfu11ife",
+        "fullName": "awfu11ife",
+        "desc": ""
+    },
+    "tonkogames": {
+        "name": "TONKO Games",
+        "fullName": "TONKO Games",
+        "desc": ""
+    },
+    "qalamar": {
+        "name": "Qalamar",
+        "fullName": "Qalamar",
+        "desc": ""
+    },
+    "hotblood": {
+        "name": "hotblood",
+        "fullName": "hotblood",
+        "desc": ""
+    },
+    "lisgames": {
+        "name": "LisGames",
+        "fullName": "LisGames",
+        "desc": ""
+    },
+    "mentolatux": {
+        "name": "Mentolatux",
+        "fullName": "Mentolatux",
+        "desc": ""
+    },
+    "igor": {
+        "name": "Igor",
+        "fullName": "Igor",
+        "desc": ""
+    },
+    "kibagaorg": {
+        "name": "KibagaOrg",
+        "fullName": "KibagaOrg",
+        "desc": ""
+    },
+    "adel": {
+        "name": "Adel",
+        "fullName": "Adel",
+        "desc": ""
+    },
+    "yword": {
+        "name": "Yword",
+        "fullName": "Yword",
+        "desc": ""
+    },
+    "grestgames": {
+        "name": "Grest Games",
+        "fullName": "Grest Games",
+        "desc": ""
+    },
+    "euphoriagames": {
+        "name": "Euphoria Games",
+        "fullName": "Euphoria Games",
+        "desc": ""
+    },
+    "alexpleskach": {
+        "name": "Alex Pleskach",
+        "fullName": "Alex Pleskach",
+        "desc": ""
+    },
+    "nordbeaver": {
+        "name": "Nord Beaver",
+        "fullName": "Nord Beaver",
+        "desc": ""
+    },
+    "cryptogrounds": {
+        "name": "CryptoGrounds",
+        "fullName": "CryptoGrounds",
+        "desc": ""
+    },
+    "uglypixels": {
+        "name": "Ugly Pixels",
+        "fullName": "Ugly Pixels",
+        "desc": ""
+    },
+    "matteosilvestro": {
+        "name": "matteosilvestro",
+        "fullName": "matteosilvestro",
+        "desc": ""
+    },
+    "marple": {
+        "name": "Marple",
+        "fullName": "Marple",
+        "desc": ""
+    },
+    "starry": {
+        "name": "starry",
+        "fullName": "starry",
+        "desc": ""
+    },
+    "meekbits": {
+        "name": "Meek Bits",
+        "fullName": "Meek Bits",
+        "desc": ""
+    },
+    "appventure": {
+        "name": "Appventure",
+        "fullName": "Appventure",
+        "desc": ""
+    },
+    "unitogames": {
+        "name": "Unito Games",
+        "fullName": "Unito Games",
+        "desc": ""
+    },
+    "ultrahorse": {
+        "name": "ULTRAHORSE",
+        "fullName": "ULTRAHORSE",
+        "desc": ""
+    },
+    "vasiliypivdev": {
+        "name": "Vasiliy PivDev",
+        "fullName": "Vasiliy PivDev",
+        "desc": ""
+    },
+    "pawkawedmak": {
+        "name": "PawkaWedmak",
+        "fullName": "PawkaWedmak",
+        "desc": ""
+    },
+    "zhurmandmitrii": {
+        "name": "Zhurman Dmitrii",
+        "fullName": "Zhurman Dmitrii",
+        "desc": ""
+    },
+    "samuraigames": {
+        "name": "SamuraiGames",
+        "fullName": "SamuraiGames",
+        "desc": ""
+    },
+    "keybol": {
+        "name": "Keybol",
+        "fullName": "Keybol",
+        "desc": ""
+    },
+    "smartcode": {
+        "name": "smartcode",
+        "fullName": "smartcode",
+        "desc": ""
+    },
+    "conchgame": {
+        "name": "ConchGame",
+        "fullName": "ConchGame",
+        "desc": ""
+    },
+    "exodragongames": {
+        "name": "Exodragon Games",
+        "fullName": "Exodragon Games",
+        "desc": ""
+    },
+    "tadasgloom": {
+        "name": "Tadas Gloom",
+        "fullName": "Tadas Gloom",
+        "desc": ""
+    },
+    "endomlic": {
+        "name": "Endomlic",
+        "fullName": "Endomlic",
+        "desc": ""
+    },
+    "firebeaststudio": {
+        "name": "Firebeast Studio",
+        "fullName": "Firebeast Studio",
+        "desc": ""
+    },
+    "teatimeworkshop": {
+        "name": "TeatimeWorkshop",
+        "fullName": "TeatimeWorkshop",
+        "desc": ""
+    },
+    "platonovdeveloper": {
+        "name": "Platonov Developer",
+        "fullName": "Platonov Developer",
+        "desc": ""
+    },
+    "slayerka": {
+        "name": "Slayerka",
+        "fullName": "Slayerka",
+        "desc": ""
+    },
+    "block211": {
+        "name": "Block 211",
+        "fullName": "Block 211",
+        "desc": ""
+    },
+    "calturin": {
+        "name": "Calturin",
+        "fullName": "Calturin",
+        "desc": ""
+    },
+    "noe": {
+        "name": "Noe",
+        "fullName": "Noe",
+        "desc": ""
+    },
+    "electronicallgames": {
+        "name": "Electronicall Games",
+        "fullName": "Electronicall Games",
+        "desc": ""
+    },
+    "bptop": {
+        "name": "BPTop",
+        "fullName": "BPTop",
+        "desc": ""
+    },
+    "extremegames": {
+        "name": "Extreme Games",
+        "fullName": "Extreme Games",
+        "desc": ""
+    },
+    "bearmaskstudios": {
+        "name": "Bearmask Studios",
+        "fullName": "Bearmask Studios",
+        "desc": ""
+    },
+    "artoongames": {
+        "name": "Artoon Games",
+        "fullName": "Artoon Games",
+        "desc": ""
+    },
+    "kezarts": {
+        "name": "KezArts",
+        "fullName": "KezArts",
+        "desc": ""
+    },
+    "salwatorgames": {
+        "name": "SalwatorGames",
+        "fullName": "SalwatorGames",
+        "desc": ""
+    },
+    "td2tl": {
+        "name": "TD2TL",
+        "fullName": "TD2TL",
+        "desc": ""
+    },
+    "intersectionol": {
+        "name": "Intersection OL",
+        "fullName": "Intersection OL",
+        "desc": ""
+    },
+    "hippo": {
+        "name": "Hippo",
+        "fullName": "Hippo",
+        "desc": ""
+    },
+    "justso": {
+        "name": "just.so",
+        "fullName": "just.so",
+        "desc": ""
+    },
+    "rv": {
+        "name": "RV",
+        "fullName": "RV",
+        "desc": ""
+    },
+    "farazkhan": {
+        "name": "Faraz Khan",
+        "fullName": "Faraz Khan",
+        "desc": ""
+    },
+    "nerdmushrooms": {
+        "name": "Nerd Mushrooms",
+        "fullName": "Nerd Mushrooms",
+        "desc": ""
+    },
+    "elcapitangames": {
+        "name": "EL-CAPITAN GAMES",
+        "fullName": "EL-CAPITAN GAMES",
+        "desc": ""
+    },
+    "namiplay": {
+        "name": "NaMiPlay",
+        "fullName": "NaMiPlay",
+        "desc": ""
+    },
+    "russpuppy": {
+        "name": "Russpuppy",
+        "fullName": "Russpuppy",
+        "desc": ""
+    },
+    "ефиммаксимов": {
+        "name": "Ефим Максимов",
+        "fullName": "Ефим Максимов",
+        "desc": ""
+    },
+    "coconutgame": {
+        "name": "Coconut Game",
+        "fullName": "Coconut Game",
+        "desc": ""
+    },
+    "qookiegames": {
+        "name": "Qookie Games",
+        "fullName": "Qookie Games",
+        "desc": ""
+    },
+    "kreativitasstudio": {
+        "name": "Kreativitas Studio",
+        "fullName": "Kreativitas Studio",
+        "desc": ""
+    },
+    "hapiwakuproject": {
+        "name": "Hapiwaku Project",
+        "fullName": "Hapiwaku Project",
+        "desc": ""
+    },
+    "kisk": {
+        "name": "kisk",
+        "fullName": "kisk",
+        "desc": ""
+    },
+    "phix": {
+        "name": "Phix",
+        "fullName": "Phix",
+        "desc": ""
+    },
+    "liminalcreations": {
+        "name": "Liminal Creations",
+        "fullName": "Liminal Creations",
+        "desc": ""
+    },
+    "bushidoapplications": {
+        "name": "Bushido Applications",
+        "fullName": "Bushido Applications",
+        "desc": ""
+    },
+    "oneru220": {
+        "name": "oneru220",
+        "fullName": "oneru220",
+        "desc": ""
+    },
+    "junjo": {
+        "name": "Junjo",
+        "fullName": "Junjo",
+        "desc": ""
+    },
+    "arbazgillani": {
+        "name": "Arbaz Gillani",
+        "fullName": "Arbaz Gillani",
+        "desc": ""
+    },
+    "coolgames": {
+        "name": "CoolGames",
+        "fullName": "CoolGames",
+        "desc": ""
+    },
+    "zanzlanz": {
+        "name": "Zanzlanz",
+        "fullName": "Zanzlanz",
+        "desc": ""
+    },
+    "alonedev": {
+        "name": "AloneDev",
+        "fullName": "AloneDev",
+        "desc": ""
+    },
+    "pavelgorbunov": {
+        "name": "Pavel Gorbunov",
+        "fullName": "Pavel Gorbunov",
+        "desc": ""
+    },
+    "cubehole": {
+        "name": "Cubehole",
+        "fullName": "Cubehole",
+        "desc": ""
+    },
+    "wilkingames": {
+        "name": "Wilkin Games",
+        "fullName": "Wilkin Games",
+        "desc": ""
+    },
+    "vtg": {
+        "name": "vtg",
+        "fullName": "vtg",
+        "desc": ""
+    },
+    "byteghoulgames": {
+        "name": "BYTEGHOUL GAMES",
+        "fullName": "BYTEGHOUL GAMES",
+        "desc": ""
+    },
+    "wofooleale": {
+        "name": "WofoOleale",
+        "fullName": "WofoOleale",
+        "desc": ""
+    },
+    "colorbomb": {
+        "name": "Colorbomb",
+        "fullName": "Colorbomb",
+        "desc": ""
+    },
+    "bluemath": {
+        "name": "BlueMath",
+        "fullName": "BlueMath",
+        "desc": ""
+    },
+    "mert": {
+        "name": "Mert",
+        "fullName": "Mert",
+        "desc": ""
+    },
+    "alexandr": {
+        "name": "Alexandr",
+        "fullName": "Alexandr",
+        "desc": ""
+    },
+    "iamzealotwang": {
+        "name": "iamzealotwang",
+        "fullName": "iamzealotwang",
+        "desc": ""
+    },
+    "hgamesartworks": {
+        "name": "HGames-ArtWorks",
+        "fullName": "HGames-ArtWorks",
+        "desc": ""
+    },
+    "royalegamers": {
+        "name": "Royale Gamers",
+        "fullName": "Royale Gamers",
+        "desc": ""
+    },
+    "ramfusion": {
+        "name": "Ramfusion",
+        "fullName": "Ramfusion",
+        "desc": ""
+    },
+    "vasiliykostin": {
+        "name": "Vasiliy Kostin",
+        "fullName": "Vasiliy Kostin",
+        "desc": ""
+    },
+    "angelo": {
+        "name": "Angelo",
+        "fullName": "Angelo",
+        "desc": ""
+    },
+    "gaadiz": {
+        "name": "GaaDiz",
+        "fullName": "GaaDiz",
+        "desc": ""
+    },
+    "fingertipsandcompany": {
+        "name": "FingerTipsAndCompany",
+        "fullName": "FingerTipsAndCompany",
+        "desc": ""
+    },
+    "rvappstudios": {
+        "name": "RV AppStudios",
+        "fullName": "RV AppStudios",
+        "desc": ""
+    },
+    "agava": {
+        "name": "AGAVA",
+        "fullName": "AGAVA",
+        "desc": ""
+    },
+    "truetapgames": {
+        "name": "TrueTapGames",
+        "fullName": "TrueTapGames",
+        "desc": ""
+    },
+    "studiojavelin": {
+        "name": "Studio Javelin",
+        "fullName": "Studio Javelin",
+        "desc": ""
+    },
+    "btlgames": {
+        "name": "BTL Games",
+        "fullName": "BTL Games",
+        "desc": ""
+    },
+    "motiontheory": {
+        "name": "Motion Theory",
+        "fullName": "Motion Theory",
+        "desc": ""
+    },
+    "gamefirst": {
+        "name": "GameFirst",
+        "fullName": "GameFirst",
+        "desc": ""
+    },
+    "clawsdev": {
+        "name": "ClawsDev",
+        "fullName": "ClawsDev",
+        "desc": ""
+    },
+    "alexvi": {
+        "name": "Alex Vi",
+        "fullName": "Alex Vi",
+        "desc": ""
+    },
+    "dimofan": {
+        "name": "Dimofan",
+        "fullName": "Dimofan",
+        "desc": ""
+    },
+    "beaverproject": {
+        "name": "BEAVER PROJECT",
+        "fullName": "BEAVER PROJECT",
+        "desc": ""
+    },
+    "taketop": {
+        "name": "Take Top",
+        "fullName": "Take Top",
+        "desc": ""
+    },
+    "vallygames": {
+        "name": "VALLY GAMES",
+        "fullName": "VALLY GAMES",
+        "desc": ""
+    },
+    "tennpagames": {
+        "name": "Tennpa Games",
+        "fullName": "Tennpa Games",
+        "desc": ""
+    },
+    "dinmogames": {
+        "name": "Dinmo Games",
+        "fullName": "Dinmo Games",
+        "desc": ""
+    },
+    "nsfdesign": {
+        "name": "NSFDesign",
+        "fullName": "NSFDesign",
+        "desc": ""
+    },
+    "momogames": {
+        "name": "Momo Games",
+        "fullName": "Momo Games",
+        "desc": ""
+    },
+    "mrlaserbeam": {
+        "name": "MrLaserbeam",
+        "fullName": "MrLaserbeam",
+        "desc": ""
+    },
+    "gamefacto": {
+        "name": "GameFacto",
+        "fullName": "GameFacto",
+        "desc": ""
+    },
+    "sheepixel": {
+        "name": "Sheepixel",
+        "fullName": "Sheepixel",
+        "desc": ""
+    },
+    "fmg": {
+        "name": "FMG",
+        "fullName": "FMG",
+        "desc": ""
+    },
+    "redzyrro": {
+        "name": "redzyrro",
+        "fullName": "redzyrro",
+        "desc": ""
+    },
+    "apekung": {
+        "name": "APEKung",
+        "fullName": "APEKung",
+        "desc": ""
+    },
+    "ribbytegames": {
+        "name": "Ribbyte Games",
+        "fullName": "Ribbyte Games",
+        "desc": ""
+    },
+    "simplelogic": {
+        "name": "Simple Logic",
+        "fullName": "Simple Logic",
+        "desc": ""
+    },
+    "nggames": {
+        "name": "NGGames",
+        "fullName": "NGGames",
+        "desc": ""
+    },
+    "metrotrains": {
+        "name": "Metro Trains",
+        "fullName": "Metro Trains",
+        "desc": ""
+    },
+    "playh5": {
+        "name": "playh5",
+        "fullName": "playh5",
+        "desc": ""
+    },
+    "orestisz": {
+        "name": "orestis-z",
+        "fullName": "orestis-z",
+        "desc": ""
+    },
+    "denthedev": {
+        "name": "DenTheDev",
+        "fullName": "DenTheDev",
+        "desc": ""
+    },
+    "fleqpegames": {
+        "name": "Fleqpe Games",
+        "fullName": "Fleqpe Games",
+        "desc": ""
+    },
+    "stanyslav": {
+        "name": "Stanyslav",
+        "fullName": "Stanyslav",
+        "desc": ""
+    },
+    "vitalifystudio": {
+        "name": "Vitalify Studio",
+        "fullName": "Vitalify Studio",
+        "desc": ""
+    },
+    "euclides": {
+        "name": "Euclides",
+        "fullName": "Euclides",
+        "desc": ""
+    },
+    "endlesspixels": {
+        "name": "Endless Pixels",
+        "fullName": "Endless Pixels",
+        "desc": ""
+    },
+    "workhorsebytes": {
+        "name": "Workhorse Bytes",
+        "fullName": "Workhorse Bytes",
+        "desc": ""
+    },
+    "insertcoingames": {
+        "name": "InsertCoin Games",
+        "fullName": "InsertCoin Games",
+        "desc": ""
+    },
+    "takoeaters": {
+        "name": "Tako Eaters",
+        "fullName": "Tako Eaters",
+        "desc": ""
+    },
+    "visiogs": {
+        "name": "VisioGS",
+        "fullName": "VisioGS",
+        "desc": ""
+    },
+    "bravegiant": {
+        "name": "Brave Giant",
+        "fullName": "Brave Giant",
+        "desc": ""
+    },
+    "apkkodecher": {
+        "name": "Apkko Decher",
+        "fullName": "Apkko Decher",
+        "desc": ""
+    },
+    "illusionsgames": {
+        "name": "Illusions Games",
+        "fullName": "Illusions Games",
+        "desc": ""
+    },
+    "appyapp": {
+        "name": "AppyApp",
+        "fullName": "AppyApp",
+        "desc": ""
+    },
+    "martintale": {
+        "name": "MartinTale",
+        "fullName": "MartinTale",
+        "desc": ""
+    },
+    "noadev": {
+        "name": "NoaDev",
+        "fullName": "NoaDev",
+        "desc": ""
+    },
+    "pixeloza": {
+        "name": "Pixeloza",
+        "fullName": "Pixeloza",
+        "desc": ""
+    },
+    "frankchamber": {
+        "name": "FrankChamber",
+        "fullName": "FrankChamber",
+        "desc": ""
+    },
+    "cyclone": {
+        "name": "Cyclone",
+        "fullName": "Cyclone",
+        "desc": ""
+    },
+    "vladigames": {
+        "name": "VlaDi Games",
+        "fullName": "VlaDi Games",
+        "desc": ""
+    },
+    "playcalm": {
+        "name": "PlayCalm",
+        "fullName": "PlayCalm",
+        "desc": ""
+    },
+    "deepqeeb": {
+        "name": "deepqeeb",
+        "fullName": "deepqeeb",
+        "desc": ""
+    },
+    "zeno": {
+        "name": "Zeno",
+        "fullName": "Zeno",
+        "desc": ""
+    },
+    "xdsgame": {
+        "name": "xds game",
+        "fullName": "xds game",
+        "desc": ""
+    },
+    "tappsgames": {
+        "name": "Tapps Games",
+        "fullName": "Tapps Games",
+        "desc": ""
+    },
+    "dietzribi": {
+        "name": "dietzribi",
+        "fullName": "dietzribi",
+        "desc": ""
+    },
+    "misc261games": {
+        "name": "Misc.261 Games",
+        "fullName": "Misc.261 Games",
+        "desc": ""
+    },
+    "delunado": {
+        "name": "Delunado",
+        "fullName": "Delunado",
+        "desc": ""
+    },
+    "inove": {
+        "name": "INOVE",
+        "fullName": "INOVE",
+        "desc": ""
+    },
+    "vklymenko": {
+        "name": "VKlymenko",
+        "fullName": "VKlymenko",
+        "desc": ""
+    },
+    "studio11508": {
+        "name": "Studio11508",
+        "fullName": "Studio11508",
+        "desc": ""
+    },
+    "stec": {
+        "name": "STEC",
+        "fullName": "STEC",
+        "desc": ""
+    },
+    "onionfiststudio": {
+        "name": "Onionfist Studio",
+        "fullName": "Onionfist Studio",
+        "desc": ""
+    },
+    "mythicalcity": {
+        "name": "MythicalCity",
+        "fullName": "MythicalCity",
+        "desc": ""
+    },
+    "cryogx": {
+        "name": "CryoGX",
+        "fullName": "CryoGX",
+        "desc": ""
+    },
+    "blueinfinity": {
+        "name": "Blue Infinity",
+        "fullName": "Blue Infinity",
+        "desc": ""
+    },
+    "alexeyzhukov": {
+        "name": "Alexey Zhukov",
+        "fullName": "Alexey Zhukov",
+        "desc": ""
+    },
+    "leonnuredini": {
+        "name": "Leon Nuredini",
+        "fullName": "Leon Nuredini",
+        "desc": ""
+    },
+    "nutimon": {
+        "name": "Nutimon",
+        "fullName": "Nutimon",
+        "desc": ""
+    },
+    "chrisbenjaminsen": {
+        "name": "Chris Benjaminsen",
+        "fullName": "Chris Benjaminsen",
+        "desc": ""
+    },
+    "futurecoplgf": {
+        "name": "FutureCopLGF",
+        "fullName": "FutureCopLGF",
+        "desc": ""
+    },
+    "megga": {
+        "name": "megga",
+        "fullName": "megga",
+        "desc": ""
+    },
+    "unifier": {
+        "name": "unifier",
+        "fullName": "unifier",
+        "desc": ""
+    },
+    "pietroferrantelli": {
+        "name": "Pietro Ferrantelli",
+        "fullName": "Pietro Ferrantelli",
+        "desc": ""
+    },
+    "tong965": {
+        "name": "Tong965",
+        "fullName": "Tong965",
+        "desc": ""
+    },
+    "poisongames": {
+        "name": "Poison Games",
+        "fullName": "Poison Games",
+        "desc": ""
+    },
+    "vixagame": {
+        "name": "VixaGame",
+        "fullName": "VixaGame",
+        "desc": ""
+    },
+    "wingsmob": {
+        "name": "WingsMob",
+        "fullName": "WingsMob",
+        "desc": ""
+    },
+    "zachjukamashi": {
+        "name": "ZachjuKamashi",
+        "fullName": "ZachjuKamashi",
+        "desc": ""
+    },
+    "sroik": {
+        "name": "sroik",
+        "fullName": "sroik",
+        "desc": ""
+    },
+    "aileyou": {
+        "name": "aileyou",
+        "fullName": "aileyou",
+        "desc": ""
+    },
+    "mikejkdev": {
+        "name": "MikeJKdev",
+        "fullName": "MikeJKdev",
+        "desc": ""
+    },
+    "geekplay": {
+        "name": "GeekPlay",
+        "fullName": "GeekPlay",
+        "desc": ""
+    },
+    "mh33": {
+        "name": "mh33",
+        "fullName": "mh33",
+        "desc": ""
+    },
+    "funovus": {
+        "name": "Funovus",
+        "fullName": "Funovus",
+        "desc": ""
+    },
+    "radnyx": {
+        "name": "Radnyx",
+        "fullName": "Radnyx",
+        "desc": ""
+    },
+    "maksymvostruhin": {
+        "name": "Maksym Vostruhin",
+        "fullName": "Maksym Vostruhin",
+        "desc": ""
+    },
+    "freddec": {
+        "name": "Freddec",
+        "fullName": "Freddec",
+        "desc": ""
+    },
+    "danieleichler": {
+        "name": "Daniel Eichler",
+        "fullName": "Daniel Eichler",
+        "desc": ""
+    },
+    "mangoflavor": {
+        "name": "MangoFlavor",
+        "fullName": "MangoFlavor",
+        "desc": ""
+    },
+    "lzrbrd": {
+        "name": "LZRBRD",
+        "fullName": "LZRBRD",
+        "desc": ""
+    },
+    "kirill": {
+        "name": "Kirill",
+        "fullName": "Kirill",
+        "desc": ""
+    },
+    "dgames": {
+        "name": "D-Games",
+        "fullName": "D-Games",
+        "desc": ""
+    },
+    "pitidev": {
+        "name": "PitiDev",
+        "fullName": "PitiDev",
+        "desc": ""
+    },
+    "8bitskull": {
+        "name": "8BitSkull",
+        "fullName": "8BitSkull",
+        "desc": ""
+    },
+    "arielwexler": {
+        "name": "Ariel Wexler",
+        "fullName": "Ariel Wexler",
+        "desc": ""
+    },
+    "ndout": {
+        "name": "NDOUT",
+        "fullName": "NDOUT",
+        "desc": ""
+    },
+    "ingeniumgames": {
+        "name": "ingenium games",
+        "fullName": "ingenium games",
+        "desc": ""
+    },
+    "cloudygames": {
+        "name": "Cloudy Games",
+        "fullName": "Cloudy Games",
+        "desc": ""
+    },
+    "tobspr": {
+        "name": "Tobspr",
+        "fullName": "Tobspr",
+        "desc": ""
+    },
+    "functu": {
+        "name": "Functu",
+        "fullName": "Functu",
+        "desc": ""
+    },
+    "sahillitt": {
+        "name": "Sahil Litt",
+        "fullName": "Sahil Litt",
+        "desc": ""
+    },
+    "monishvyas": {
+        "name": "Monish Vyas",
+        "fullName": "Monish Vyas",
+        "desc": ""
+    },
+    "alexmeesters": {
+        "name": "Alex Meesters",
+        "fullName": "Alex Meesters",
+        "desc": ""
+    },
+    "hazenberggames": {
+        "name": "Hazenberg Games",
+        "fullName": "Hazenberg Games",
+        "desc": ""
+    },
+    "martzbroosgames": {
+        "name": "MartzBroosGames",
+        "fullName": "MartzBroosGames",
+        "desc": ""
+    },
+    "reinoutstevens": {
+        "name": "Reinout Stevens",
+        "fullName": "Reinout Stevens",
+        "desc": ""
+    },
+    "valeriysokolov": {
+        "name": "Valeriy Sokolov",
+        "fullName": "Valeriy Sokolov",
+        "desc": ""
+    },
+    "michelgerard": {
+        "name": "Michel Gerard",
+        "fullName": "Michel Gerard",
+        "desc": ""
+    },
+    "chachiware": {
+        "name": "Chachiware",
+        "fullName": "Chachiware",
+        "desc": ""
+    },
+    "3kggames": {
+        "name": "3kggames",
+        "fullName": "3kggames",
+        "desc": ""
+    },
+    "vacuvacugames": {
+        "name": "VACUVACU GAMES",
+        "fullName": "VACUVACU GAMES",
+        "desc": ""
+    },
+    "synk": {
+        "name": "Synk",
+        "fullName": "Synk",
+        "desc": ""
+    },
+    "andrey": {
+        "name": "Andrey",
+        "fullName": "Andrey",
+        "desc": ""
+    },
+    "7threactor": {
+        "name": "7thReactor",
+        "fullName": "7thReactor",
+        "desc": ""
+    },
+    "threetreeseu": {
+        "name": "ThreeTrees.eu",
+        "fullName": "ThreeTrees.eu",
+        "desc": ""
+    },
+    "studioschneeya": {
+        "name": "Studio Schneeya",
+        "fullName": "Studio Schneeya",
+        "desc": ""
+    },
+    "yuyi": {
+        "name": "yuyi",
+        "fullName": "yuyi",
+        "desc": ""
+    },
+    "nolodingames": {
+        "name": "Nolodin Games",
+        "fullName": "Nolodin Games",
+        "desc": ""
+    },
+    "cheze": {
+        "name": "cheze",
+        "fullName": "cheze",
+        "desc": ""
+    },
+    "firebeast": {
+        "name": "FIREBEAST",
+        "fullName": "FIREBEAST",
+        "desc": ""
+    },
+    "stein": {
+        "name": "stein",
+        "fullName": "stein",
+        "desc": ""
+    },
+    "vinkesoft": {
+        "name": "Vinke Soft",
+        "fullName": "Vinke Soft",
+        "desc": ""
+    },
+    "emolingogames": {
+        "name": "emolingo games",
+        "fullName": "emolingo games",
+        "desc": ""
+    },
+    "bëorgames": {
+        "name": "Bëor Games",
+        "fullName": "Bëor Games",
+        "desc": ""
+    },
+    "gabrielbissonnette": {
+        "name": "Gabriel Bissonnette",
+        "fullName": "Gabriel Bissonnette",
+        "desc": ""
+    },
+    "qualient": {
+        "name": "qualient",
+        "fullName": "qualient",
+        "desc": ""
+    },
+    "weakgames": {
+        "name": "Weak Games",
+        "fullName": "Weak Games",
+        "desc": ""
+    },
+    "unknownprojectx": {
+        "name": "UnknownProjectX",
+        "fullName": "UnknownProjectX",
+        "desc": ""
+    },
+    "griffindev": {
+        "name": "Griffindev",
+        "fullName": "Griffindev",
+        "desc": ""
+    },
+    "newgamess": {
+        "name": "newgamess",
+        "fullName": "newgamess",
+        "desc": ""
+    },
+    "pixiedustcatbox": {
+        "name": "PIXIEDUST CATBOX",
+        "fullName": "PIXIEDUST CATBOX",
+        "desc": ""
+    },
+    "mediadivision": {
+        "name": "Media Division",
+        "fullName": "Media Division",
+        "desc": ""
+    },
+    "olegsandalov": {
+        "name": "Oleg Sandalov",
+        "fullName": "Oleg Sandalov",
+        "desc": ""
+    },
+    "bashstudio": {
+        "name": "Bash Studio",
+        "fullName": "Bash Studio",
+        "desc": ""
+    },
+    "pixelbro": {
+        "name": "PixelBro",
+        "fullName": "PixelBro",
+        "desc": ""
+    },
+    "ithype": {
+        "name": " IT-Hype",
+        "fullName": " IT-Hype",
+        "desc": ""
+    },
+    "haritonandrei": {
+        "name": "Hariton Andrei",
+        "fullName": "Hariton Andrei",
+        "desc": ""
+    },
+    "mishypog": {
+        "name": "MishyPOG",
+        "fullName": "MishyPOG",
+        "desc": ""
+    },
+    "virterix": {
+        "name": "Virterix",
+        "fullName": "Virterix",
+        "desc": ""
+    },
+    "sylvainseccia": {
+        "name": "Sylvain Seccia",
+        "fullName": "Sylvain Seccia",
+        "desc": ""
+    },
+    "efimmaksimov": {
+        "name": "Efim Maksimov",
+        "fullName": "Efim Maksimov",
+        "desc": ""
+    },
+    "nukeartsstudio": {
+        "name": "Nukearts Studio",
+        "fullName": "Nukearts Studio",
+        "desc": ""
+    },
+    "nathanbennett": {
+        "name": "Nathan Bennett",
+        "fullName": "Nathan Bennett",
+        "desc": ""
+    },
+    "wilsontheball": {
+        "name": "WilsonTheBall",
+        "fullName": "WilsonTheBall",
+        "desc": ""
+    },
+    "janogames": {
+        "name": "Jano Games",
+        "fullName": "Jano Games",
+        "desc": ""
+    },
+    "uyaer": {
+        "name": "uyaer",
+        "fullName": "uyaer",
+        "desc": ""
+    },
+    "infectedbytes": {
+        "name": "InfectedBytes",
+        "fullName": "InfectedBytes",
+        "desc": ""
+    },
+    "ricob": {
+        "name": "Rico B.",
+        "fullName": "Rico B.",
+        "desc": ""
+    },
+    "dewisestudios": {
+        "name": "Dewise Studios",
+        "fullName": "Dewise Studios",
+        "desc": ""
+    },
+    "jorbitsgames": {
+        "name": "JOrbits Games",
+        "fullName": "JOrbits Games",
+        "desc": ""
+    },
+    "donislawdev": {
+        "name": "DonislawDev",
+        "fullName": "DonislawDev",
+        "desc": ""
+    },
+    "flappybirdio": {
+        "name": "FlappyBird.io",
+        "fullName": "FlappyBird.io",
+        "desc": ""
+    },
+    "felicitygames": {
+        "name": "Felicity Games",
+        "fullName": "Felicity Games",
+        "desc": ""
+    },
+    "foranj": {
+        "name": "Foranj",
+        "fullName": "Foranj",
+        "desc": ""
+    },
+    "questgames": {
+        "name": "Quest Games",
+        "fullName": "Quest Games",
+        "desc": ""
+    },
+    "brewer": {
+        "name": "Brewer",
+        "fullName": "Brewer",
+        "desc": ""
+    },
+    "ludivorus": {
+        "name": "Ludivorus",
+        "fullName": "Ludivorus",
+        "desc": ""
+    },
+    "jumoh": {
+        "name": "Jumoh",
+        "fullName": "Jumoh",
+        "desc": ""
+    },
+    "sneakybox": {
+        "name": "SneakyBox",
+        "fullName": "SneakyBox",
+        "desc": ""
+    },
+    "dsstudios": {
+        "name": "DS Studios",
+        "fullName": "DS Studios",
+        "desc": ""
+    },
+    "wopainteractive": {
+        "name": "Wopa Interactive",
+        "fullName": "Wopa Interactive",
+        "desc": ""
+    },
+    "hammerplay": {
+        "name": "Hammerplay",
+        "fullName": "Hammerplay",
+        "desc": ""
+    },
+    "gategame": {
+        "name": "Gate Game",
+        "fullName": "Gate Game",
+        "desc": ""
+    },
+    "sunraygames": {
+        "name": "SunRay Games",
+        "fullName": "SunRay Games",
+        "desc": ""
+    },
+    "keyngdom": {
+        "name": "keyngdom",
+        "fullName": "keyngdom",
+        "desc": ""
+    },
+    "littlemissle": {
+        "name": "little missle",
+        "fullName": "little missle",
+        "desc": ""
+    },
+    "soundy": {
+        "name": "Soundy",
+        "fullName": "Soundy",
+        "desc": ""
+    },
+    "verilyfine": {
+        "name": "Verily Fine",
+        "fullName": "Verily Fine",
+        "desc": ""
+    },
+    "ferociter": {
+        "name": "Ferociter",
+        "fullName": "Ferociter",
+        "desc": ""
+    },
+    "addpgames": {
+        "name": "ADDPGAMES",
+        "fullName": "ADDPGAMES",
+        "desc": ""
+    },
+    "nyunesu": {
+        "name": "Nyunesu",
+        "fullName": "Nyunesu",
+        "desc": ""
+    },
+    "sominstudios": {
+        "name": "SominStudios",
+        "fullName": "SominStudios",
+        "desc": ""
+    },
+    "artemalexandrov": {
+        "name": "Artem Alexandrov",
+        "fullName": "Artem Alexandrov",
+        "desc": ""
+    },
+    "alienplaygames": {
+        "name": "Alienplay Games",
+        "fullName": "Alienplay Games",
+        "desc": ""
+    },
+    "l33tbit": {
+        "name": "l33tbit",
+        "fullName": "l33tbit",
+        "desc": ""
+    },
+    "aa2g1": {
+        "name": "AA2G1",
+        "fullName": "AA2G1",
+        "desc": ""
+    },
+    "studiobolland": {
+        "name": "Studio Bolland",
+        "fullName": "Studio Bolland",
+        "desc": ""
+    },
+    "wmgcat": {
+        "name": "wmgcat",
+        "fullName": "wmgcat",
+        "desc": ""
+    },
+    "studio989": {
+        "name": "Studio 989",
+        "fullName": "Studio 989",
+        "desc": ""
+    },
+    "matchinghamgames": {
+        "name": "Matchingham Games",
+        "fullName": "Matchingham Games",
+        "desc": ""
+    },
+    "frozenink": {
+        "name": "Frozen Ink",
+        "fullName": "Frozen Ink",
+        "desc": ""
+    },
+    "leonidnikolenko": {
+        "name": "Leonid Nikolenko",
+        "fullName": "Leonid Nikolenko",
+        "desc": ""
+    },
+    "aleksbog": {
+        "name": "aleksbog",
+        "fullName": "aleksbog",
+        "desc": ""
+    },
+    "nevemrio": {
+        "name": "Nevem RiO",
+        "fullName": "Nevem RiO",
+        "desc": ""
+    },
+    "gameko": {
+        "name": "Gameko",
+        "fullName": "Gameko",
+        "desc": ""
+    },
+    "effectsheet": {
+        "name": "effectsheet",
+        "fullName": "effectsheet",
+        "desc": ""
+    },
+    "oygames": {
+        "name": "OY Games",
+        "fullName": "OY Games",
+        "desc": ""
+    },
+    "jhilven": {
+        "name": "jhilven",
+        "fullName": "jhilven",
+        "desc": ""
+    },
+    "reillydasilva": {
+        "name": "reillydasilva",
+        "fullName": "reillydasilva",
+        "desc": ""
+    },
+    "robbyscherer": {
+        "name": "Robby Scherer",
+        "fullName": "Robby Scherer",
+        "desc": ""
+    },
+    "michal": {
+        "name": "michal",
+        "fullName": "michal",
+        "desc": ""
+    },
+    "minglegames": {
+        "name": "Mingle Games",
+        "fullName": "Mingle Games",
+        "desc": ""
+    },
+    "k2moses": {
+        "name": "k2moses",
+        "fullName": "k2moses",
+        "desc": ""
+    },
+    "barshoulian": {
+        "name": "Bar Shoulian",
+        "fullName": "Bar Shoulian",
+        "desc": ""
+    },
+    "ricreator": {
+        "name": "Ricreator",
+        "fullName": "Ricreator",
+        "desc": ""
+    },
+    "absgames": {
+        "name": "ABS Games",
+        "fullName": "ABS Games",
+        "desc": ""
+    },
+    "mertaseldoktu": {
+        "name": "Mert Aseldoktu",
+        "fullName": "Mert Aseldoktu",
+        "desc": ""
+    },
+    "snowballinggames": {
+        "name": "Snowballing Games",
+        "fullName": "Snowballing Games",
+        "desc": ""
+    },
+    "smartberry": {
+        "name": "Smartberry",
+        "fullName": "Smartberry",
+        "desc": ""
+    },
+    "gigepstudios": {
+        "name": "Gigep Studios",
+        "fullName": "Gigep Studios",
+        "desc": ""
+    },
+    "anaxanthia": {
+        "name": "Anaxanthia",
+        "fullName": "Anaxanthia",
+        "desc": ""
+    },
+    "pachagames": {
+        "name": "Pacha Games",
+        "fullName": "Pacha Games",
+        "desc": ""
+    },
+    "spatialio": {
+        "name": "spatial.io",
+        "fullName": "spatial.io",
+        "desc": ""
+    },
+    "wittgames": {
+        "name": "WittGames",
+        "fullName": "WittGames",
+        "desc": ""
+    },
+    "q": {
+        "name": "Q",
+        "fullName": "Q",
+        "desc": ""
+    },
+    "gustavobraga": {
+        "name": "Gustavo Braga",
+        "fullName": "Gustavo Braga",
+        "desc": ""
+    },
+    "plumgames": {
+        "name": "Plum Games",
+        "fullName": "Plum Games",
+        "desc": ""
+    },
+    "dunaligames": {
+        "name": "Dunali Games",
+        "fullName": "Dunali Games",
+        "desc": ""
+    },
+    "vivigames": {
+        "name": "vivigames",
+        "fullName": "vivigames",
+        "desc": ""
+    },
+    "efeaksoy": {
+        "name": "Efe Aksoy",
+        "fullName": "Efe Aksoy",
+        "desc": ""
+    },
+    "fluffylotus": {
+        "name": "FluffyLotus",
+        "fullName": "FluffyLotus",
+        "desc": ""
+    },
+    "mnpgamesdigital": {
+        "name": "mnpgamesdigital",
+        "fullName": "mnpgamesdigital",
+        "desc": ""
+    },
+    "tuut": {
+        "name": "TuuT",
+        "fullName": "TuuT",
+        "desc": ""
+    },
+    "webcoregames": {
+        "name": "Webcore Games",
+        "fullName": "Webcore Games",
+        "desc": ""
+    },
+    "nokobot": {
+        "name": "Nokobot",
+        "fullName": "Nokobot",
+        "desc": ""
+    },
+    "wa2ab1": {
+        "name": "WA2AB1",
+        "fullName": "WA2AB1",
+        "desc": ""
+    },
+    "xpresatestudio": {
+        "name": "Xpresate Studio",
+        "fullName": "Xpresate Studio",
+        "desc": ""
+    },
+    "dragans": {
+        "name": "Dragan S",
+        "fullName": "Dragan S",
+        "desc": ""
+    },
+    "sambero": {
+        "name": "Sambero",
+        "fullName": "Sambero",
+        "desc": ""
+    },
+    "armgames": {
+        "name": "ArmGames",
+        "fullName": "ArmGames",
+        "desc": ""
+    },
+    "max": {
+        "name": "Max",
+        "fullName": "Max",
+        "desc": ""
+    },
+    "90%studios": {
+        "name": "90% Studios",
+        "fullName": "90% Studios",
+        "desc": ""
+    },
+    "muratyucel": {
+        "name": "Murat Yucel",
+        "fullName": "Murat Yucel",
+        "desc": ""
+    },
+    "superapps": {
+        "name": "Super Apps",
+        "fullName": "Super Apps",
+        "desc": ""
+    },
+    "mikegames": {
+        "name": "Mike Games",
+        "fullName": "Mike Games",
+        "desc": ""
+    },
+    "zeptolab": {
+        "name": "ZeptoLab",
+        "fullName": "ZeptoLab",
+        "desc": ""
+    },
+    "prismdev": {
+        "name": "PrismDev",
+        "fullName": "PrismDev",
+        "desc": ""
+    },
+    "indieindie": {
+        "name": "indie indie",
+        "fullName": "indie indie",
+        "desc": ""
+    },
+    "3sgames": {
+        "name": "3S Games",
+        "fullName": "3S Games",
+        "desc": ""
+    },
+    "playbytes": {
+        "name": "PlayBytes",
+        "fullName": "PlayBytes",
+        "desc": ""
+    },
+    "fennecst": {
+        "name": "FennecST",
+        "fullName": "FennecST",
+        "desc": ""
+    },
+    "fishbumpdev": {
+        "name": "fishbumpdev",
+        "fullName": "fishbumpdev",
+        "desc": ""
+    },
+    "hamdyelzanqali": {
+        "name": "Hamdy Elzanqali",
+        "fullName": "Hamdy Elzanqali",
+        "desc": ""
+    },
+    "monsieurdi": {
+        "name": "MonsieurDi",
+        "fullName": "MonsieurDi",
+        "desc": ""
+    },
+    "maximgromov": {
+        "name": "Maxim Gromov",
+        "fullName": "Maxim Gromov",
+        "desc": ""
+    },
+    "dinaharisonrhudy": {
+        "name": "Dinaharison Rhudy",
+        "fullName": "Dinaharison Rhudy",
+        "desc": ""
+    },
+    "sandervanhove": {
+        "name": "Sander Vanhove",
+        "fullName": "Sander Vanhove",
+        "desc": ""
+    },
+    "joe": {
+        "name": "Joe",
+        "fullName": "Joe",
+        "desc": ""
+    },
+    "bongobango22": {
+        "name": "bongobango22",
+        "fullName": "bongobango22",
+        "desc": ""
+    },
+    "tinnigames": {
+        "name": "Tinni Games",
+        "fullName": "Tinni Games",
+        "desc": ""
+    },
+    "juliusgudas": {
+        "name": "Julius Gudas",
+        "fullName": "Julius Gudas",
+        "desc": ""
+    },
+    "weatheredsweater": {
+        "name": "Weathered Sweater",
+        "fullName": "Weathered Sweater",
+        "desc": ""
+    },
+    "simpleyuji": {
+        "name": "simpleyuji",
+        "fullName": "simpleyuji",
+        "desc": ""
+    },
+    "wacompen": {
+        "name": "Wacom Pen",
+        "fullName": "Wacom Pen",
+        "desc": ""
+    },
+    "binstudio": {
+        "name": "BinStudio",
+        "fullName": "BinStudio",
+        "desc": ""
+    },
+    "adamcoggeshall": {
+        "name": "Adam Coggeshall",
+        "fullName": "Adam Coggeshall",
+        "desc": ""
+    },
+    "esmanbustillos": {
+        "name": "Esman Bustillos",
+        "fullName": "Esman Bustillos",
+        "desc": ""
+    },
+    "simplepg": {
+        "name": "SimplePG",
+        "fullName": "SimplePG",
+        "desc": ""
+    },
+    "ludicmindentertainment": {
+        "name": "LudicMind Entertainment",
+        "fullName": "LudicMind Entertainment",
+        "desc": ""
+    },
+    "droidvedallp": {
+        "name": "DroidVeda LLP",
+        "fullName": "DroidVeda LLP",
+        "desc": ""
+    },
+    "monegames": {
+        "name": "M-One Games",
+        "fullName": "M-One Games",
+        "desc": ""
+    },
+    "rikigames": {
+        "name": "Riki Games",
+        "fullName": "Riki Games",
+        "desc": ""
+    },
+    "9livesgames": {
+        "name": "9Lives Games",
+        "fullName": "9Lives Games",
+        "desc": ""
+    },
+    "tonnynevel": {
+        "name": "Tonny Nevel",
+        "fullName": "Tonny Nevel",
+        "desc": ""
+    },
+    "hammerplaystudios": {
+        "name": "Hammerplay Studios",
+        "fullName": "Hammerplay Studios",
+        "desc": ""
+    },
+    "ximotiv": {
+        "name": "XI MOTIV",
+        "fullName": "XI MOTIV",
+        "desc": ""
+    },
+    "fevergames": {
+        "name": "FeverGames",
+        "fullName": "FeverGames",
+        "desc": ""
+    },
+    "superinstant": {
+        "name": "Superinstant",
+        "fullName": "Superinstant",
+        "desc": ""
+    },
+    "timbelion": {
+        "name": "Timbelion",
+        "fullName": "Timbelion",
+        "desc": ""
+    },
+    "kor6k": {
+        "name": "kor6k",
+        "fullName": "kor6k",
+        "desc": ""
+    },
+    "shironobe": {
+        "name": "Shironobe",
+        "fullName": "Shironobe",
+        "desc": ""
+    },
+    "gotoyourgame": {
+        "name": "gotoyourgame",
+        "fullName": "gotoyourgame",
+        "desc": ""
+    },
+    "alecgames": {
+        "name": "AleC Games",
+        "fullName": "AleC Games",
+        "desc": ""
+    },
+    "abizans": {
+        "name": "A. Bizans",
+        "fullName": "A. Bizans",
+        "desc": ""
+    },
+    "andrewhayes": {
+        "name": "Andrew Hayes",
+        "fullName": "Andrew Hayes",
+        "desc": ""
+    },
+    "yegorsemyonov": {
+        "name": "Yegor Semyonov",
+        "fullName": "Yegor Semyonov",
+        "desc": ""
+    },
+    "stilaan": {
+        "name": "Stilaan",
+        "fullName": "Stilaan",
+        "desc": ""
+    },
+    "nyustudios": {
+        "name": "Nyu Studios",
+        "fullName": "Nyu Studios",
+        "desc": ""
+    },
+    "violetinteractive": {
+        "name": "Violet Interactive",
+        "fullName": "Violet Interactive",
+        "desc": ""
+    },
+    "illumatestudios": {
+        "name": "ILLUMATE STUDIOS",
+        "fullName": "ILLUMATE STUDIOS",
+        "desc": ""
+    },
+    "koshkadev": {
+        "name": "KoshkaDev",
+        "fullName": "KoshkaDev",
+        "desc": ""
+    },
+    "fuzzy": {
+        "name": "Fuzzy",
+        "fullName": "Fuzzy",
+        "desc": ""
+    },
+    "2dragontails": {
+        "name": "2dragontails",
+        "fullName": "2dragontails",
+        "desc": ""
+    },
+    "bragiestúdios": {
+        "name": "Bragi Estúdios",
+        "fullName": "Bragi Estúdios",
+        "desc": ""
+    },
+    "gangbustersio": {
+        "name": "Gangbusters.io",
+        "fullName": "Gangbusters.io",
+        "desc": ""
+    },
+    "wetbox": {
+        "name": "WetBox",
+        "fullName": "WetBox",
+        "desc": ""
+    },
+    "barrelbacks": {
+        "name": "BarrelBacks",
+        "fullName": "BarrelBacks",
+        "desc": ""
+    },
+    "sourcebyte": {
+        "name": "Source Byte",
+        "fullName": "Source Byte",
+        "desc": ""
+    },
+    "playlant": {
+        "name": "Playlant",
+        "fullName": "Playlant",
+        "desc": ""
+    },
+    "mangomangomsk": {
+        "name": "mangomangomsk",
+        "fullName": "mangomangomsk",
+        "desc": ""
+    },
+    "happydumpling": {
+        "name": "HappyDumpling",
+        "fullName": "HappyDumpling",
+        "desc": ""
+    },
+    "tapnation": {
+        "name": "TapNation",
+        "fullName": "TapNation",
+        "desc": ""
+    },
+    "rendahgames": {
+        "name": "Rendah Games",
+        "fullName": "Rendah Games",
+        "desc": ""
+    },
+    "aiyra": {
+        "name": "Aiyra",
+        "fullName": "Aiyra",
+        "desc": ""
+    },
+    "midnite": {
+        "name": "Midnite",
+        "fullName": "Midnite",
+        "desc": ""
+    },
+    "onlymaxgames": {
+        "name": "OnlyMaxGames",
+        "fullName": "OnlyMaxGames",
+        "desc": ""
+    },
+    "yyz": {
+        "name": "YYZ",
+        "fullName": "YYZ",
+        "desc": ""
+    },
+    "denisrebrov": {
+        "name": "Denis Rebrov",
+        "fullName": "Denis Rebrov",
+        "desc": ""
+    },
+    "dummydojo": {
+        "name": "Dummy Dojo",
+        "fullName": "Dummy Dojo",
+        "desc": ""
+    },
+    "gooligamesou": {
+        "name": "Gooligames OU",
+        "fullName": "Gooligames OU",
+        "desc": ""
+    },
+    "voodootiger": {
+        "name": "VoodooTiger",
+        "fullName": "VoodooTiger",
+        "desc": ""
+    },
+    "paulgeorghiou": {
+        "name": "Paul Georghiou",
+        "fullName": "Paul Georghiou",
+        "desc": ""
+    },
+    "shaggydwarf": {
+        "name": "Shaggy Dwarf",
+        "fullName": "Shaggy Dwarf",
+        "desc": ""
+    },
+    "shubhamrajanwar": {
+        "name": "Shubham Rajanwar",
+        "fullName": "Shubham Rajanwar",
+        "desc": ""
+    },
+    "danielgraves": {
+        "name": "Daniel Graves",
+        "fullName": "Daniel Graves",
+        "desc": ""
+    },
+    "gametoria": {
+        "name": "Gametoria",
+        "fullName": "Gametoria",
+        "desc": ""
+    },
+    "tombombadil": {
+        "name": "Tom Bombadil",
+        "fullName": "Tom Bombadil",
+        "desc": ""
+    },
+    "savelevaleksandr": {
+        "name": "Savelev Aleksandr",
+        "fullName": "Savelev Aleksandr",
+        "desc": ""
+    },
+    "omarcamarero": {
+        "name": "Omar Camarero",
+        "fullName": "Omar Camarero",
+        "desc": ""
+    },
+    "fmgames": {
+        "name": "FM Games",
+        "fullName": "FM Games",
+        "desc": ""
+    },
+    "cg": {
+        "name": "CG",
+        "fullName": "CG",
+        "desc": ""
+    },
+    "vialgames": {
+        "name": "Vial Games",
+        "fullName": "Vial Games",
+        "desc": ""
+    },
+    "s_industries": {
+        "name": "S_Industries",
+        "fullName": "S_Industries",
+        "desc": ""
+    },
+    "raiper34": {
+        "name": "Raiper34",
+        "fullName": "Raiper34",
+        "desc": ""
+    },
+    "epicgamer": {
+        "name": "Epic Gamer",
+        "fullName": "Epic Gamer",
+        "desc": ""
+    },
+    "pratik": {
+        "name": "Pratik",
+        "fullName": "Pratik",
+        "desc": ""
+    },
+    "martypartyfun": {
+        "name": "MartyPartyFun",
+        "fullName": "MartyPartyFun",
+        "desc": ""
+    },
+    "isdaouda": {
+        "name": "Is Daouda",
+        "fullName": "Is Daouda",
+        "desc": ""
+    },
+    "creationallabs": {
+        "name": "Creational Labs",
+        "fullName": "Creational Labs",
+        "desc": ""
+    },
+    "mhmdsubhi": {
+        "name": "Mhmd Subhi",
+        "fullName": "Mhmd Subhi",
+        "desc": ""
+    },
+    "grecol407": {
+        "name": "grecol407",
+        "fullName": "grecol407",
+        "desc": ""
+    },
+    "drifters": {
+        "name": "Drifters",
+        "fullName": "Drifters",
+        "desc": ""
+    },
+    "humofish": {
+        "name": "HuMoFish",
+        "fullName": "HuMoFish",
+        "desc": ""
+    },
+    "ravianandsingh": {
+        "name": "ravianand singh",
+        "fullName": "ravianand singh",
+        "desc": ""
+    },
+    "codecubebrothers": {
+        "name": "CodeCube Brothers",
+        "fullName": "CodeCube Brothers",
+        "desc": ""
+    },
+    "kerem": {
+        "name": "Kerem",
+        "fullName": "Kerem",
+        "desc": ""
+    },
+    "maqnainteractive": {
+        "name": "Maqna Interactive",
+        "fullName": "Maqna Interactive",
+        "desc": ""
+    },
+    "budihartanto": {
+        "name": "Budi Hartanto",
+        "fullName": "Budi Hartanto",
+        "desc": ""
+    },
+    "hermitcrab": {
+        "name": "Hermit Crab",
+        "fullName": "Hermit Crab",
+        "desc": ""
+    },
+    "ligeia_gds": {
+        "name": "ligeia_gds",
+        "fullName": "ligeia_gds",
+        "desc": ""
+    },
+    "team3d": {
+        "name": "Team3D",
+        "fullName": "Team3D",
+        "desc": ""
+    },
+    "lankycarrot": {
+        "name": "LankyCarrot",
+        "fullName": "LankyCarrot",
+        "desc": ""
+    },
+    "mobidus": {
+        "name": "Mobidus",
+        "fullName": "Mobidus",
+        "desc": ""
+    },
+    "xelliogames": {
+        "name": "XellioGames",
+        "fullName": "XellioGames",
+        "desc": ""
+    },
+    "moonroofstudios": {
+        "name": "Moonroof Studios",
+        "fullName": "Moonroof Studios",
+        "desc": ""
+    },
+    "demidtishin": {
+        "name": "Demid Tishin",
+        "fullName": "Demid Tishin",
+        "desc": ""
+    },
+    "crunchystudio": {
+        "name": "Crunchy Studio",
+        "fullName": "Crunchy Studio",
+        "desc": ""
+    },
+    "timbonzon": {
+        "name": "Tim Bonzon",
+        "fullName": "Tim Bonzon",
+        "desc": ""
+    },
+    "gamebuilt": {
+        "name": "Gamebuilt",
+        "fullName": "Gamebuilt",
+        "desc": ""
+    },
+    "robotogames": {
+        "name": "Roboto Games",
+        "fullName": "Roboto Games",
+        "desc": ""
+    },
+    "simplicitygames": {
+        "name": "SimplicityGames",
+        "fullName": "SimplicityGames",
+        "desc": ""
+    },
+    "sandy": {
+        "name": "Sandy",
+        "fullName": "Sandy",
+        "desc": ""
+    },
+    "m0de": {
+        "name": "m0dE",
+        "fullName": "m0dE",
+        "desc": ""
+    },
+    "pixelcorgi": {
+        "name": "pixelcorgi",
+        "fullName": "pixelcorgi",
+        "desc": ""
+    },
+    "tnmd": {
+        "name": "TNMD",
+        "fullName": "TNMD",
+        "desc": ""
+    },
+    "nightape": {
+        "name": "NightAPE",
+        "fullName": "NightAPE",
+        "desc": ""
+    },
+    "yawstudios": {
+        "name": "YAW Studios",
+        "fullName": "YAW Studios",
+        "desc": ""
+    },
+    "kuju": {
+        "name": "kuju",
+        "fullName": "kuju",
+        "desc": ""
+    },
+    "volodymyr": {
+        "name": "Volodymyr",
+        "fullName": "Volodymyr",
+        "desc": ""
+    },
+    "burakersin": {
+        "name": "Burak Ersin",
+        "fullName": "Burak Ersin",
+        "desc": ""
+    },
+    "flyingsheep": {
+        "name": "Flying Sheep",
+        "fullName": "Flying Sheep",
+        "desc": ""
+    },
+    "meltdowninteractive": {
+        "name": "Meltdown Interactive",
+        "fullName": "Meltdown Interactive",
+        "desc": ""
+    },
+    "thundermakestuff": {
+        "name": "Thunder Makestuff",
+        "fullName": "Thunder Makestuff",
+        "desc": ""
+    },
+    "ajvarstudio": {
+        "name": "AjvarStudio",
+        "fullName": "AjvarStudio",
+        "desc": ""
+    },
+    "michałminikowski": {
+        "name": "Michał Minikowski",
+        "fullName": "Michał Minikowski",
+        "desc": ""
+    },
+    "woodenbucketgames": {
+        "name": "WoodenBucket Games",
+        "fullName": "WoodenBucket Games",
+        "desc": ""
+    },
+    "rasslme": {
+        "name": "Rassl.me",
+        "fullName": "Rassl.me",
+        "desc": ""
+    },
+    "realwarfx": {
+        "name": "realwar.fx",
+        "fullName": "realwar.fx",
+        "desc": ""
+    },
+    "prashastikapadia": {
+        "name": "Prashasti Kapadia",
+        "fullName": "Prashasti Kapadia",
+        "desc": ""
+    },
+    "brokellusion": {
+        "name": "Brokellusion",
+        "fullName": "Brokellusion",
+        "desc": ""
+    },
+    "developer": {
+        "name": "Developer",
+        "fullName": "Developer",
+        "desc": ""
+    },
+    "koexstudio": {
+        "name": "KOEX studio",
+        "fullName": "KOEX studio",
+        "desc": ""
+    },
+    "webgameapp": {
+        "name": "Webgameapp",
+        "fullName": "Webgameapp",
+        "desc": ""
+    },
+    "comygames": {
+        "name": "ComyGames",
+        "fullName": "ComyGames",
+        "desc": ""
+    },
+    "wowfactor": {
+        "name": "WOW FACTOR",
+        "fullName": "WOW FACTOR",
+        "desc": ""
+    },
+    "mamutgames": {
+        "name": "MAMUT GAMES",
+        "fullName": "MAMUT GAMES",
+        "desc": ""
+    },
+    "67bits": {
+        "name": "67 Bits",
+        "fullName": "67 Bits",
+        "desc": ""
+    },
+    "godplex": {
+        "name": "Godplex",
+        "fullName": "Godplex",
+        "desc": ""
+    },
+    "albert": {
+        "name": "Albert",
+        "fullName": "Albert",
+        "desc": ""
+    },
+    "polygonal": {
+        "name": "polygonal",
+        "fullName": "polygonal",
+        "desc": ""
+    },
+    "mandingagames": {
+        "name": "Mandinga Games",
+        "fullName": "Mandinga Games",
+        "desc": ""
+    },
+    "ice": {
+        "name": "iCE",
+        "fullName": "iCE",
+        "desc": ""
+    },
+    "playniax": {
+        "name": "Playniax",
+        "fullName": "Playniax",
+        "desc": ""
+    },
+    "twotimintowers": {
+        "name": "Two-Timin' Towers",
+        "fullName": "Two-Timin' Towers",
+        "desc": ""
+    },
+    "josehzz": {
+        "name": "josehzz",
+        "fullName": "josehzz",
+        "desc": ""
+    },
+    "pitoygames": {
+        "name": "Pitoy Games",
+        "fullName": "Pitoy Games",
+        "desc": ""
+    },
+    "fiercefun": {
+        "name": "Fierce Fun",
+        "fullName": "Fierce Fun",
+        "desc": ""
+    },
+    "aceviral": {
+        "name": "Ace Viral",
+        "fullName": "Ace Viral",
+        "desc": ""
+    },
+    "labeledmanltd": {
+        "name": "Labeledman LTD",
+        "fullName": "Labeledman LTD",
+        "desc": ""
+    },
+    "csteph": {
+        "name": "CSteph",
+        "fullName": "CSteph",
+        "desc": ""
+    },
+    "sakimitigames": {
+        "name": "Sakimiti Games",
+        "fullName": "Sakimiti Games",
+        "desc": ""
+    },
+    "dibulo": {
+        "name": "Dibulo",
+        "fullName": "Dibulo",
+        "desc": ""
+    },
+    "konstantin": {
+        "name": "Konstantin",
+        "fullName": "Konstantin",
+        "desc": ""
+    },
+    "pixelbru": {
+        "name": "PixelBru",
+        "fullName": "PixelBru",
+        "desc": ""
+    },
+    "longlazyllama": {
+        "name": "LongLazyLlama",
+        "fullName": "LongLazyLlama",
+        "desc": ""
+    },
+    "rivilution": {
+        "name": "Rivilution",
+        "fullName": "Rivilution",
+        "desc": ""
+    },
+    "nikita": {
+        "name": "Nikita",
+        "fullName": "Nikita",
+        "desc": ""
+    },
+    "vivi": {
+        "name": "Vivi",
+        "fullName": "Vivi",
+        "desc": ""
+    },
+    "acorreia009": {
+        "name": "acorreia009",
+        "fullName": "acorreia009",
+        "desc": ""
+    },
+    "bluespystudios": {
+        "name": "Bluespy Studios",
+        "fullName": "Bluespy Studios",
+        "desc": ""
+    },
+    "nanningsgames": {
+        "name": "NanningsGames",
+        "fullName": "NanningsGames",
+        "desc": ""
+    },
+    "blocksmith": {
+        "name": "Blocksmith",
+        "fullName": "Blocksmith",
+        "desc": ""
+    },
+    "egormuksunov": {
+        "name": "Egor Muksunov",
+        "fullName": "Egor Muksunov",
+        "desc": ""
+    },
+    "testsignal": {
+        "name": "Test Signal",
+        "fullName": "Test Signal",
+        "desc": ""
+    },
+    "puddlejump": {
+        "name": "PuddleJump",
+        "fullName": "PuddleJump",
+        "desc": ""
+    },
+    "rakshak": {
+        "name": "Rakshak",
+        "fullName": "Rakshak",
+        "desc": ""
+    },
+    "laurynas": {
+        "name": "Laurynas",
+        "fullName": "Laurynas",
+        "desc": ""
+    },
+    "dmytro": {
+        "name": "Dmytro",
+        "fullName": "Dmytro",
+        "desc": ""
+    },
+    "playmous": {
+        "name": "Playmous",
+        "fullName": "Playmous",
+        "desc": ""
+    },
+    "aragames": {
+        "name": "ARAgames",
+        "fullName": "ARAgames",
+        "desc": ""
+    },
+    "redrocketgames": {
+        "name": "RedRocketGames",
+        "fullName": "RedRocketGames",
+        "desc": ""
+    },
+    "asmoth": {
+        "name": "asmoth",
+        "fullName": "asmoth",
+        "desc": ""
+    },
+    "traviteamgames": {
+        "name": "Traviteam Games",
+        "fullName": "Traviteam Games",
+        "desc": ""
+    },
+    "moonitegames": {
+        "name": "Moonite Games",
+        "fullName": "Moonite Games",
+        "desc": ""
+    },
+    "gitanerie": {
+        "name": "Gitanerie",
+        "fullName": "Gitanerie",
+        "desc": ""
+    },
+    "malaespina": {
+        "name": "Malaespina",
+        "fullName": "Malaespina",
+        "desc": ""
+    },
+    "mhndgx": {
+        "name": "mhndgx",
+        "fullName": "mhndgx",
+        "desc": ""
+    },
+    "benedique": {
+        "name": "Benedique",
+        "fullName": "Benedique",
+        "desc": ""
+    },
+    "projectgames": {
+        "name": "Project games",
+        "fullName": "Project games",
+        "desc": ""
+    },
+    "donphilifeh": {
+        "name": "Don Philifeh",
+        "fullName": "Don Philifeh",
+        "desc": ""
+    },
+    "sietesicarios": {
+        "name": "sietesicarios",
+        "fullName": "sietesicarios",
+        "desc": ""
+    },
+    "madfireon": {
+        "name": "Madfireon",
+        "fullName": "Madfireon",
+        "desc": ""
+    },
+    "erytau": {
+        "name": "erytau",
+        "fullName": "erytau",
+        "desc": ""
+    },
+    "robert": {
+        "name": "Robert",
+        "fullName": "Robert",
+        "desc": ""
+    },
+    "reverse13": {
+        "name": "Reverse13",
+        "fullName": "Reverse13",
+        "desc": ""
+    },
+    "avin": {
+        "name": "Avin",
+        "fullName": "Avin",
+        "desc": ""
+    },
+    "thedollargamestore": {
+        "name": "The Dollar Game Store",
+        "fullName": "The Dollar Game Store",
+        "desc": ""
+    },
+    "svsdgames": {
+        "name": "SVSDGames",
+        "fullName": "SVSDGames",
+        "desc": ""
+    },
+    "blakebarentine": {
+        "name": "Blake Barentine",
+        "fullName": "Blake Barentine",
+        "desc": ""
+    },
+    "210myyp": {
+        "name": "210myyp",
+        "fullName": "210myyp",
+        "desc": ""
+    },
+    "realinspirer": {
+        "name": "Realinspirer",
+        "fullName": "Realinspirer",
+        "desc": ""
+    },
+    "lumaxgames": {
+        "name": "LUMAX GAMES",
+        "fullName": "LUMAX GAMES",
+        "desc": ""
+    },
+    "anatolylubarsky": {
+        "name": "Anatoly Lubarsky",
+        "fullName": "Anatoly Lubarsky",
+        "desc": ""
+    },
+    "paradoksstudio": {
+        "name": "Paradoks Studio",
+        "fullName": "Paradoks Studio",
+        "desc": ""
+    },
+    "jasperhilven": {
+        "name": "Jasper Hilven",
+        "fullName": "Jasper Hilven",
+        "desc": ""
+    },
+    "3j": {
+        "name": "3j",
+        "fullName": "3j",
+        "desc": ""
+    },
+    "okijingames": {
+        "name": "Okijin Games",
+        "fullName": "Okijin Games",
+        "desc": ""
+    },
+    "niklever": {
+        "name": "NikLever",
+        "fullName": "NikLever",
+        "desc": ""
+    },
+    "risingpixel": {
+        "name": "Rising Pixel",
+        "fullName": "Rising Pixel",
+        "desc": ""
+    },
+    "artem": {
+        "name": "Artem",
+        "fullName": "Artem",
+        "desc": ""
+    },
+    "escadagames": {
+        "name": "Escada Games",
+        "fullName": "Escada Games",
+        "desc": ""
+    },
+    "xifergames": {
+        "name": "xifergames",
+        "fullName": "xifergames",
+        "desc": ""
+    },
+    "sandeepm": {
+        "name": "Sandeep M.",
+        "fullName": "Sandeep M.",
+        "desc": ""
+    },
+    "psionicgames": {
+        "name": "Psionic Games",
+        "fullName": "Psionic Games",
+        "desc": ""
+    },
+    "wheelstars": {
+        "name": "Wheelstars",
+        "fullName": "Wheelstars",
+        "desc": ""
+    },
+    "parrexiongames": {
+        "name": "Parrexion Games",
+        "fullName": "Parrexion Games",
+        "desc": ""
+    },
+    "arcadecodex": {
+        "name": "Arcadecodex",
+        "fullName": "Arcadecodex",
+        "desc": ""
+    },
+    "renderedideas": {
+        "name": "Rendered Ideas",
+        "fullName": "Rendered Ideas",
+        "desc": ""
+    },
+    "brianpalmés": {
+        "name": "Brian Palmés",
+        "fullName": "Brian Palmés",
+        "desc": ""
+    },
+    "alexcg": {
+        "name": "AlexCG",
+        "fullName": "AlexCG",
+        "desc": ""
+    },
+    "artur": {
+        "name": "Artur",
+        "fullName": "Artur",
+        "desc": ""
+    },
+    "speekadievs": {
+        "name": "SpeekaDievs",
+        "fullName": "SpeekaDievs",
+        "desc": ""
+    },
+    "peaksel": {
+        "name": "Peaksel",
+        "fullName": "Peaksel",
+        "desc": ""
+    },
+    "sacristan": {
+        "name": "Sacristan",
+        "fullName": "Sacristan",
+        "desc": ""
+    },
+    "versushost": {
+        "name": "Versushost",
+        "fullName": "Versushost",
+        "desc": ""
+    },
+    "nivikantavo": {
+        "name": "Nivikantavo",
+        "fullName": "Nivikantavo",
+        "desc": ""
+    },
+    "moddio": {
+        "name": "Modd.io",
+        "fullName": "Modd.io",
+        "desc": ""
+    },
+    "zeveretxander": {
+        "name": "Zeveret Xander",
+        "fullName": "Zeveret Xander",
+        "desc": ""
+    },
+    "prerakgiri": {
+        "name": "Prerak Giri",
+        "fullName": "Prerak Giri",
+        "desc": ""
+    },
+    "odiferousgames": {
+        "name": "Odiferous Games",
+        "fullName": "Odiferous Games",
+        "desc": ""
+    },
+    "entapsia": {
+        "name": "Entapsia",
+        "fullName": "Entapsia",
+        "desc": ""
+    },
+    "falcosoftware": {
+        "name": "Falco Software",
+        "fullName": "Falco Software",
+        "desc": ""
+    },
+    "kornelijus": {
+        "name": "Kornelijus ",
+        "fullName": "Kornelijus ",
+        "desc": ""
+    },
+    "jamesyoung": {
+        "name": "James Young",
+        "fullName": "James Young",
+        "desc": ""
+    },
+    "midfinentertainment": {
+        "name": "MidFin Entertainment",
+        "fullName": "MidFin Entertainment",
+        "desc": ""
+    },
+    "diammaxgames": {
+        "name": "DiaMMax Games",
+        "fullName": "DiaMMax Games",
+        "desc": ""
+    },
+    "zebkane": {
+        "name": "Zeb Kane",
+        "fullName": "Zeb Kane",
+        "desc": ""
+    },
+    "bluefrontstudios": {
+        "name": "bluefrontstudios",
+        "fullName": "bluefrontstudios",
+        "desc": ""
+    },
+    "soundholick": {
+        "name": "SoundHolicK",
+        "fullName": "SoundHolicK",
+        "desc": ""
+    },
+    "paulstephendavis": {
+        "name": "Paul Stephen-Davis",
+        "fullName": "Paul Stephen-Davis",
+        "desc": ""
+    },
+    "k&sgames": {
+        "name": "K&S Games",
+        "fullName": "K&S Games",
+        "desc": ""
+    },
+    "pandaroointeractive": {
+        "name": "Pandaroo Interactive",
+        "fullName": "Pandaroo Interactive",
+        "desc": ""
+    },
+    "animalleestúdio": {
+        "name": "Animalle Estúdio",
+        "fullName": "Animalle Estúdio",
+        "desc": ""
+    },
+    "maeldorgames": {
+        "name": "Maeldor Games",
+        "fullName": "Maeldor Games",
+        "desc": ""
+    },
+    "rabagames": {
+        "name": "Raba Games",
+        "fullName": "Raba Games",
+        "desc": ""
+    },
+    "berillupercal": {
+        "name": "Beril Lupercal",
+        "fullName": "Beril Lupercal",
+        "desc": ""
+    },
+    "lamplightergames": {
+        "name": "Lamplighter Games",
+        "fullName": "Lamplighter Games",
+        "desc": ""
+    },
+    "amazingfunnygames": {
+        "name": "AmazingFunnyGames",
+        "fullName": "AmazingFunnyGames",
+        "desc": ""
+    },
+    "blackmoon": {
+        "name": "BlackMoon",
+        "fullName": "BlackMoon",
+        "desc": ""
+    },
+    "youmakugames": {
+        "name": "Youmaku Games",
+        "fullName": "Youmaku Games",
+        "desc": ""
+    },
+    "timerpock": {
+        "name": "Timerpock",
+        "fullName": "Timerpock",
+        "desc": ""
+    },
+    "benjaminman": {
+        "name": "Benjamin Man",
+        "fullName": "Benjamin Man",
+        "desc": ""
+    },
+    "jusogames": {
+        "name": "Juso Games",
+        "fullName": "Juso Games",
+        "desc": ""
+    },
+    "evgenii": {
+        "name": "Evgenii",
+        "fullName": "Evgenii",
+        "desc": ""
+    },
+    "konstantindediukhin": {
+        "name": "Konstantin Dediukhin",
+        "fullName": "Konstantin Dediukhin",
+        "desc": ""
+    },
+    "cbtgames": {
+        "name": "CBT Games",
+        "fullName": "CBT Games",
+        "desc": ""
+    },
+    "artururbanski": {
+        "name": "Artur Urbanski",
+        "fullName": "Artur Urbanski",
+        "desc": ""
+    },
+    "effacestudios": {
+        "name": "Efface Studios",
+        "fullName": "Efface Studios",
+        "desc": ""
+    },
+    "radoiteodor": {
+        "name": "Radoi Teodor",
+        "fullName": "Radoi Teodor",
+        "desc": ""
+    },
+    "alexei": {
+        "name": "Alexei",
+        "fullName": "Alexei",
+        "desc": ""
+    },
+    "yimingy": {
+        "name": "Yimingy",
+        "fullName": "Yimingy",
+        "desc": ""
+    },
+    "егормуксунов": {
+        "name": "Егор Муксунов",
+        "fullName": "Егор Муксунов",
+        "desc": ""
+    },
+    "toghrulsgames": {
+        "name": "Toghrul's Games",
+        "fullName": "Toghrul's Games",
+        "desc": ""
+    },
+    "bigmetalgames": {
+        "name": "BigMetalGames",
+        "fullName": "BigMetalGames",
+        "desc": ""
+    },
+    "solitaireklondike": {
+        "name": "Solitaire Klondike",
+        "fullName": "Solitaire Klondike",
+        "desc": ""
+    },
+    "7games": {
+        "name": "7Games",
+        "fullName": "7Games",
+        "desc": ""
+    },
+    "marcellrocha": {
+        "name": "Marcell Rocha",
+        "fullName": "Marcell Rocha",
+        "desc": ""
+    },
+    "techjuego": {
+        "name": "Tech Juego",
+        "fullName": "Tech Juego",
+        "desc": ""
+    },
+    "yendisentertainment": {
+        "name": "Yendis Entertainment",
+        "fullName": "Yendis Entertainment",
+        "desc": ""
+    },
+    "oleksandrgodoba": {
+        "name": "Oleksandr Godoba",
+        "fullName": "Oleksandr Godoba",
+        "desc": ""
+    },
+    "aidangignac": {
+        "name": "Aidan Gignac",
+        "fullName": "Aidan Gignac",
+        "desc": ""
+    },
+    "segediinc": {
+        "name": "Segedi Inc.",
+        "fullName": "Segedi Inc.",
+        "desc": ""
+    },
+    "justplaylol": {
+        "name": "JustPlay.LOL",
+        "fullName": "JustPlay.LOL",
+        "desc": ""
+    },
+    "nexters": {
+        "name": "Nexters",
+        "fullName": "Nexters",
+        "desc": ""
+    },
+    "docski": {
+        "name": "Docski",
+        "fullName": "Docski",
+        "desc": ""
+    },
+    "yangliu": {
+        "name": "Yang Liu",
+        "fullName": "Yang Liu",
+        "desc": ""
+    },
+    "ninjakiwi": {
+        "name": "Ninja Kiwi",
+        "fullName": "Ninja Kiwi",
+        "desc": ""
+    },
+    "shootergames": {
+        "name": "Shooter Games",
+        "fullName": "Shooter Games",
+        "desc": ""
+    },
+    "codethislab": {
+        "name": "Code This Lab",
+        "fullName": "Code This Lab",
+        "desc": ""
+    },
+    "mahjongg": {
+        "name": "Mahjon.gg",
+        "fullName": "Mahjon.gg",
+        "desc": ""
+    },
+    "addictinggames": {
+        "name": "Addicting Games",
+        "fullName": "Addicting Games",
+        "desc": ""
+    },
+    "anker": {
+        "name": "Anker",
+        "fullName": "Anker",
+        "desc": ""
+    },
+    "orteil": {
+        "name": "Orteil",
+        "fullName": "Orteil",
+        "desc": ""
+    },
+    "innogames": {
+        "name": "InnoGames",
+        "fullName": "InnoGames",
+		"desc":"InnoGames is a German video game developer and publisher based in Hamburg. Founded in 2007, it focuses on the development of free-to-play online browser and mobile games. InnoGames has developed multiple successful hits of MMORPG Games, such as Forge of Empires, Elvenar and Grepolis."
+   },
+    "bytrolabs": {
+        "name": "Bytro Labs",
+        "fullName": "Bytro Labs",
+		"desc":"Bytro Labs develops and publishes browser-based and mobile online games. At Bytro Labs, they are passionate about developing and publishing unique browser-based strategy games. Based in Hamburg's city centre, they are an innovative and driven team of 20 people drawn from around the world."
+   },
+    "adrian": {
+        "name": "Adrian",
+        "fullName": "Adrian",
+        "desc": ""
+    },
+    "kinkajooapps": {
+        "name": "Kinkajoo Apps",
+        "fullName": "Kinkajoo Apps",
+        "desc": ""
+    },
+    "ubisoft": {
+        "name": "Ubisoft",
+        "fullName": "Ubisoft",
+        "desc": ""
+    },
+    "paulsalameh": {
+        "name": "Paul Salameh",
+        "fullName": "Paul Salameh",
+        "desc": ""
+    },
+    "hammurabi": {
+        "name": "Hammurabi",
+        "fullName": "Hammurabi",
+        "desc": ""
+    },
+    "chowdhuryihtasham": {
+        "name": "chowdhuryihtasham",
+        "fullName": "chowdhuryihtasham",
+        "desc": ""
+    },
+    "rafael79": {
+        "name": "rafael79",
+        "fullName": "rafael79",
+        "desc": ""
+    },
+    "robin": {
+        "name": "Robin",
+        "fullName": "Robin",
+        "desc": ""
+    },
+    "mm": {
+        "name": "MM",
+        "fullName": "MM",
+        "desc": ""
+    },
+    "planktonfun": {
+        "name": "planktonfun",
+        "fullName": "planktonfun",
+        "desc": ""
+    },
+    "vkrishna": {
+        "name": "VKrishna",
+        "fullName": "VKrishna",
+        "desc": ""
+    },
+    "sakkatstudio": {
+        "name": "Sakkat Studio",
+        "fullName": "Sakkat Studio",
+        "desc": ""
+    },
+    "madebychaz": {
+        "name": "MadeByChaz",
+        "fullName": "MadeByChaz",
+        "desc": ""
+    },
+    "eliasku": {
+        "name": "Eliasku",
+        "fullName": "Eliasku",
+        "desc": ""
+    },
+    "onrushstudio": {
+        "name": "OnRush Studio",
+        "fullName": "OnRush Studio",
+        "desc": ""
+    },
+    "oplaygames": {
+        "name": "OPlay Games",
+        "fullName": "OPlay Games",
+        "desc": ""
+    },
+    "artindustries": {
+        "name": "Art Industries",
+        "fullName": "Art Industries",
+        "desc": ""
+    },
+    "hyperkani": {
+        "name": "Hyperkani",
+        "fullName": "Hyperkani",
+        "desc": ""
+    },
+    "rémivansteelandt": {
+        "name": "Rémi Vansteelandt",
+        "fullName": "Rémi Vansteelandt",
+        "desc": ""
+    },
+    "blumgi": {
+        "name": "Blumgi",
+        "fullName": "Blumgi",
+        "desc": ""
+    },
+    "stupidella": {
+        "name": "stupidella",
+        "fullName": "stupidella",
+        "desc": ""
+    },
+    "kzunecgames": {
+        "name": "Kzunec Games",
+        "fullName": "Kzunec Games",
+        "desc": ""
+    },
+    "skullcapstudios": {
+        "name": "Skullcap Studios",
+        "fullName": "Skullcap Studios",
+        "desc": ""
+    },
+    "venturous": {
+        "name": "Venturous",
+        "fullName": "Venturous",
+        "desc": ""
+    },
+    "happylanderltd": {
+        "name": "Happylander Ltd",
+        "fullName": "Happylander Ltd",
+        "desc": ""
+    },
+    "unicostudio": {
+        "name": "Unico Studio",
+        "fullName": "Unico Studio",
+        "desc": ""
+    },
+    "braderkkila": {
+        "name": "Brad Erkkila",
+        "fullName": "Brad Erkkila",
+        "desc": ""
+    },
+    "alexanderbulatov": {
+        "name": "Alexander Bulatov",
+        "fullName": "Alexander Bulatov",
+        "desc": ""
+    },
+    "oleksandrostapenko": {
+        "name": "Oleksandr Ostapenko",
+        "fullName": "Oleksandr Ostapenko",
+        "desc": ""
+    },
+    "neutronized": {
+        "name": "Neutronized",
+        "fullName": "Neutronized",
+        "desc": ""
+    },
+    "martinmagni": {
+        "name": "Martin Magni",
+        "fullName": "Martin Magni",
+        "desc": ""
+    },
+    "legionplatforms": {
+        "name": "LEGiON Platforms",
+        "fullName": "LEGiON Platforms",
+        "desc": ""
+    },
+    "koolgames": {
+        "name": "Kool Games",
+        "fullName": "Kool Games",
+        "desc": ""
+    },
+    "purrfectgames": {
+        "name": "Purrfect Games",
+        "fullName": "Purrfect Games",
+        "desc": ""
+    },
+    "linorabolini": {
+        "name": "Lino Rabolini",
+        "fullName": "Lino Rabolini",
+        "desc": ""
+    },
+    "andreelias": {
+        "name": "Andre Elias",
+        "fullName": "Andre Elias",
+        "desc": ""
+    },
+    "hgstudio": {
+        "name": "hg-studio",
+        "fullName": "hg-studio",
+        "desc": ""
+    },
+    "lutte": {
+        "name": "Lutte",
+        "fullName": "Lutte",
+        "desc": ""
+    },
+    "fmstudio": {
+        "name": "FM Studio",
+        "fullName": "FM Studio",
+        "desc": ""
+    },
+    "wedoyouplay": {
+        "name": "WeDoYouPlay",
+        "fullName": "WeDoYouPlay",
+        "desc": ""
+    },
+    "artgames": {
+        "name": "Art Games",
+        "fullName": "Art Games",
+        "desc": ""
+    },
+    "fiveamp": {
+        "name": "Fiveamp",
+        "fullName": "Fiveamp",
+        "desc": ""
+    },
+    "stephenhaney": {
+        "name": "Stephen Haney",
+        "fullName": "Stephen Haney",
+        "desc": ""
+    },
+    "sqdgames": {
+        "name": "SQD Games",
+        "fullName": "SQD Games",
+        "desc": ""
+    },
+    "bedbedgames": {
+        "name": "bedbed games",
+        "fullName": "bedbed games",
+        "desc": ""
+    },
+    "prunegames": {
+        "name": "Prune Games",
+        "fullName": "Prune Games",
+        "desc": ""
+    },
+    "buldogogames": {
+        "name": "Buldogo Games",
+        "fullName": "Buldogo Games",
+        "desc": ""
+    },
+    "glowmonkey": {
+        "name": "Glowmonkey",
+        "fullName": "Glowmonkey",
+        "desc": ""
+    },
+    "terminarchgames": {
+        "name": "Terminarch Games",
+        "fullName": "Terminarch Games",
+        "desc": ""
+    },
+    "illusivegames": {
+        "name": "illusivegames",
+        "fullName": "illusivegames",
+        "desc": ""
+    },
+    "chinatsu": {
+        "name": "Chinatsu",
+        "fullName": "Chinatsu",
+        "desc": ""
+    },
+    "fromchris": {
+        "name": "FromChris",
+        "fullName": "FromChris",
+        "desc": ""
+    },
+    "marcus7z": {
+        "name": "Marcus7z",
+        "fullName": "Marcus7z",
+        "desc": ""
+    },
+    "elanrastudios": {
+        "name": "Elanra Studios",
+        "fullName": "Elanra Studios",
+        "desc": ""
+    },
+    "okashigames": {
+        "name": "Okashi Games",
+        "fullName": "Okashi Games",
+        "desc": ""
+    },
+    "ajordaz": {
+        "name": "AJ Ordaz",
+        "fullName": "AJ Ordaz",
+        "desc": ""
+    },
+    "yurygrigoryev": {
+        "name": "Yury Grigoryev",
+        "fullName": "Yury Grigoryev",
+        "desc": ""
+    },
+    "limitless": {
+        "name": "Limitless",
+        "fullName": "Limitless",
+        "desc": ""
+    },
+    "bergice": {
+        "name": "bergice",
+        "fullName": "bergice",
+        "desc": ""
+    },
+    "snapbreakgames": {
+        "name": "Snapbreak Games",
+        "fullName": "Snapbreak Games",
+        "desc": ""
+    },
+    "benrigames": {
+        "name": "Benri Games",
+        "fullName": "Benri Games",
+        "desc": ""
+    },
+    "furkankarapinar": {
+        "name": "Furkan Karapinar",
+        "fullName": "Furkan Karapinar",
+        "desc": ""
+    },
+    "neki": {
+        "name": "Neki",
+        "fullName": "Neki",
+        "desc": ""
+    },
+    "arfgames": {
+        "name": "ARF Games",
+        "fullName": "ARF Games",
+        "desc": ""
+    },
+    "yohohogames": {
+        "name": "Yohoho Games",
+        "fullName": "Yohoho Games",
+        "desc": ""
+    },
+    "potatojam": {
+        "name": "Potato Jam",
+        "fullName": "Potato Jam",
+        "desc": ""
+    },
+    "steelpaninteractive": {
+        "name": "Steelpan Interactive",
+        "fullName": "Steelpan Interactive",
+        "desc": ""
+    },
+    "fomogames": {
+        "name": "Fomo Games",
+        "fullName": "Fomo Games",
+        "desc": ""
+    },
+    "projectgd": {
+        "name": "Project GD",
+        "fullName": "Project GD",
+        "desc": ""
+    },
+    "driftio": {
+        "name": "Drift.io",
+        "fullName": "Drift.io",
+        "desc": ""
+    },
+    "7spotgames": {
+        "name": "7Spot Games",
+        "fullName": "7Spot Games",
+        "desc": ""
+    },
+    "ludenio": {
+        "name": "Luden IO",
+        "fullName": "Luden IO",
+        "desc": ""
+    },
+    "yeqwep": {
+        "name": "yeqwep",
+        "fullName": "yeqwep",
+        "desc": ""
+    },
+    "emberwhirl": {
+        "name": "Ember Whirl",
+        "fullName": "Ember Whirl",
+        "desc": ""
+    },
+    "ironfoxgames": {
+        "name": "Iron Fox Games",
+        "fullName": "Iron Fox Games",
+        "desc": ""
+    },
+    "unept": {
+        "name": "Unept",
+        "fullName": "Unept",
+        "desc": ""
+    },
+    "d954mas": {
+        "name": "d954mas",
+        "fullName": "d954mas",
+        "desc": ""
+    },
+    "pegasus": {
+        "name": "PEGASUS",
+        "fullName": "PEGASUS",
+        "desc": ""
+    },
+    "seriusgames": {
+        "name": "Serius Games",
+        "fullName": "Serius Games",
+        "desc": ""
+    },
+    "adventureislands": {
+        "name": "Adventure Islands",
+        "fullName": "Adventure Islands",
+        "desc": ""
+    },
+    "insalitygames": {
+        "name": "Insality Games",
+        "fullName": "Insality Games",
+        "desc": ""
+    },
+    "meacoda": {
+        "name": "Mea coda",
+        "fullName": "Mea coda",
+        "desc": ""
+    },
+    "jefframos": {
+        "name": "Jeff Ramos",
+        "fullName": "Jeff Ramos",
+        "desc": ""
+    },
+    "ulpomedia": {
+        "name": "Ulpo Media",
+        "fullName": "Ulpo Media",
+        "desc": ""
+    },
+    "superplusgames": {
+        "name": "Superplus Games",
+        "fullName": "Superplus Games",
+        "desc": ""
+    },
+    "igamebank": {
+        "name": "igamebank",
+        "fullName": "igamebank",
+        "desc": ""
+    },
+    "pandaqi": {
+        "name": "Pandaqi",
+        "fullName": "Pandaqi",
+        "desc": ""
+    },
+    "metaspace": {
+        "name": "Meta Space",
+        "fullName": "Meta Space",
+        "desc": ""
+    },
+    "devortel": {
+        "name": "Devortel",
+        "fullName": "Devortel",
+        "desc": ""
+    },
+    "madbox": {
+        "name": "Madbox",
+        "fullName": "Madbox",
+        "desc": ""
+    },
+    "supernicegames": {
+        "name": "supernice.games",
+        "fullName": "supernice.games",
+        "desc": ""
+    },
+    "alexso": {
+        "name": "AlexSo",
+        "fullName": "AlexSo",
+        "desc": ""
+    },
+    "refold": {
+        "name": "Refold",
+        "fullName": "Refold",
+        "desc": ""
+    },
+    "vanorium": {
+        "name": "Vanorium",
+        "fullName": "Vanorium",
+        "desc": ""
+    },
+    "vectaria": {
+        "name": "Vectaria",
+        "fullName": "Vectaria",
+        "desc": ""
+    },
+    "infinitygamesio": {
+        "name": "InfinityGames.io",
+        "fullName": "InfinityGames.io",
+        "desc": ""
+    },
+    "radicalplay": {
+        "name": "Radical Play",
+        "fullName": "Radical Play",
+        "desc": ""
+    },
+    "bennettfoddy": {
+        "name": "Bennett Foddy",
+        "fullName": "Bennett Foddy",
+        "desc": ""
+    },
+    "lampogolovii": {
+        "name": "Lampogolovii",
+        "fullName": "Lampogolovii",
+        "desc": ""
+    },
+    "viridinostudios": {
+        "name": "Viridino Studios",
+        "fullName": "Viridino Studios",
+        "desc": ""
+    },
+    "coolgamesbv.": {
+        "name": "Coolgames B.V.",
+        "fullName": "Coolgames B.V.",
+        "desc": ""
+    },
+    "eidosk": {
+        "name": "Eidosk",
+        "fullName": "Eidosk",
+        "desc": ""
+    },
+    "punyrobot": {
+        "name": "Punyrobot",
+        "fullName": "Punyrobot",
+        "desc": ""
+    },
+    "imangistudios": {
+        "name": "Imangi Studios",
+        "fullName": "Imangi Studios",
+        "desc": ""
+    },
+    "helperwesley": {
+        "name": "HelperWesley",
+        "fullName": "HelperWesley",
+        "desc": ""
+    },
+    "alexjohansson": {
+        "name": "Alex Johansson",
+        "fullName": "Alex Johansson",
+        "desc": ""
+    },
+    "roadtripgames": {
+        "name": "Roadtrip Games",
+        "fullName": "Roadtrip Games",
+        "desc": ""
+    },
+    "snoutupgames": {
+        "name": "SnoutUp Games",
+        "fullName": "SnoutUp Games",
+        "desc": ""
+    },
+    "havana24": {
+        "name": "havana24",
+        "fullName": "havana24",
+        "desc": ""
+    },
+    "qkygames": {
+        "name": "QKY Games",
+        "fullName": "QKY Games",
+        "desc": ""
+    },
+    "pokistudios": {
+        "name": "Poki Studios",
+        "fullName": "Poki Studios",
+        "desc": ""
+    },
+    "smgstudio": {
+        "name": "SMG Studio",
+        "fullName": "SMG Studio",
+        "desc": ""
+    },
+    "avixgames": {
+        "name": "AVIX games",
+        "fullName": "AVIX games",
+        "desc": ""
+    },
+    "nitrome": {
+        "name": "Nitrome",
+        "fullName": "Nitrome",
+        "desc": ""
+    },
+    "marketjs": {
+        "name": "MarketJS",
+        "fullName": "MarketJS",
+        "desc": ""
+    },
+    "puffballsunited": {
+        "name": "PuffballsUnited",
+        "fullName": "PuffballsUnited",
+        "desc": ""
+    },
+    "pixeljamgames": {
+        "name": "PixelJAM Games",
+        "fullName": "PixelJAM Games",
+        "desc": ""
+    },
+    "volemgames": {
+        "name": "Volem Games",
+        "fullName": "Volem Games",
+        "desc": ""
+    },
+    "aniway": {
+        "name": "Aniway",
+        "fullName": "Aniway",
+        "desc": ""
+    },
+    "day137global": {
+        "name": "Day137 Global",
+        "fullName": "Day137 Global",
+        "desc": ""
+    },
+    "korigame": {
+        "name": "Korigame",
+        "fullName": "Korigame",
+        "desc": ""
+    },
+    "shoomgames": {
+        "name": "Shoom Games",
+        "fullName": "Shoom Games",
+        "desc": ""
+    },
+    "johnnyk": {
+        "name": "Johnny-K",
+        "fullName": "Johnny-K",
+        "desc": ""
+    },
+    "dsdgames": {
+        "name": "DSD Games",
+        "fullName": "DSD Games",
+        "desc": ""
+    },
+    "ardiamgames": {
+        "name": "Ardiam Games",
+        "fullName": "Ardiam Games",
+        "desc": ""
+    },
+    "vnstartstudio": {
+        "name": "VNStart Studio",
+        "fullName": "VNStart Studio",
+        "desc": ""
+    },
+    "domaskazragis": {
+        "name": "Domas Kazragis",
+        "fullName": "Domas Kazragis",
+        "desc": ""
+    },
+    "bungun": {
+        "name": "BUN GUN",
+        "fullName": "BUN GUN",
+        "desc": ""
+    },
+    "milkshakegames": {
+        "name": "Milkshake Games",
+        "fullName": "Milkshake Games",
+        "desc": ""
+    },
+    "doubledutchgames": {
+        "name": "DoubleDutch Games",
+        "fullName": "DoubleDutch Games",
+        "desc": ""
+    },
+    "anvgames": {
+        "name": "ANV Games",
+        "fullName": "ANV Games",
+        "desc": ""
+    },
+    "easybrain": {
+        "name": "EasyBrain",
+        "fullName": "EasyBrain",
+        "desc": ""
+    },
+    "dragosha": {
+        "name": "Dragosha",
+        "fullName": "Dragosha",
+        "desc": ""
+    },
+    "criodev": {
+        "name": "CrioDev",
+        "fullName": "CrioDev",
+        "desc": ""
+    },
+    "amazinghedgehog": {
+        "name": "Amazing Hedgehog",
+        "fullName": "Amazing Hedgehog",
+        "desc": ""
+    },
+    "studiolaaya": {
+        "name": "Studio Laaya",
+        "fullName": "Studio Laaya",
+        "desc": ""
+    },
+    "chinykian": {
+        "name": "Chinykian",
+        "fullName": "Chinykian",
+        "desc": ""
+    },
+    "kresimircvitanovic": {
+        "name": "Kresimir Cvitanovic",
+        "fullName": "Kresimir Cvitanovic",
+        "desc": ""
+    },
+    "fliplinestudios": {
+        "name": "Flipline Studios",
+        "fullName": "Flipline Studios",
+        "desc": ""
+    },
+    "storms": {
+        "name": "Storms",
+        "fullName": "Storms",
+        "desc": ""
+    },
+    "junkbytes": {
+        "name": "Junkbytes",
+        "fullName": "Junkbytes",
+        "desc": ""
+    },
+    "softlitude": {
+        "name": "Softlitude",
+        "fullName": "Softlitude",
+        "desc": ""
+    },
+    "ravivelon": {
+        "name": "Raviv Elon",
+        "fullName": "Raviv Elon",
+        "desc": ""
+    },
+    "gesinimogames": {
+        "name": "Gesinimo Games",
+        "fullName": "Gesinimo Games",
+        "desc": ""
+    },
+    "studioseufz": {
+        "name": "Studio Seufz",
+        "fullName": "Studio Seufz",
+        "desc": ""
+    },
+    "bekhoteam": {
+        "name": "Bekho Team",
+        "fullName": "Bekho Team",
+        "desc": ""
+    },
+    "nopowerup": {
+        "name": "NoPowerup",
+        "fullName": "NoPowerup",
+        "desc": ""
+    },
+    "domogames": {
+        "name": "Domo Games",
+        "fullName": "Domo Games",
+        "desc": ""
+    },
+    "atatapp": {
+        "name": "Atatapp",
+        "fullName": "Atatapp",
+        "desc": ""
+    },
+    "juicybeast": {
+        "name": "Juicy Beast",
+        "fullName": "Juicy Beast",
+        "desc": ""
+    },
+    "kekgames": {
+        "name": "Kek Games",
+        "fullName": "Kek Games",
+        "desc": ""
+    },
+    "indiesoft": {
+        "name": "Indiesoft",
+        "fullName": "Indiesoft",
+        "desc": ""
+    },
+    "slabgames": {
+        "name": "Slab Games",
+        "fullName": "Slab Games",
+        "desc": ""
+    },
+    "diemorth": {
+        "name": "Diemorth",
+        "fullName": "Diemorth",
+        "desc": ""
+    },
+    "osloalbet": {
+        "name": "Oslo Albet",
+        "fullName": "Oslo Albet",
+        "desc": ""
+    },
+    "lakgames": {
+        "name": "LAK Games",
+        "fullName": "LAK Games",
+        "desc": ""
+    },
+    "10x10games": {
+        "name": "10x10games",
+        "fullName": "10x10games",
+        "desc": ""
+    },
+    "kokosgames": {
+        "name": "kokos.games",
+        "fullName": "kokos.games",
+        "desc": ""
+    },
+    "frostypop": {
+        "name": "Frosty Pop",
+        "fullName": "Frosty Pop",
+        "desc": ""
+    },
+    "brinemedia": {
+        "name": "Brinemedia",
+        "fullName": "Brinemedia",
+        "desc": ""
+    },
+    "redfoc": {
+        "name": "RedFoc",
+        "fullName": "RedFoc",
+        "desc": ""
+    },
+    "mizadev": {
+        "name": "Mizadev",
+        "fullName": "Mizadev",
+        "desc": ""
+    },
+    "totebo": {
+        "name": "Totebo",
+        "fullName": "Totebo",
+        "desc": ""
+    },
+    "microsoft": {
+        "name": "Microsoft",
+        "fullName": "Microsoft",
+        "desc": ""
+    },
+    "gruffazilla": {
+        "name": "Gruffazilla",
+        "fullName": "Gruffazilla",
+        "desc": ""
+    },
+    "ninjamuffin99": {
+        "name": "ninjamuffin99",
+        "fullName": "ninjamuffin99",
+        "desc": ""
+    },
+    "drmopgames": {
+        "name": "DrMop Games",
+        "fullName": "DrMop Games",
+        "desc": ""
+    },
+    "frozendev": {
+        "name": "Frozen Dev",
+        "fullName": "Frozen Dev",
+        "desc": ""
+    },
+    "rujogames": {
+        "name": "Rujo Games",
+        "fullName": "Rujo Games",
+        "desc": ""
+    },
+    "bornegames": {
+        "name": "Borne Games",
+        "fullName": "Borne Games",
+        "desc": ""
+    },
+    "ranidagames": {
+        "name": "Ranida Games",
+        "fullName": "Ranida Games",
+        "desc": ""
+    },
+    "volkanturan": {
+        "name": "Volkan Turan",
+        "fullName": "Volkan Turan",
+        "desc": ""
+    },
+    "lukasdonkers": {
+        "name": "Lukas Donkers",
+        "fullName": "Lukas Donkers",
+        "desc": ""
+    },
+    "nadgames": {
+        "name": "NadGames",
+        "fullName": "NadGames",
+        "desc": ""
+    },
+    "tastyair": {
+        "name": "Tasty Air",
+        "fullName": "Tasty Air",
+        "desc": ""
+    },
+    "trexinteractive": {
+        "name": "T-Rex Interactive",
+        "fullName": "T-Rex Interactive",
+        "desc": ""
+    },
+    "neomaze": {
+        "name": "Neomaze",
+        "fullName": "Neomaze",
+        "desc": ""
+    },
+    "kanedagames": {
+        "name": "Kaneda Games",
+        "fullName": "Kaneda Games",
+        "desc": ""
+    },
+    "narenjo": {
+        "name": "Narenjo",
+        "fullName": "Narenjo",
+        "desc": ""
+    },
+    "superhotteam": {
+        "name": "SUPERHOT Team",
+        "fullName": "SUPERHOT Team",
+        "desc": ""
+    },
+    "smokoko": {
+        "name": "Smokoko",
+        "fullName": "Smokoko",
+        "desc": ""
+    },
+    "electricmonkeys": {
+        "name": "Electric Monkeys",
+        "fullName": "Electric Monkeys",
+        "desc": ""
+    },
+    "fumingo": {
+        "name": "Fumingo",
+        "fullName": "Fumingo",
+        "desc": ""
+    },
+    "chorrusgames": {
+        "name": "Chorrus Games",
+        "fullName": "Chorrus Games",
+        "desc": ""
+    },
+    "gamerce": {
+        "name": "Gamerce",
+        "fullName": "Gamerce",
+        "desc": ""
+    },
+    "snailsanimation": {
+        "name": "Snails Animation",
+        "fullName": "Snails Animation",
+        "desc": ""
+    },
+    "retrosoulsteam": {
+        "name": "RetroSouls Team",
+        "fullName": "RetroSouls Team",
+        "desc": ""
+    },
+    "joybits": {
+        "name": "JoyBits",
+        "fullName": "JoyBits",
+        "desc": ""
+    },
+    "goodboydigital": {
+        "name": "Goodboy Digital",
+        "fullName": "Goodboy Digital",
+        "desc": ""
+    },
+    "patyukgames": {
+        "name": "Patyuk Games",
+        "fullName": "Patyuk Games",
+        "desc": ""
+    },
+    "andriybychkovskyi": {
+        "name": "Andriy Bychkovskyi",
+        "fullName": "Andriy Bychkovskyi",
+        "desc": ""
+    },
+    "suntemple": {
+        "name": "Sun Temple",
+        "fullName": "Sun Temple",
+        "desc": ""
+    },
+    "rensrongen": {
+        "name": "Rens Rongen",
+        "fullName": "Rens Rongen",
+        "desc": ""
+    },
+    "ruimstudio": {
+        "name": "Ruim Studio",
+        "fullName": "Ruim Studio",
+        "desc": ""
+    },
+    "anvilgames": {
+        "name": "Anvil Games",
+        "fullName": "Anvil Games",
+        "desc": ""
+    },
+    "ohmaigawd": {
+        "name": "Ohmaigawd",
+        "fullName": "Ohmaigawd",
+        "desc": ""
+    },
+    "akosmakovics": {
+        "name": "Akos Makovics",
+        "fullName": "Akos Makovics",
+        "desc": ""
+    },
+    "kassanity": {
+        "name": "KasSanity",
+        "fullName": "KasSanity",
+        "desc": ""
+    },
+    "playworks": {
+        "name": "play.works",
+        "fullName": "play.works",
+        "desc": ""
+    },
+    "martijnkunst": {
+        "name": "Martijn Kunst",
+        "fullName": "Martijn Kunst",
+        "desc": ""
+    },
+    "gametapas": {
+        "name": "Gametapas",
+        "fullName": "Gametapas",
+        "desc": ""
+    },
+    "lekesahatqija": {
+        "name": "Leke Sahatqija",
+        "fullName": "Leke Sahatqija",
+        "desc": ""
+    },
+    "craneballs": {
+        "name": "Craneballs",
+        "fullName": "Craneballs",
+        "desc": ""
+    },
+    "chromeux": {
+        "name": "Chrome UX",
+        "fullName": "Chrome UX",
+        "desc": ""
+    },
+    "applava": {
+        "name": "Applava",
+        "fullName": "Applava",
+        "desc": ""
+    },
+    "herocraft": {
+        "name": "HeroCraft",
+        "fullName": "HeroCraft",
+        "desc": ""
+    },
+    "dreamtown": {
+        "name": "Dream Town",
+        "fullName": "Dream Town",
+        "desc": ""
+    },
+    "rabbitmountain": {
+        "name": "Rabbit Mountain",
+        "fullName": "Rabbit Mountain",
+        "desc": ""
+    },
+    "featherweight": {
+        "name": "Featherweight",
+        "fullName": "Featherweight",
+        "desc": ""
+    },
+    "dobsoftstudios": {
+        "name": "Dobsoft Studios",
+        "fullName": "Dobsoft Studios",
+        "desc": ""
+    },
+    "julienmourer": {
+        "name": "Julien Mourer",
+        "fullName": "Julien Mourer",
+        "desc": ""
+    },
+    "splappme-do": {
+        "name": "Splapp-me-do",
+        "fullName": "Splapp-me-do",
+        "desc": ""
+    },
+    "benmcmahan": {
+        "name": "Ben McMahan",
+        "fullName": "Ben McMahan",
+        "desc": ""
+    },
+    "bubbleshooternet": {
+        "name": "BubbleShooter.net",
+        "fullName": "BubbleShooter.net",
+        "desc": ""
+    },
+    "increasemedia": {
+        "name": "Increase Media",
+        "fullName": "Increase Media",
+        "desc": ""
+    },
+    "catsummer": {
+        "name": "Cat Summer",
+        "fullName": "Cat Summer",
+        "desc": ""
+    },
+    "alexharrison": {
+        "name": "Alex Harrison",
+        "fullName": "Alex Harrison",
+        "desc": ""
+    },
+    "logiccool": {
+        "name": "Logic.cool",
+        "fullName": "Logic.cool",
+        "desc": ""
+    },
+    "gamefrenzy": {
+        "name": "GameFrenzy",
+        "fullName": "GameFrenzy",
+        "desc": ""
+    },
+    "neweichgames": {
+        "name": "New Eich Games",
+        "fullName": "New Eich Games",
+        "desc": ""
+    },
+    "adrianzarzycki": {
+        "name": "Adrian Zarzycki",
+        "fullName": "Adrian Zarzycki",
+        "desc": ""
+    },
+    "dedalord": {
+        "name": "Dedalord",
+        "fullName": "Dedalord",
+        "desc": ""
+    },
+    "kixgames": {
+        "name": "KiX games",
+        "fullName": "KiX games",
+        "desc": ""
+    },
+    "doondookstudio": {
+        "name": "DoonDookStudio",
+        "fullName": "DoonDookStudio",
+        "desc": ""
+    },
+    "raiyumi": {
+        "name": "Raiyumi",
+        "fullName": "Raiyumi",
+        "desc": ""
+    },
+    "aestheticianlabs": {
+        "name": "Aesthetician Labs",
+        "fullName": "Aesthetician Labs",
+        "desc": ""
+    },
+    "protostar": {
+        "name": "Protostar",
+        "fullName": "Protostar",
+        "desc": ""
+    },
+    "subterraneansoftware": {
+        "name": "Subterranean Software",
+        "fullName": "Subterranean Software",
+        "desc": ""
+    },
+    "erigatohishima": {
+        "name": "Erigatohishima",
+        "fullName": "Erigatohishima",
+        "desc": ""
+    },
+    "ziango": {
+        "name": "Ziango",
+        "fullName": "Ziango",
+        "desc": ""
+    },
+    "tastypill": {
+        "name": "tastypill",
+        "fullName": "tastypill",
+        "desc": ""
+    },
+    "sarunasvisockas": {
+        "name": "Sarunas Visockas",
+        "fullName": "Sarunas Visockas",
+        "desc": ""
+    },
+    "iplayalldaystudio": {
+        "name": "IPlayAllDay Studio",
+        "fullName": "IPlayAllDay Studio",
+        "desc": ""
+    },
+    "evilnoob": {
+        "name": "EvilNoob",
+        "fullName": "EvilNoob",
+        "desc": ""
+    },
+    "adoluxgames": {
+        "name": "Adoluxgames",
+        "fullName": "Adoluxgames",
+        "desc": ""
+    },
+    "bitgem3d": {
+        "name": "Bitgem3d",
+        "fullName": "Bitgem3d",
+        "desc": ""
+    },
+    "josephcloutier": {
+        "name": "Joseph Cloutier",
+        "fullName": "Joseph Cloutier",
+        "desc": ""
+    },
+    "pupgamstudios": {
+        "name": "Pupgam Studios",
+        "fullName": "Pupgam Studios",
+        "desc": ""
+    },
+    "devmgames": {
+        "name": "Devm Games",
+        "fullName": "Devm Games",
+        "desc": ""
+    },
+    "falcoware": {
+        "name": "Falcoware",
+        "fullName": "Falcoware",
+        "desc": ""
+    },
+    "waxskink": {
+        "name": "WaxSkink",
+        "fullName": "WaxSkink",
+        "desc": ""
+    },
+    "setsnail": {
+        "name": "Set Snail",
+        "fullName": "Set Snail",
+        "desc": ""
+    },
+    "hipsterwhale": {
+        "name": "Hipster Whale",
+        "fullName": "Hipster Whale",
+        "desc": ""
+    },
+    "playemio": {
+        "name": "Playem.io",
+        "fullName": "Playem.io",
+        "desc": "Playem.io is the developer of multiple .io games such as Swordz.io, Fightz.io and GunWars.io."
+    },
+    "davidtschacher": {
+        "name": "David Tschacher",
+        "fullName": "David Tschacher",
+        "desc": ""
+    },
+    "colonistteam": {
+        "name": "Colonist Team",
+        "fullName": "Colonist Team",
+        "desc": ""
+    },
+    "skribblteam": {
+        "name": "Skribbl Team",
+        "fullName": "Skribbl Team",
+        "desc": ""
+    },
+    "kongregate": {
+        "name": "Kongregate",
+        "fullName": "Kongregate",
+        "desc": ""
+    },
+    "ouwi!": {
+        "name": "Ouwi!",
+        "fullName": "Ouwi!",
+        "desc": ""
+    },
+    "baphq": {
+        "name": "BAP HQ",
+        "fullName": "BAP HQ",
+        "desc": ""
+    },
+    "mcarth": {
+        "name": "MCArth",
+        "fullName": "MCArth",
+        "desc": ""
+    },
+    "lowtechstudios": {
+        "name": "Lowtech Studios",
+        "fullName": "Lowtech Studios",
+        "desc": ""
+    },
+    "galalab": {
+        "name": "Gala Lab",
+        "fullName": "Gala Lab",
+        "desc": ""
+    },
+    "osk": {
+        "name": "osk",
+        "fullName": "osk",
+        "desc": ""
+    },
+    "scopely": {
+        "name": "Scopely",
+        "fullName": "Scopely",
+        "desc": ""
+    },
+    "pokibv.": {
+        "name": "Poki B.V.",
+        "fullName": "Poki B.V.",
+        "desc": ""
+    },
+    "crazygames": {
+        "name": "CrazyGames",
+        "fullName": "CrazyGames",
+        "desc": ""
+    },
+    "y8com": {
+        "name": "Y8.com",
+        "fullName": "Y8.com",
+        "desc": ""
+    },
+    "frivcom": {
+        "name": "FRIV.com",
+        "fullName": "FRIV.com",
+        "desc": ""
+    },
+    "coolmathgames": {
+        "name": "Coolmath Games",
+        "fullName": "Coolmath Games",
+        "desc": ""
+    },
+    "laggedcom": {
+        "name": "Lagged.com",
+        "fullName": "Lagged.com",
+        "desc": ""
+    },
+    "kogama": {
+        "name": "KoGaMa",
+        "fullName": "KoGaMa",
+        "desc": ""
+    },
+    "hiberworld": {
+        "name": "HiberWorld",
+        "fullName": "HiberWorld",
+        "desc": ""
+    },
+    "nowgg": {
+        "name": "Now.gg",
+        "fullName": "Now.gg",
+        "desc": ""
+    },
+    "chesscom": {
+        "name": "Chess.com",
+        "fullName": "Chess.com",
+        "desc": ""
+    },
+    "thibaultduplessis": {
+        "name": "Thibault Duplessis",
+        "fullName": "Thibault Duplessis",
+        "desc": ""
+    },
+    "solwareltd": {
+        "name": "Solware Ltd.",
+        "fullName": "Solware Ltd.",
+        "desc": ""
+    },
+    "marekfutrega": {
+        "name": "Marek Futrega",
+        "fullName": "Marek Futrega",
+        "desc": ""
+    },
+    "jigsawplanet": {
+        "name": "Jigsaw Planet",
+        "fullName": "Jigsaw Planet",
+        "desc": ""
+    },
+    "jigidi": {
+        "name": "Jigidi",
+        "fullName": "Jigidi",
+        "desc": ""
+    },
+    "cardgamesio": {
+        "name": "CardGames.io",
+        "fullName": "CardGames.io",
+        "desc": "CardGames.io is a game site focused on classic card and board games. We hope to make best versions of the classic games you already know and love in real life. Our games are simple and easy to use. CardGames.io is developed by Red Ace Software."
+    },
+    "solitaired": {
+        "name": "Solitaired",
+        "fullName": "Solitaired",
+        "desc": "Play hundreds of solitaire games on Solitaired, including Klondike Turn 1 and Turn 3, Spider Solitaire, FreeCell, Pyramid, and Golf."
+    },
+    "solitr": {
+        "name": "Solitr",
+        "fullName": "Solitr",
+        "desc": "Solitr is the online version of the classic solitaire game. Spend hours of fun playing solitaire here to help you relax from the stress of daily life. One good thing with Solitr is that you don’t have to clear up the table afterwards! Solitr is developed by Sinopia Olive."
+    },
+    "tnkfactory": {
+        "name": "TNK Factory",
+        "fullName": "TNK Factory",
+        "desc": ""
+    },
+    "247games": {
+        "name": "247games",
+        "fullName": "247games",
+        "desc": ""
+    },
+    "electronicarts": {
+        "name": "Electronic Arts",
+        "fullName": "Electronic Arts",
+        "desc": ""
+    },
+    "arkadiumcom": {
+        "name": "Arkadium.com",
+        "fullName": "Arkadium.com",
+        "desc": ""
+    },
+    "littlebigsnake,inc": {
+        "name": "LittleBigSnake, Inc.",
+        "fullName": "LittleBigSnake, Inc.",
+        "desc": ""
+    },
+    "nerdlegame": {
+        "name": "Nerdle Game",
+        "fullName": "Nerdle Game",
+        "desc": ""
+    },
+    "merriamwebster": {
+        "name": "Merriam-Webster",
+        "fullName": "Merriam-Webster",
+        "desc": ""
+    },
+    "tetrisholding": {
+        "name": "Tetris Holding",
+        "fullName": "Tetris Holding",
+        "desc": ""
+    },
+    "wafflegamenet": {
+        "name": "WaffleGame.net",
+        "fullName": "WaffleGame.net",
+        "desc": ""
+    },
+    "nytimes": {
+        "name": "NY Times",
+        "fullName": "NY Times",
+        "desc": ""
+    },
+    "wordlegameorg": {
+        "name": "WordleGame.org",
+        "fullName": "WordleGame.org",
+        "desc": ""
+    },
+    "britannicagames": {
+        "name": "Britannica Games",
+        "fullName": "Britannica Games",
+        "desc": ""
+    },
+    "freemahjongorg": {
+        "name": "FreeMahjong.org",
+        "fullName": "FreeMahjong.org",
+        "desc": ""
+    },
+    "freespidersolitairecom": {
+        "name": "FreeSpiderSolitaire.com",
+        "fullName": "FreeSpiderSolitaire.com",
+        "desc": ""
+    },
+    "spellbeeorg": {
+        "name": "SpellBee.org",
+        "fullName": "SpellBee.org",
+        "desc": ""
+    },
+    "freefreecell-solitairecom": {
+        "name": "Free-FreeCell-Solitaire.com",
+        "fullName": "Free-FreeCell-Solitaire.com",
+        "desc": ""
+    },
+    "hasbro": {
+        "name": "Hasbro",
+        "fullName": "Hasbro",
+        "desc": ""
+    },
+    "graebor": {
+        "name": "Graebor",
+        "fullName": "Graebor",
+        "desc": ""
+    },
+    "kingcom": {
+        "name": "King.com",
+        "fullName": "King.com",
+        "desc": ""
+    },
+    "omeglecom": {
+        "name": "Omegle.com",
+        "fullName": "Omegle.com",
+        "desc": ""
+    },
+    "pokemonshowdowncom": {
+        "name": "PokemonShowdown.com",
+        "fullName": "PokemonShowdown.com",
+        "desc": ""
+    },
+    "robloxcorporation": {
+        "name": "Roblox Corporation",
+        "fullName": "Roblox Corporation",
+        "desc": ""
+    },
+    "candywriter,llc": {
+        "name": "Candywriter, LLC",
+        "fullName": "Candywriter, LLC",
+        "desc": ""
+    },
+    "robtopgames": {
+        "name": "RobTop Games",
+        "fullName": "RobTop Games",
+        "desc": ""
+    },
+    "aichattingnet": {
+        "name": "Aichatting.net",
+        "fullName": "Aichatting.net",
+        "desc": ""
+    },
+    "deepaiorg": {
+        "name": "DeepAI.org",
+        "fullName": "DeepAI.org",
+        "desc": ""
+    },
+    "characterai": {
+        "name": "Character.ai",
+        "fullName": "Character.ai",
+        "desc": ""
+    },
+    "myanimaai": {
+        "name": "Myanima.ai",
+        "fullName": "Myanima.ai",
+        "desc": ""
+    },
+    "google": {
+        "name": "Google",
+        "fullName": "Google",
+        "desc": ""
+    },
+    "huggingface": {
+        "name": "Hugging Face",
+        "fullName": "Hugging Face",
+        "desc": ""
+    },
+    "quora": {
+        "name": "Quora",
+        "fullName": "Quora",
+        "desc": ""
+    },
+    "perplexityai": {
+        "name": "Perplexity.AI",
+        "fullName": "Perplexity.AI",
+        "desc": ""
+    },
+    "youcom": {
+        "name": "You.com",
+        "fullName": "You.com",
+        "desc": ""
+    },
+    "koalash": {
+        "name": "Koala.sh",
+        "fullName": "Koala.sh",
+        "desc": ""
+    },
+    "piai": {
+        "name": "Pi.AI",
+        "fullName": "Pi.AI",
+        "desc": ""
+    },
+    "snapchat": {
+        "name": "Snapchat",
+        "fullName": "Snapchat",
+        "desc": ""
+    },
+    "luka,inc": {
+        "name": "Luka, Inc",
+        "fullName": "Luka, Inc",
+        "desc": ""
+    },
+    "personalai": {
+        "name": "Personal.ai",
+        "fullName": "Personal.ai",
+        "desc": ""
+    },
+    "totaljerkface": {
+        "name": "Total Jerkface",
+        "fullName": "Total Jerkface",
+        "desc": ""
+    },
+    "itchio": {
+        "name": "Itch.io",
+        "fullName": "Itch.io",
+        "desc": ""
+    },
+    "gamejolt": {
+        "name": "Game Jolt",
+        "fullName": "Game Jolt",
+        "desc": ""
+    },
+    "9animetvto": {
+        "name": "9AnimeTV.to",
+        "fullName": "9AnimeTV.to",
+        "desc": ""
+    },
+    "kissanimecom.ru": {
+        "name": "KissAnime.com.ru",
+        "fullName": "KissAnime.com.ru",
+        "desc": ""
+    },
+    "animeplanet": {
+        "name": "Anime-Planet",
+        "fullName": "Anime-Planet",
+        "desc": ""
+    },
+    "crunchyroll": {
+        "name": "Crunchyroll",
+        "fullName": "Crunchyroll",
+        "desc": ""
+    },
+    "myanimelist": {
+        "name": "MyAnimeList",
+        "fullName": "MyAnimeList",
+        "desc": ""
+    },
+    "funimation": {
+        "name": "Funimation",
+        "fullName": "Funimation",
+        "desc": ""
+    },
+    "animeflvnet": {
+        "name": "AnimeFLV.net",
+        "fullName": "AnimeFLV.net",
+        "desc": ""
+    },
+    "gogoanime": {
+        "name": "Gogoanime",
+        "fullName": "Gogoanime",
+        "desc": ""
+    },
+    "dinorunnercom": {
+        "name": "DinoRunner.com",
+        "fullName": "DinoRunner.com",
+        "desc": ""
+    },
+    "slopegameio": {
+        "name": "SlopeGame.io",
+        "fullName": "SlopeGame.io",
+        "desc": ""
+    },
+    "silvergamescom": {
+        "name": "SilverGames.com",
+        "fullName": "SilverGames.com",
+        "desc": ""
+    },
+    "kbhgamescom": {
+        "name": "KBHGames.com",
+        "fullName": "KBHGames.com",
+        "desc": ""
+    },
+    "elokence": {
+        "name": "Elokence",
+        "fullName": "Elokence",
+        "desc": ""
+    },
+    "atarisa": {
+        "name": "Atari SA",
+        "fullName": "Atari SA",
+        "desc": ""
+    },
+    "fnfgocom": {
+        "name": "FNFGo.com",
+        "fullName": "FNFGo.com",
+        "desc": ""
+    },
+    "gamaversecom": {
+        "name": "Gamaverse.com",
+        "fullName": "Gamaverse.com",
+        "desc": ""
+    },
+    "snokidocom": {
+        "name": "Snokido.com",
+        "fullName": "Snokido.com",
+        "desc": ""
+    },
+    "gamesunblockedd": {
+        "name": "Games Unblockedd",
+        "fullName": "Games Unblockedd",
+        "desc": ""
+    },
+    "classroom6x": {
+        "name": "Classroom6x",
+        "fullName": "Classroom6x",
+        "desc": ""
+    },
+    "armorgamescom": {
+        "name": "ArmorGames.com",
+        "fullName": "ArmorGames.com",
+        "desc": ""
+    },
+    "ometv": {
+        "name": "Ome.TV",
+        "fullName": "Ome.TV",
+        "desc": ""
+    },
+    "chatblinkcom": {
+        "name": "ChatBlink.com",
+        "fullName": "ChatBlink.com",
+        "desc": ""
+    },
+    "chatrandom": {
+        "name": "Chatrandom",
+        "fullName": "Chatrandom",
+        "desc": ""
+    },
+    "emeraldchatcom": {
+        "name": "EmeraldChat.com",
+        "fullName": "EmeraldChat.com",
+        "desc": ""
+    },
+    "strangermeetupcom": {
+        "name": "StrangerMeetup.com",
+        "fullName": "StrangerMeetup.com",
+        "desc": ""
+    },
+    "coomeetcom": {
+        "name": "CooMeet.com",
+        "fullName": "CooMeet.com",
+        "desc": ""
+    },
+    "chathubcam": {
+        "name": "ChatHub.cam",
+        "fullName": "ChatHub.cam",
+        "desc": ""
+    },
+    "flingstercom": {
+        "name": "Flingster.com",
+        "fullName": "Flingster.com",
+        "desc": ""
+    },
+    "shaglecom": {
+        "name": "Shagle.com",
+        "fullName": "Shagle.com",
+        "desc": ""
+    },
+    "chatroulettecom": {
+        "name": "Chatroulette.com",
+        "fullName": "Chatroulette.com",
+        "desc": ""
+    },
+    "pornhubcom": {
+        "name": "Pornhub.com",
+        "fullName": "Pornhub.com",
+        "desc": ""
+    },
+    "xvideoscom": {
+        "name": "XVideos.com",
+        "fullName": "XVideos.com",
+        "desc": ""
+    },
+    "xnxxcom": {
+        "name": "XNXX.com",
+        "fullName": "XNXX.com",
+        "desc": ""
+    },
+    "xhamstercom": {
+        "name": "xHamster.com",
+        "fullName": "xHamster.com",
+        "desc": ""
+    },
+    "stripchatcom": {
+        "name": "Stripchat.com",
+        "fullName": "Stripchat.com",
+        "desc": ""
+    },
+    "spankbangcom": {
+        "name": "SpankBang.com",
+        "fullName": "SpankBang.com",
+        "desc": ""
+    },
+    "chaturbatecom": {
+        "name": "Chaturbate.com",
+        "fullName": "Chaturbate.com",
+        "desc": ""
+    },
+    "epornercom": {
+        "name": "EPorner.com",
+        "fullName": "EPorner.com",
+        "desc": ""
+    },
+    "hqpornercom": {
+        "name": "HQPorner.com",
+        "fullName": "HQPorner.com",
+        "desc": ""
+    },
+    "livejasmincom": {
+        "name": "LiveJasmin.com",
+        "fullName": "LiveJasmin.com",
+        "desc": ""
+    },
+    "xhamsterlivecom": {
+        "name": "xHamsterLive.com",
+        "fullName": "xHamsterLive.com",
+        "desc": ""
+    },
+    "missavcom": {
+        "name": "MissAV.com",
+        "fullName": "MissAV.com",
+        "desc": ""
+    },
+    "youporncom": {
+        "name": "YouPorn.com",
+        "fullName": "YouPorn.com",
+        "desc": ""
+    },
+    "faphousecom": {
+        "name": "FapHouse.com",
+        "fullName": "FapHouse.com",
+        "desc": ""
+    },
+    "redtubecom": {
+        "name": "RedTube.com",
+        "fullName": "RedTube.com",
+        "desc": ""
+    },
+    "theporndudecom": {
+        "name": "ThePornDude.com",
+        "fullName": "ThePornDude.com",
+        "desc": ""
+    },
+    "metaplatforms": {
+        "name": "Meta Platforms",
+        "fullName": "Meta Platforms",
+        "desc": ""
+    },
+    "bytedance": {
+        "name": "ByteDance",
+        "fullName": "ByteDance",
+        "desc": ""
+    },
+    "twitter": {
+        "name": "Twitter",
+        "fullName": "Twitter",
+        "desc": ""
+    },
+    "discord": {
+        "name": "Discord",
+        "fullName": "Discord",
+        "desc": ""
+    },
+    "reddit": {
+        "name": "Reddit",
+        "fullName": "Reddit",
+        "desc": ""
+    },
+    "canvainc": {
+        "name": "Canva Inc.",
+        "fullName": "Canva Inc.",
+        "desc": ""
+    },
+    "figma,inc": {
+        "name": "Figma, Inc.",
+        "fullName": "Figma, Inc.",
+        "desc": ""
+    },
+    "wikipedia": {
+        "name": "Wikipedia",
+        "fullName": "Wikipedia",
+        "desc": ""
+    },
+    "yahoo": {
+        "name": "Yahoo",
+        "fullName": "Yahoo",
+        "desc": ""
+    },
+    "traviangames": {
+        "name": "traviangames",
+        "fullName": "traviangames",
+        "desc": ""
+    },
+    "bigpoint": {
+        "name": "Bigpoint",
+        "fullName": "Bigpoint",
+        "desc": ""
+    },
+    "agamecom": {
+        "name": "Agame.com",
+        "fullName": "Agame.com",
+        "desc": ""
+    },
+    "ufreegamescom": {
+        "name": "UFreeGames.com",
+        "fullName": "UFreeGames.com",
+        "desc": ""
+    },
+    "kizicom": {
+        "name": "Kizi.com",
+        "fullName": "Kizi.com",
+        "desc": ""
+    },
+    "gameforge": {
+        "name": "Game Forge",
+        "fullName": "Game Forge",
+        "desc": ""
+    },
+    "topgamescom": {
+        "name": "TopGames.com",
+        "fullName": "TopGames.com",
+        "desc": ""
+    },
+    "minijuegoscom": {
+        "name": "MiniJuegos.com",
+        "fullName": "MiniJuegos.com",
+        "desc": ""
+    },
+    "spilgames": {
+        "name": "SpilGames",
+        "fullName": "SpilGames",
+        "desc": ""
+    },
+    "devsisters": {
+        "name": "Devsisters",
+        "fullName": "Devsisters",
+        "desc": ""
+    },
+    "nintendo": {
+        "name": "Nintendo",
+        "fullName": "Nintendo",
+        "desc": ""
+    },
+    "mobgames": {
+        "name": "MOB Games",
+        "fullName": "MOB Games",
+        "desc": ""
+    },
+    "scottcawthon": {
+        "name": "Scott Cawthon",
+        "fullName": "Scott Cawthon",
+        "desc": ""
+    },
+    "popcapgames": {
+        "name": "PopCap Games",
+        "fullName": "PopCap Games",
+        "desc": ""
+    },
+    "gemgamerstudios": {
+        "name": "GemGamer Studios",
+        "fullName": "GemGamer Studios",
+        "desc": ""
+    },
+    "twoplayergamesorg": {
+        "name": "TwoPlayerGames.org",
+        "fullName": "TwoPlayerGames.org",
+        "desc": ""
+    },
+    "vseigrunet": {
+        "name": "Vseigru.net",
+        "fullName": "Vseigru.net",
+        "desc": ""
+    },
+    "yivcom": {
+        "name": "Yiv.com",
+        "fullName": "Yiv.com",
+        "desc": ""
+    },
+    "9gagcom": {
+        "name": "9GAG.com",
+        "fullName": "9GAG.com",
+        "desc": ""
+    },
+    "imagineai": {
+        "name": "Imagine.AI",
+        "fullName": "Imagine.AI",
+        "desc": ""
+    },
+    "gencraftcom": {
+        "name": "Gencraft.com",
+        "fullName": "Gencraft.com",
+        "desc": ""
+    },
+    "nightcafe": {
+        "name": "NightCafe",
+        "fullName": "NightCafe",
+        "desc": ""
+    },
+    "midjourneycom": {
+        "name": "Midjourney.com",
+        "fullName": "Midjourney.com",
+        "desc": ""
+    },
+    "openartai": {
+        "name": "OpenArt.AI",
+        "fullName": "OpenArt.AI",
+        "desc": ""
+    },
+    "craiyoncom": {
+        "name": "Craiyon.com",
+        "fullName": "Craiyon.com",
+        "desc": ""
+    },
+    "img2go": {
+        "name": "IMG2GO",
+        "fullName": "IMG2GO",
+        "desc": ""
+    },
+    "fotor": {
+        "name": "Fotor",
+        "fullName": "Fotor",
+        "desc": ""
+    },
+    "picsart": {
+        "name": "Picsart",
+        "fullName": "Picsart",
+        "desc": ""
+    },
+    "ilovepdf": {
+        "name": "iLovePDF",
+        "fullName": "iLovePDF",
+        "desc": ""
+    },
+    "iloveimg": {
+        "name": "iLoveIMG",
+        "fullName": "iLoveIMG",
+        "desc": ""
+    },
+    "jenniai": {
+        "name": "Jenni.AI",
+        "fullName": "Jenni.AI",
+        "desc": ""
+    },
+    "namelixcom": {
+        "name": "Namelix.com",
+        "fullName": "Namelix.com",
+        "desc": ""
+    },
+    "chatpdf": {
+        "name": "ChatPDF",
+        "fullName": "ChatPDF",
+        "desc": ""
+    },
+    "pocketpair": {
+        "name": "Pocket Pair",
+        "fullName": "Pocket Pair",
+        "desc": ""
+    },
+    "pelicanpartystudios": {
+        "name": "Pelican Party Studios",
+        "fullName": "Pelican Party Studios",
+        "desc": ""
+    },
+    "florianvanstrien": {
+        "name": "Florian van Strien",
+        "fullName": "Florian van Strien",
+        "desc": ""
+    },
+    "freakxapps": {
+        "name": "Freak X Apps",
+        "fullName": "Freak X Apps",
+        "desc": ""
+    },
+    "nightsteedgames": {
+        "name": "Night Steed Games",
+        "fullName": "Night Steed Games",
+        "desc": ""
+    },
+    "bluewizarddigital": {
+        "name": "Blue Wizard Digital",
+        "fullName": "Blue Wizard Digital",
+        "desc": ""
+    },
+    "mintahgamesinc": {
+        "name": "Mintah Games Inc.",
+        "fullName": "Mintah Games Inc.",
+        "desc": ""
+    },
+    "thearticle19group": {
+        "name": "The Article 19 Group",
+        "fullName": "The Article 19 Group",
+        "desc": ""
+    },
+    "leek&ribsgames": {
+        "name": "Leek & Ribs Games",
+        "fullName": "Leek & Ribs Games",
+        "desc": ""
+    },
+    "eccentricstudiogames": {
+        "name": "Eccentric Studio Games",
+        "fullName": "Eccentric Studio Games",
+        "desc": ""
+    },
+    "krakeninkstudio": {
+        "name": "Kraken Ink Studio",
+        "fullName": "Kraken Ink Studio",
+        "desc": ""
+    },
+    "smartravenstudio": {
+        "name": "Smart Raven Studio",
+        "fullName": "Smart Raven Studio",
+        "desc": ""
+    },
+    "supertrashbros": {
+        "name": "Super Trash Bros",
+        "fullName": "Super Trash Bros",
+        "desc": ""
+    },
+    "wavingwalrusgames": {
+        "name": "Waving Walrus Games",
+        "fullName": "Waving Walrus Games",
+        "desc": ""
+    },
+    "mightybeargames": {
+        "name": "Mighty Bear Games",
+        "fullName": "Mighty Bear Games",
+        "desc": ""
+    },
+    "standbygames": {
+        "name": "Stand By Games",
+        "fullName": "Stand By Games",
+        "desc": ""
+    },
+    "8greatgames,llc": {
+        "name": "8Great Games, LLC",
+        "fullName": "8Great Games, LLC",
+        "desc": ""
+    },
+    "izyplaygamestudio": {
+        "name": "Izyplay Game Studio",
+        "fullName": "Izyplay Game Studio",
+        "desc": ""
+    },
+    "tearforgestudios": {
+        "name": "Tearforge Studios ",
+        "fullName": "Tearforge Studios ",
+        "desc": ""
+    },
+    "colorlesswingstudio": {
+        "name": "Colorless Wing Studio",
+        "fullName": "Colorless Wing Studio",
+        "desc": ""
+    },
+    "teamwoodgames": {
+        "name": "Team Wood Games",
+        "fullName": "Team Wood Games",
+        "desc": ""
+    },
+    "theoakteam": {
+        "name": "The Oak Team",
+        "fullName": "The Oak Team",
+        "desc": ""
+    },
+    "mooneepublishingltd": {
+        "name": "MOONEE PUBLISHING LTD",
+        "fullName": "MOONEE PUBLISHING LTD",
+        "desc": ""
+    },
+    "themoneysuitcase": {
+        "name": "The Money Suitcase",
+        "fullName": "The Money Suitcase",
+        "desc": ""
+    },
+    "rainbowgamesllc": {
+        "name": "Rainbow Games LLc",
+        "fullName": "Rainbow Games LLc",
+        "desc": ""
+    },
+    "pandapashagames": {
+        "name": "Panda Pasha Games",
+        "fullName": "Panda Pasha Games",
+        "desc": ""
+    },
+    "craftgameworld": {
+        "name": "Craft Game World",
+        "fullName": "Craft Game World",
+        "desc": ""
+    },
+    "biggiantgames": {
+        "name": "Big Giant Games",
+        "fullName": "Big Giant Games",
+        "desc": ""
+    },
+    "hypegamellc": {
+        "name": "Hype Game LLC",
+        "fullName": "Hype Game LLC",
+        "desc": ""
+    },
+    "superchargemobilecorp": {
+        "name": "Supercharge Mobile Corp.",
+        "fullName": "Supercharge Mobile Corp.",
+        "desc": ""
+    },
+    "pandoragamestudio": {
+        "name": "Pandora Game Studio",
+        "fullName": "Pandora Game Studio",
+        "desc": ""
+    },
+    "radiantgamesllc": {
+        "name": "Radiant Games LLC",
+        "fullName": "Radiant Games LLC",
+        "desc": ""
+    },
+    "karatefoxstudios": {
+        "name": "Karate Fox Studios",
+        "fullName": "Karate Fox Studios",
+        "desc": ""
+    },
+    "claritygamedev": {
+        "name": "Clarity Game Dev",
+        "fullName": "Clarity Game Dev",
+        "desc": ""
+    },
+    "instantgamesstudio": {
+        "name": "Instant Games Studio",
+        "fullName": "Instant Games Studio",
+        "desc": ""
+    },
+    "jdsoftwarellc": {
+        "name": "JD Software LLC",
+        "fullName": "JD Software LLC",
+        "desc": ""
+    },
+    "clapclapgames": {
+        "name": "Clap Clap Games",
+        "fullName": "Clap Clap Games",
+        "desc": ""
+    },
+    "wanted5games": {
+        "name": "Wanted 5 Games",
+        "fullName": "Wanted 5 Games",
+        "desc": ""
+    },
+    "nextdoorgamedev": {
+        "name": "Next Door Gamedev",
+        "fullName": "Next Door Gamedev",
+        "desc": ""
+    },
+    "shinyduststudios": {
+        "name": "Shiny Dust Studios",
+        "fullName": "Shiny Dust Studios",
+        "desc": ""
+    },
+    "jorendebraeckeleer": {
+        "name": "Joren De Braeckeleer",
+        "fullName": "Joren De Braeckeleer",
+        "desc": ""
+    },
+    "minhtriềuđoàn": {
+        "name": "Minh Triều Đoàn",
+        "fullName": "Minh Triều Đoàn",
+        "desc": ""
+    },
+    "vonlehecreative": {
+        "name": "von Lehe Creative",
+        "fullName": "von Lehe Creative",
+        "desc": ""
+    },
+    "fohazeandpatrom": {
+        "name": "Fohaze and Patrom",
+        "fullName": "Fohaze and Patrom",
+        "desc": ""
+    },
+    "claudiuv": {
+        "name": " Claudiu V.",
+        "fullName": " Claudiu V.",
+        "desc": ""
+    },
+    "anamariadumitriu": {
+        "name": "Ana Maria Dumitriu",
+        "fullName": "Ana Maria Dumitriu",
+        "desc": ""
+    },
+    "seriouspeoplegames": {
+        "name": "Serious People Games",
+        "fullName": "Serious People Games",
+        "desc": ""
+    },
+    "forge&fortune": {
+        "name": "Forge & Fortune",
+        "fullName": "Forge & Fortune",
+        "desc": ""
+    },
+    "kellyrayj": {
+        "name": "Kelly Ray J",
+        "fullName": "Kelly Ray J",
+        "desc": ""
+    },
+    "sleepinggiantgames": {
+        "name": "Sleeping Giant Games",
+        "fullName": "Sleeping Giant Games",
+        "desc": ""
+    },
+    "buffergamestudios": {
+        "name": "Buffer GAME Studios",
+        "fullName": "Buffer GAME Studios",
+        "desc": ""
+    },
+    "fishpondstudio": {
+        "name": "Fish Pond Studio",
+        "fullName": "Fish Pond Studio",
+        "desc": ""
+    },
+    "maxbizegames": {
+        "name": "Max Bize Games",
+        "fullName": "Max Bize Games",
+        "desc": ""
+    },
+    "lizardbraingames": {
+        "name": "Lizard Brain Games",
+        "fullName": "Lizard Brain Games",
+        "desc": ""
+    },
+    "clevercoyotestudio": {
+        "name": "Clever Coyote Studio",
+        "fullName": "Clever Coyote Studio",
+        "desc": ""
+    },
+    "sennedeboeck": {
+        "name": "Senne De Boeck",
+        "fullName": "Senne De Boeck",
+        "desc": ""
+    },
+    "gachagameskamilkowalewski": {
+        "name": "Gacha Games Kamil Kowalewski",
+        "fullName": "Gacha Games Kamil Kowalewski",
+        "desc": ""
+    },
+    "idlesystemstudio": {
+        "name": "Idle System Studio",
+        "fullName": "Idle System Studio",
+        "desc": ""
+    },
+    "riverforgegames": {
+        "name": "River Forge Games",
+        "fullName": "River Forge Games",
+        "desc": ""
+    },
+    "fourorbstudios": {
+        "name": "Four Orb Studios",
+        "fullName": "Four Orb Studios",
+        "desc": ""
+    },
+    "estebonhamon": {
+        "name": "Estebon Ham On",
+        "fullName": "Estebon Ham On",
+        "desc": ""
+    },
+    "yellowpandagames": {
+        "name": "Yellow Panda Games",
+        "fullName": "Yellow Panda Games",
+        "desc": ""
+    },
+    "monsterriseinc": {
+        "name": "Monster Rise Inc.",
+        "fullName": "Monster Rise Inc.",
+        "desc": ""
+    },
+    "radoiteodorandmentolatux": {
+        "name": "Radoi Teodor and Mentolatux",
+        "fullName": "Radoi Teodor and Mentolatux",
+        "desc": ""
+    },
+    "flytrollstudio": {
+        "name": "Fly Troll Studio",
+        "fullName": "Fly Troll Studio",
+        "desc": ""
+    },
+    "onurcannisanci": {
+        "name": "Onur Can Nisanci",
+        "fullName": "Onur Can Nisanci",
+        "desc": ""
+    },
+    "canvasinkgames": {
+        "name": "Canvas Ink. Games",
+        "fullName": "Canvas Ink. Games",
+        "desc": ""
+    },
+    "renatogomesmarcacini": {
+        "name": "Renato Gomes Marcacini",
+        "fullName": "Renato Gomes Marcacini",
+        "desc": ""
+    },
+    "thesheepsmeow": {
+        "name": "The Sheep's Meow",
+        "fullName": "The Sheep's Meow",
+        "desc": ""
+    },
+    "originalmastergames": {
+        "name": "Original Master Games",
+        "fullName": "Original Master Games",
+        "desc": ""
+    },
+    "madjackalgames": {
+        "name": "Mad Jackal Games",
+        "fullName": "Mad Jackal Games",
+        "desc": ""
+    },
+    "tastycherrystudiogames": {
+        "name": "Tasty Cherry Studio Games",
+        "fullName": "Tasty Cherry Studio Games",
+        "desc": ""
+    },
+    "unicogamestudio": {
+        "name": "Unico Game Studio",
+        "fullName": "Unico Game Studio",
+        "desc": ""
+    },
+    "yashbsolutionsllc": {
+        "name": "Yashb Solutions LLC",
+        "fullName": "Yashb Solutions LLC",
+        "desc": ""
+    },
+    "nightowlgamingllc": {
+        "name": "Night Owl Gaming LLC",
+        "fullName": "Night Owl Gaming LLC",
+        "desc": ""
+    },
+    "joansolroo": {
+        "name": "Joan Sol Roo",
+        "fullName": "Joan Sol Roo",
+        "desc": ""
+    },
+    "mnogoappsltd": {
+        "name": "MNO GO APPS LTD",
+        "fullName": "MNO GO APPS LTD",
+        "desc": ""
+    },
+    "diadas&fennrix": {
+        "name": "Diadas & Fennrix",
+        "fullName": "Diadas & Fennrix",
+        "desc": ""
+    },
+    "smashmountainstudio": {
+        "name": "Smash Mountain Studio",
+        "fullName": "Smash Mountain Studio",
+        "desc": ""
+    },
+    "decisiveactiongames": {
+        "name": "Decisive Action Games",
+        "fullName": "Decisive Action Games",
+        "desc": ""
+    },
+    "macte!labsinc": {
+        "name": "Macte! Labs Inc.",
+        "fullName": "Macte! Labs Inc.",
+        "desc": ""
+    },
+    "toysoldierstudios": {
+        "name": "Toy Soldier Studios",
+        "fullName": "Toy Soldier Studios",
+        "desc": ""
+    },
+    "gamedesigneronline": {
+        "name": "Game Designer Online",
+        "fullName": "Game Designer Online",
+        "desc": ""
+    },
+    "halfmoonstudios": {
+        "name": "Half Moon Studios",
+        "fullName": "Half Moon Studios",
+        "desc": ""
+    },
+    "modstudioinc": {
+        "name": "Mod Studio Inc",
+        "fullName": "Mod Studio Inc",
+        "desc": ""
+    },
+    "tukitukigames": {
+        "name": "Tuki Tuki Games",
+        "fullName": "Tuki Tuki Games",
+        "desc": ""
+    },
+    "jamierowanxrowanfuture": {
+        "name": "JamieRowan x RowanFuture",
+        "fullName": "JamieRowan x RowanFuture",
+        "desc": ""
+    },
+    "colinlanegamesab": {
+        "name": "Colin Lane Games AB",
+        "fullName": "Colin Lane Games AB",
+        "desc": ""
+    },
+    "ptnewgamesplus": {
+        "name": "PT New Games Plus",
+        "fullName": "PT New Games Plus",
+        "desc": ""
+    },
+    "guangzhouqifannetwork": {
+        "name": "Guangzhou Qifan Network",
+        "fullName": "Guangzhou Qifan Network",
+        "desc": ""
+    },
+    "shareddreamsstudio": {
+        "name": "Shared Dreams Studio",
+        "fullName": "Shared Dreams Studio",
+        "desc": ""
+    },
+    "nopressurestudios": {
+        "name": "No Pressure Studios",
+        "fullName": "No Pressure Studios",
+        "desc": ""
+    },
+    "tomsennettgames": {
+        "name": "Tom Sennett Games",
+        "fullName": "Tom Sennett Games",
+        "desc": ""
+    },
+    "sealunicorngames": {
+        "name": "Seal Unicorn Games",
+        "fullName": "Seal Unicorn Games",
+        "desc": ""
+    },
+    "newstargames": {
+        "name": "New Star Games",
+        "fullName": "New Star Games",
+        "desc": ""
+    },
+    "fullhpltd": {
+        "name": "Full Hp Ltd",
+        "fullName": "Full Hp Ltd",
+        "desc": ""
+    },
+    "deercatgames": {
+        "name": "Deer Cat Games",
+        "fullName": "Deer Cat Games",
+        "desc": ""
+    },
+    "laxvikinggames": {
+        "name": "Lax Viking Games",
+        "fullName": "Lax Viking Games",
+        "desc": ""
+    },
+    "xansrtechnologiesllp": {
+        "name": "Xansr Technologies LLP",
+        "fullName": "Xansr Technologies LLP",
+        "desc": ""
+    },
+    "thomaskyoung": {
+        "name": "Thomas K. Young",
+        "fullName": "Thomas K. Young",
+        "desc": ""
+    },
+    "dedragames×federico": {
+        "name": "Dedra Games × Federico",
+        "fullName": "Dedra Games × Federico",
+        "desc": ""
+    },
+    "dedragames×venturous": {
+        "name": "Dedra Games × Venturous",
+        "fullName": "Dedra Games × Venturous",
+        "desc": ""
+    },
+    "blumgi×venturous×gesinimo": {
+        "name": "Blumgi × Venturous × Gesinimo",
+        "fullName": "Blumgi × Venturous × Gesinimo",
+        "desc": ""
+    },
+    "makeitmeme": {
+        "name": "Make It Meme",
+        "fullName": "Make It Meme",
+        "desc": ""
+    },
+    "gopandagamesstudio": {
+        "name": "Go Panda Games Studio",
+        "fullName": "Go Panda Games Studio",
+        "desc": ""
+    },
+    "saltpastelstudio": {
+        "name": "Salt Pastel Studio",
+        "fullName": "Salt Pastel Studio",
+        "desc": ""
+    },
+    "ipeliseenkomaksimandreevich": {
+        "name": "IP Eliseenko Maksim Andreevich",
+        "fullName": "IP Eliseenko Maksim Andreevich",
+        "desc": ""
+    },
+    "mhpindielabs": {
+        "name": "MHP indie labs",
+        "fullName": "MHP indie labs",
+        "desc": ""
+    },
+    "zondacreativestudio": {
+        "name": "Zonda Creative Studio",
+        "fullName": "Zonda Creative Studio",
+        "desc": ""
+    },
+    "spidersolitairegame": {
+        "name": "Spider Solitaire Game",
+        "fullName": "Spider Solitaire Game",
+        "desc": ""
+    },
+    "alex,jacq&koen": {
+        "name": "Alex, Jacq & Koen",
+        "fullName": "Alex, Jacq & Koen",
+        "desc": ""
+    },
+    "fromthebench": {
+        "name": "From the Bench",
+        "fullName": "From the Bench",
+        "desc": ""
+    },
+    "lightwolfstudios": {
+        "name": "Light Wolf Studios",
+        "fullName": "Light Wolf Studios",
+        "desc": ""
+    },
+    "workingtitlestudios": {
+        "name": "Working Title Studios",
+        "fullName": "Working Title Studios",
+        "desc": ""
+    },
+    "zeroflaggames": {
+        "name": "Zero Flag Games",
+        "fullName": "Zero Flag Games",
+        "desc": ""
+    },
+    "dreamonstudiosab": {
+        "name": "Dreamon Studios AB",
+        "fullName": "Dreamon Studios AB",
+        "desc": ""
+    },
+    "motionvoltgamesltd": {
+        "name": "MotionVolt Games Ltd",
+        "fullName": "MotionVolt Games Ltd",
+        "desc": ""
+    },
+    "asmallgame": {
+        "name": "A Small Game",
+        "fullName": "A Small Game",
+        "desc": ""
+    },
+    "paranoidglitchgames": {
+        "name": "Paranoid Glitch Games",
+        "fullName": "Paranoid Glitch Games",
+        "desc": ""
+    },
+    "titangamesstudio": {
+        "name": "Titan Games Studio",
+        "fullName": "Titan Games Studio",
+        "desc": ""
+    },
+    "bigfrostgames": {
+        "name": "Big Frost Games",
+        "fullName": "Big Frost Games",
+        "desc": ""
+    },
+    "michalwalaszczyk&boilea": {
+        "name": "Michal Walaszczyk & BoIlea",
+        "fullName": "Michal Walaszczyk & BoIlea",
+        "desc": ""
+    },
+    "ooofriveiinteraktiv": {
+        "name": "OOO Frivei Interaktiv",
+        "fullName": "OOO Frivei Interaktiv",
+        "desc": ""
+    },
+    "luckykatstudios": {
+        "name": "Lucky Kat Studios",
+        "fullName": "Lucky Kat Studios",
+        "desc": ""
+    },
+    "capeofgoodgames": {
+        "name": "Cape of Good Games",
+        "fullName": "Cape of Good Games",
+        "desc": ""
+    },
+    "davidmarquardtab": {
+        "name": "David Marquardt AB",
+        "fullName": "David Marquardt AB",
+        "desc": ""
+    },
+    "coolbearsgamestudio": {
+        "name": "Cool Bears Game Studio",
+        "fullName": "Cool Bears Game Studio",
+        "desc": ""
+    },
+    "dampgnatgames": {
+        "name": "Damp Gnat Games",
+        "fullName": "Damp Gnat Games",
+        "desc": ""
+    },
+    "onrizonsocialgames": {
+        "name": "Onrizon Social Games",
+        "fullName": "Onrizon Social Games",
+        "desc": ""
+    },
+    "bigbossdolphin": {
+        "name": "BIG BOSS DOLPHIN",
+        "fullName": "BIG BOSS DOLPHIN",
+        "desc": ""
+    },
+    "boardgamearena": {
+        "name": "Board Game Arena",
+        "fullName": "Board Game Arena",
+        "desc": ""
+    },
+    "bridgebaseonline": {
+        "name": "Bridge Base Online",
+        "fullName": "Bridge Base Online",
+        "desc": ""
+    },
+    "gideongreenspan,rachellee": {
+        "name": "Gideon Greenspan, Rachel Lee",
+        "fullName": "Gideon Greenspan, Rachel Lee",
+        "desc": ""
+    },
+    "thejigsawpuzzles": {
+        "name": "The Jigsaw Puzzles",
+        "fullName": "The Jigsaw Puzzles",
+        "desc": ""
+    },
+    "carolinaroadsoftware": {
+        "name": "Carolina Road Software",
+        "fullName": "Carolina Road Software",
+        "desc": ""
+    },
+    "mitmedialab": {
+        "name": "MIT Media Lab",
+        "fullName": "MIT Media Lab",
+        "desc": ""
+    },
+    "notionlabs,inc": {
+        "name": "Notion Labs, Inc.",
+        "fullName": "Notion Labs, Inc.",
+        "desc": ""
+    },
+    "vizorappsltd": {
+        "name": "Vizor Apps Ltd.",
+        "fullName": "Vizor Apps Ltd.",
+        "desc": ""
+    }
+}
