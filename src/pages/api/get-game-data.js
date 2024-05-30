@@ -3,7 +3,6 @@ const fs = require('fs');
 export default function handler(req, res) {
   fs.readFile("gameData.txt", "utf8", (err, data) => {
     if (err) {
-      console.error("Error reading file:", err);
       res.status(500).json({ error: "Internal Server Error" });
       return;
     }
@@ -11,7 +10,6 @@ export default function handler(req, res) {
       const gameData = JSON.parse(data || "{}");
       res.status(200).json(gameData);
     } catch (error) {
-      console.error("Error parsing JSON:", error);
       res.status(500).json({ error: "Internal Server Error" });
     }
   });

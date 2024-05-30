@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React, { useState, useEffect } from 'react';
 
 const Header = ({ tagData, gameData, devData }) => {
@@ -71,7 +72,7 @@ const Header = ({ tagData, gameData, devData }) => {
   return (
     <div
       style={{
-        position: 'fixed',
+        // position: 'fixed',
         width: '100%',
         height: '60px',
         backgroundColor: '#1E1F22',
@@ -119,7 +120,7 @@ const Header = ({ tagData, gameData, devData }) => {
           style={{
             zIndex: 20,
             display: 'block',
-            position: 'fixed',
+            // position: 'fixed',
             top: '55px',
             left: 'calc(50% - 150px)',
             fontSize: '13px',
@@ -137,10 +138,10 @@ const Header = ({ tagData, gameData, devData }) => {
                   style={{ lineHeight: '34px', cursor: 'pointer' }}
                   onClick={() => handleResultClick(`/app/${result.id}`)}
                 >
-                  <img
-                    src={`/img/${result.id}.png`}
-                    width="30px"
-                    height="30px"
+                  <Image
+                    src={`https://playem.io/img/${result.id}.png`}
+                    width={30}
+                    height={30}
                     style={{ borderRadius: '8px', paddingTop: '2px' }}
                     alt={gameData[result.id].name}
                   />

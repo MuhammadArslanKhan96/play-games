@@ -1,40 +1,47 @@
+import { useContext } from "@/pages/_app";
+import { openGame, resizeCanvas } from "@/utils";
 import Head from "next/head";
-import { updateGameList } from "@/utils";
+import Image from "next/image";
 import { useEffect, useState } from "react";
+import GameList from "./GameList";
+import LastPlayedList from "./LastPlayedList";
 
-const AppPage = ({ gameData, tagData, devData, params }) => {
-  const [loading, setLoading] = useState(true);
-  if (!gameData[params.id]) {
-    return <div>404 - Game Not Found</div>; // Handle the case where the game is not found
-  }
+const AppPage = ({ params }) => {
+  const [loading, setLoading] = useState(false);
+  const { gameData, tagData, devData } = useContext();
 
   const game = gameData[params.id];
-  const dev = devData[game.dev];
-  const tags = game.tags.map((tagId) => tagData[tagId]);
 
   const getData = async () => {
-    const tagNames = game.tags; 
+    setLoading(true);
 
-    updateLastPlayedList();
-    tagNames.forEach(tag => {
-      updateGameList("rating", "tag", tag, `gameList-${tag}`, "short", tagData, devData, gameData);
+    window.addEventListener('resize', function () {
+      if (gameData[params.id].iframe) resizeCanvas();
     });
+    openGame(params.id, gameData);
+    loadGame(params.id);
+    if (gameData[params.id].iframe) resizeCanvas();
+    setLoading(false);
   };
 
   useEffect(() => {
-    getData();
-    setLoading(false);
-  }, [gameData, tagData, devData, tags]);
+    if (game) getData();
+  }, [game]);
+
+  if (!game) {
+    return <div>404 - Game Not Found</div>; // Handle the case where the game is not found
+  }
+
+  var loadGame = function (id) {
+    document.getElementById('gameFrame').innerHTML = '<iframe id="gameIframe" src="/play/' + id + '" style="height:100%;width:100%;border:0;"></iframe>';
+  }
+
+  const dev = devData[game.dev];
+  const tags = game.tags.map((tagId) => tagData[tagId]);
 
   return (
     <>
       <Head>
-        <meta
-          name="viewport"
-          content="width=device-width, initial-scale=1, maximum-scale=1"
-        />
-        <meta httpEquiv="Content-Type" content="text/html; charset=UTF-8" />
-        <link rel="shortcut icon" type="image/png" href="/img/favicon.png" />
 
         <title>{game.name} 🕹️ | For Free Online! 🐇</title>
         <meta
@@ -53,16 +60,6 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
         />
         <link rel="canonical" href={`https://playem.io/app/${params.id}`} />
 
-        <script async src="/script.js?v=1.18"></script>
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `
-              var gameData = ${JSON.stringify(gameData)};
-              var tagData = ${JSON.stringify(tagData)};
-              var devData = ${JSON.stringify(devData)};
-            `,
-          }}
-        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
@@ -115,8 +112,8 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
       </Head>
       <style jsx>{`
         .gameTitleDiv {
-          position: fixed;
-          top: 60px;
+          // position: fixed;
+          // top: 60px;
           width: 100%;
           height: 60px;
           background-color: #141516;
@@ -143,14 +140,6 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
           margin: 5px;
         }
       `}</style>
-      {/* <div className="gameTitleDiv">
-        <div id="gameDetails" style={{ display: 'flex', flexDirection: 'row', width: '50%', alignItems: 'center', textAlign: 'left' }}></div>
-        <div style={{ display: 'flex', flexDirection: 'row-reverse', width: '50%', alignItems: 'center' }}>
-          <div className="descriptionBubble-playButton" onClick={() => window.open(`/play/${params.id}`, '_blank')}>
-            Play Now
-          </div>
-        </div>
-      </div> */}
       <div className="gameTitleDiv">
         <div
           id="gameDetails"
@@ -168,12 +157,12 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
               marginLeft: "30px",
               cursor: "pointer",
             }}
-            onClick={() => window.open(`/play/${params.id}`, "_blank")}
+            onClick={() => window.open(`/play/${params.id}`)}
           >
-            <img
-              src={`/img/${params.id}.jpg`}
-              width="220px"
-              height="136px"
+            <Image
+              src={`https://playem.io/img/${params.id}.jpg`}
+              width={220}
+              height={136}
               style={{ borderRadius: "12px" }}
               alt="Play Now"
             />
@@ -199,8 +188,8 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
                 {gameData[params.id].plays >= 1000000
                   ? gameData[params.id].plays / 1000000 + "M Online"
                   : gameData[params.id].plays >= 1000
-                  ? gameData[params.id].plays / 1000 + "K Online"
-                  : gameData[params.id].plays + " Online"}
+                    ? gameData[params.id].plays / 1000 + "K Online"
+                    : gameData[params.id].plays + " Online"}
               </div>
             ) : (
               ""
@@ -217,17 +206,15 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
         >
           <div
             className="descriptionBubble-playButton"
-            onClick={() => window.open(`/play/${params.id}`, "_blank")}
+            onClick={() => window.open(`/play/${params.id}`)}
           >
             Play Now
           </div>
         </div>
       </div>
 
-      <div style={!loading ? {display: "none"} : {fontSize: "28px", fontWeight: "bold", display: "flex", justifyContent: "center", alignItems: "center" }}>Loading...</div>
+      <div style={!loading ? { display: "none" } : { fontSize: "28px", fontWeight: "bold", display: "flex", justifyContent: "center", alignItems: "center" }}>Loading...</div>
 
-      <header>{/* Include partial header here */}</header>
-      <div style={{ height: "60px" }}></div>
       <center>
         <div id="gameFrame"></div>
         <div className="descriptionBubble">
@@ -239,12 +226,12 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
                 marginLeft: "30px",
                 cursor: "pointer",
               }}
-              onClick={() => window.open(`/play/${params.id}`, "_blank")}
+              onClick={() => window.open(`/play/${params.id}`)}
             >
-              <img
-                src={`/img/${params.id}.jpg`}
-                width="220px"
-                height="136px"
+              <Image
+                src={`https://playem.io/img/${params.id}.jpg`}
+                width={220}
+                height={136}
                 style={{ borderRadius: "12px" }}
                 alt="Play Now"
               />
@@ -287,7 +274,7 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
               </div>
               <div
                 className="descriptionBubble-playButton"
-                onClick={() => window.open(`/play/${params.id}`, "_blank")}
+                onClick={() => window.open(`/play/${params.id}`)}
               >
                 Play Now
               </div>
@@ -318,14 +305,13 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
             width: "80%",
           }}
         >
-          <h2 id="lastPlayedTitle">Continue</h2>
-            <div id="lastPlayedList"></div>
-            {game.tags.map(
-                (tagId, index) =>
-                  tagData[tagId] && (
-                    <div key={index} id={`gameList-${tagId}`}></div>
-                  )
-              )}
+          <LastPlayedList />
+          {game.tags.map(
+            (tagId, index) =>
+              tagData[tagId] && (
+                <GameList displayMode={"short"} key={index} name={tagId} sortBy={"rating"} type={"tag"} />
+              )
+          )}
         </div>
         <div className="descriptionBubble">
           <h2>How to Play</h2>
@@ -361,9 +347,8 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
                     name: `Who created ${game.name}?`,
                     acceptedAnswer: {
                       "@type": "Answer",
-                      text: `${
-                        dev ? dev.name : game.dev
-                      } developed the software.`,
+                      text: `${dev ? dev.name : game.dev
+                        } developed the software.`,
                     },
                   },
                   {
@@ -388,88 +373,8 @@ const AppPage = ({ gameData, tagData, devData, params }) => {
           />
         </div>
       </center>
-
-
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `
-            updateLastPlayedList();
-            if (${JSON.stringify(dev)}) {
-              updateGameList('rating', 'dev', '${
-                game.dev
-              }', 'sameDeveloperList', 'short');
-            }
-            ${game.tags
-              .map(
-                (tagId, index) => `
-              document.getElementById('gameList').innerHTML += '<div id="gameList${
-                index + 1
-              }"></div>';
-              updateGameList('rating', 'tag', '${tagId}', 'gameList${
-                  index + 1
-                }', 'short');
-            `
-              )
-              .join("")}
-            window.addEventListener('resize', function() {
-              if (gameData["${params.id}"].iframe && false) resizeCanvas();
-            });
-            if (gameData["${params.id}"].iframe && false) resizeCanvas();
-            openGame("${params.id}");
-            var loadGame = function(id) {
-              var playsDisplay = gameData[id].plays === 0 ? '' :
-                gameData[id].plays >= 1000000 ? \`\${gameData[id].plays / 1000000}M Online\` :
-                gameData[id].plays >= 1000 ? \`\${gameData[id].plays / 1000}K Online\` : \`\${gameData[id].plays} Online\`;
-              document.getElementById('gameDetails').innerHTML = \`
-                <div style="margin: 10px">
-                  <img src="/img/\${id}.png" width="40px" height="40px" style="border-radius:12px" alt="\${gameData[params.id].name}" />
-                </div>
-                <div style="margin: 10px">
-                  <b>\${gameData[id].name}</b><br />
-                  \${playsDisplay}
-                </div>
-              \`;
-              if (false) {
-                document.getElementById('gameFrame').innerHTML = '<iframe id="gameIframe" src="/play/' + id + '" style="height:100%;width:100%;border:0;"></iframe>';
-              }
-            }
-            loadGame("${params.id}");
-          `,
-        }}
-      />
-      <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=G-QDV881PBPN"
-      ></script>
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-            gtag('config', 'G-QDV881PBPN');
-          `,
-        }}
-      />
     </>
   );
 };
-
-export async function getServerSideProps(context) {
-  const { params } = context;
-  const gameData = {}; // Fetch or import your gameData here
-  const tagData = {}; // Fetch or import your tagData here
-  const devData = {}; // Fetch or import your devData here
-
-  // Simulate fetching data
-  // You can replace the following with actual fetching logic
-  // const gameData = await fetchGameData();
-  // const tagData = await fetchTagData();
-  // const devData = await fetchDevData();
-
-  return {
-    props: { gameData, tagData, devData, params },
-  };
-}
 
 export default AppPage;

@@ -1,6 +1,8 @@
+import { useContext } from '@/pages/_app';
 import React from 'react';
 
-const Sitemap = ({ gameData, tagData, devData }) => {
+const Sitemap = () => {
+  const { gameData, tagData, devData } = useContext();
   return (
     <div style={{ backgroundColor: 'white', color: 'black'  }}>
     <urlset xmlnsXsi="http://www.w3.org/2001/XMLSchema-instance" xsiSchemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9">

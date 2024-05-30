@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
   return (
-    <Html lang="en">
+    <Html suppressHydrationWarning lang="en">
       <Head />
-      <body>
+      <body style={{ backgroundColor: "#2B2D31" }}>
         <Main />
         <NextScript />
       </body>
