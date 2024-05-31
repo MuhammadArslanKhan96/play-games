@@ -29,7 +29,6 @@ const HomePage = () => {
       <center>
         <div
           style={{
-            display: "inline-block",
             verticalAlign: "top",
             marginTop: "60px",
             marginBottom: "50px",

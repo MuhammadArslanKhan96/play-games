@@ -29,7 +29,7 @@ const AppPage = ({ params }) => {
   }, [game]);
 
   if (!game) {
-    return <div>404 - Game Not Found</div>; // Handle the case where the game is not found
+    return <div></div>; // Handle the case where the game is not found
   }
 
   var loadGame = function (id) {
@@ -156,13 +156,14 @@ const AppPage = ({ params }) => {
               display: "inline-block",
               marginLeft: "30px",
               cursor: "pointer",
+              borderRadius: "100%"
             }}
             onClick={() => window.open(`/play/${params.id}`)}
           >
             <Image
               src={`https://playem.io/img/${params.id}.jpg`}
-              width={220}
-              height={136}
+              width={25}
+              height={25}
               style={{ borderRadius: "12px" }}
               alt="Play Now"
             />

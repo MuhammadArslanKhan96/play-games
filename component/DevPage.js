@@ -9,7 +9,7 @@ export default function DevPage({ id }) {
   const { devData, gameData, tagData } = useContext();
 
   if (!devData[id]) {
-    return <div>404 - Game Not Found</div>; // Handle the case where the game is not found
+    return <div></div>; // Handle the case where the game is not found
   }
 
   const dev = devData[id];
@@ -50,7 +50,7 @@ export default function DevPage({ id }) {
       <body>
         {/* Include your header component here */}
         <center>
-          <div style={{ display: 'inline-block', verticalAlign: 'top', marginTop: '80px', marginBottom: '50px', width: '80%' }}>
+          <div style={{ verticalAlign: 'top', marginTop: '80px', marginBottom: '50px', width: '80%' }}>
             <LastPlayedList />
             <GameList displayMode={"full"} name={id} sortBy={"rating"} type={"dev"} />
           </div>

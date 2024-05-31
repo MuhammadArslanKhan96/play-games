@@ -15,7 +15,7 @@ const PlayPage = () => {
   }, [gameData, params.id]);
 
   if (!gameData[params.id]) {
-    return <div>404 - Game Not Found</div>; // Handle the case where the game is not found
+    return <div></div>; // Handle the case where the game is not found
   }
 
   return (

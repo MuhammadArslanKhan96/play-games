@@ -48,7 +48,7 @@ const TagPage = ({ id }) => {
       </Head>
       <body>
         <center>
-          <div style={{ display: 'inline-block', verticalAlign: 'top', marginTop: '60px', marginBottom: '50px', width: '80%' }}>
+          <div style={{ verticalAlign: 'top', marginTop: '60px', marginBottom: '50px', width: '80%' }}>
             <LastPlayedList />
             <GameList displayMode={'full'} name={id} sortBy={'rating'} type={"tag"} />
             {similarTags.map((item, key) => (
